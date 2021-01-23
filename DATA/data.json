@@ -1,0 +1,7810 @@
+[
+  {
+    "year": 2020,
+    "industry": "Total Nonfarm",
+    "month": {
+      "jan": "4620.80",
+      "feb": "4669",
+      "mar": "4597.6",
+      "apr": "3754.8",
+      "may": "3774.9",
+      "jun": "3875",
+      "jul": "3903.2",
+      "aug": "3989.2",
+      "sep": "4074.6",
+      "oct": "4127.2",
+      "nov": "0",
+      "dec": "0"
+    },
+    "annual": "0"
+  },
+  {
+    "year": 2020,
+    "industry": "Total Private",
+    "month": {
+      "jan": "4039.40",
+      "feb": "4077.7",
+      "mar": "4001.7",
+      "apr": "3176",
+      "may": "3205.7",
+      "jun": "3310.5",
+      "jul": "3391.3",
+      "aug": "3438.1",
+      "sep": "3479",
+      "oct": "3545.6",
+      "nov": "0",
+      "dec": "0"
+    },
+    "annual": "0"
+  },
+  {
+    "year": 2020,
+    "industry": "Goods Producing",
+    "month": {
+      "jan": "218.2",
+      "feb": "221.8",
+      "mar": "221.6",
+      "apr": "127.8",
+      "may": "151.6",
+      "jun": "178.5",
+      "jul": "189.9",
+      "aug": "194.7",
+      "sep": "196.9",
+      "oct": "196.4",
+      "nov": "0",
+      "dec": "0"
+    },
+    "annual": "0"
+  },
+  {
+    "year": 2020,
+    "industry": "Service Providing",
+    "month": {
+      "jan": "4402.60",
+      "feb": "4447.2",
+      "mar": "4376",
+      "apr": "3627",
+      "may": "3623.3",
+      "jun": "3696.5",
+      "jul": "3713.3",
+      "aug": "3794.5",
+      "sep": "3877.7",
+      "oct": "3930.8",
+      "nov": "0",
+      "dec": "0"
+    },
+    "annual": "0"
+  },
+  {
+    "year": 2020,
+    "industry": "Natural Resources, Mining and Construction",
+    "month": {
+      "jan": "152.3",
+      "feb": "154.7",
+      "mar": "154",
+      "apr": "80.6",
+      "may": "101.6",
+      "jun": "124.8",
+      "jul": "136",
+      "aug": "140.6",
+      "sep": "142.8",
+      "oct": "142.3",
+      "nov": "0",
+      "dec": "0"
+    },
+    "annual": "0"
+  },
+  {
+    "year": 2020,
+    "industry": "Manufacturing",
+    "month": {
+      "jan": "65.9",
+      "feb": "67.1",
+      "mar": "67.6",
+      "apr": "47.2",
+      "may": "50",
+      "jun": "53.7",
+      "jul": "53.9",
+      "aug": "54.1",
+      "sep": "54.1",
+      "oct": "54.1",
+      "nov": "0",
+      "dec": "0"
+    },
+    "annual": "0"
+  },
+  {
+    "year": 2020,
+    "industry": "Trade, Transportation, and Utilities",
+    "month": {
+      "jan": "629.4",
+      "feb": "622.3",
+      "mar": "613.3",
+      "apr": "471.7",
+      "may": "478.3",
+      "jun": "493.9",
+      "jul": "524.2",
+      "aug": "530.5",
+      "sep": "536.2",
+      "oct": "547.4",
+      "nov": "0",
+      "dec": "0"
+    },
+    "annual": "0"
+  },
+  {
+    "year": 2020,
+    "industry": "Retail Trade",
+    "month": {
+      "jan": "344.1",
+      "feb": "337.6",
+      "mar": "330.6",
+      "apr": "244.9",
+      "may": "259.5",
+      "jun": "274.2",
+      "jul": "298.4",
+      "aug": "302.8",
+      "sep": "304",
+      "oct": "308.5",
+      "nov": "0",
+      "dec": "0"
+    },
+    "annual": "0"
+  },
+  {
+    "year": 2020,
+    "industry": "Transportation, Warehousing, and Utilities",
+    "month": {
+      "jan": "148.6",
+      "feb": "146.5",
+      "mar": "145.8",
+      "apr": "111.6",
+      "may": "102.6",
+      "jun": "101.2",
+      "jul": "106.5",
+      "aug": "108.3",
+      "sep": "112.9",
+      "oct": "120.6",
+      "nov": "0",
+      "dec": "0"
+    },
+    "annual": "0"
+  },
+  {
+    "year": 2020,
+    "industry": "Information",
+    "month": {
+      "jan": "203.3",
+      "feb": "208.1",
+      "mar": "210.7",
+      "apr": "199.2",
+      "may": "195.9",
+      "jun": "198.8",
+      "jul": "201.3",
+      "aug": "204.4",
+      "sep": "203.8",
+      "oct": "206.9",
+      "nov": "0",
+      "dec": "0"
+    },
+    "annual": "0"
+  },
+  {
+    "year": 2020,
+    "industry": "Financial Activities",
+    "month": {
+      "jan": "475.3",
+      "feb": "477.7",
+      "mar": "462",
+      "apr": "455.6",
+      "may": "453.8",
+      "jun": "453.9",
+      "jul": "456.1",
+      "aug": "460.8",
+      "sep": "456.4",
+      "oct": "453.6",
+      "nov": "0",
+      "dec": "0"
+    },
+    "annual": "0"
+  },
+  {
+    "year": 2020,
+    "industry": "Professional and Business Services",
+    "month": {
+      "jan": "795.5",
+      "feb": "804.4",
+      "mar": "801.3",
+      "apr": "685.8",
+      "may": "680.9",
+      "jun": "684.3",
+      "jul": "691.6",
+      "aug": "695.7",
+      "sep": "697.7",
+      "oct": "712.4",
+      "nov": "0",
+      "dec": "0"
+    },
+    "annual": "0"
+  },
+  {
+    "year": 2020,
+    "industry": "Educational Services",
+    "month": {
+      "jan": "246.3",
+      "feb": "260.7",
+      "mar": "260.2",
+      "apr": "226.7",
+      "may": "221.8",
+      "jun": "212.4",
+      "jul": "208.9",
+      "aug": "208",
+      "sep": "209.4",
+      "oct": "225.2",
+      "nov": "0",
+      "dec": "0"
+    },
+    "annual": "0"
+  },
+  {
+    "year": 2020,
+    "industry": "Health Care and Social Assistance",
+    "month": {
+      "jan": "828.8",
+      "feb": "829.8",
+      "mar": "822.3",
+      "apr": "724.1",
+      "may": "725.2",
+      "jun": "745.7",
+      "jul": "744.4",
+      "aug": "749.8",
+      "sep": "766.4",
+      "oct": "778.1",
+      "nov": "0",
+      "dec": "0"
+    },
+    "annual": "0"
+  },
+  {
+    "year": 2020,
+    "industry": "Leisure and Hospitality",
+    "month": {
+      "jan": "446.7",
+      "feb": "452.6",
+      "mar": "415.4",
+      "apr": "148",
+      "may": "159.4",
+      "jun": "199.1",
+      "jul": "218.8",
+      "aug": "235.4",
+      "sep": "248.5",
+      "oct": "261.1",
+      "nov": "0",
+      "dec": "0"
+    },
+    "annual": "0"
+  },
+  {
+    "year": 2020,
+    "industry": "Accommodation and Food Services",
+    "month": {
+      "jan": "361.4",
+      "feb": "365.9",
+      "mar": "329.2",
+      "apr": "113.9",
+      "may": "128.5",
+      "jun": "166.2",
+      "jul": "189",
+      "aug": "202.9",
+      "sep": "215.2",
+      "oct": "227.1",
+      "nov": "0",
+      "dec": "0"
+    },
+    "annual": "0"
+  },
+  {
+    "year": 2020,
+    "industry": "Other Services",
+    "month": {
+      "jan": "195.9",
+      "feb": "200.3",
+      "mar": "194.9",
+      "apr": "137.1",
+      "may": "138.8",
+      "jun": "143.9",
+      "jul": "156.1",
+      "aug": "158.8",
+      "sep": "163.7",
+      "oct": "164.5",
+      "nov": "0",
+      "dec": "0"
+    },
+    "annual": "0"
+  },
+  {
+    "year": 2020,
+    "industry": "Government",
+    "month": {
+      "jan": "581.4",
+      "feb": "591.3",
+      "mar": "595.9",
+      "apr": "578.8",
+      "may": "569.2",
+      "jun": "564.5",
+      "jul": "511.9",
+      "aug": "551.1",
+      "sep": "595.6",
+      "oct": "581.6",
+      "nov": "0",
+      "dec": "0"
+    },
+    "annual": "0"
+  },
+  {
+    "year": 2019,
+    "industry": "Total Nonfarm",
+    "month": {
+      "jan": "4544.9",
+      "feb": "4593.70",
+      "mar": "4624.1",
+      "apr": "4648.7",
+      "may": "4657.50",
+      "jun": "4669",
+      "jul": "4631.5",
+      "aug": "4616.00",
+      "sep": "4652.3",
+      "oct": "4700.6",
+      "nov": "4738.6",
+      "dec": "4739.8"
+    },
+    "annual": "4651.4"
+  },
+  {
+    "year": 2019,
+    "industry": "Total Private",
+    "month": {
+      "jan": "3973.4",
+      "feb": "4012.60",
+      "mar": "4038.8",
+      "apr": "4063.2",
+      "may": "4069.60",
+      "jun": "4080.1",
+      "jul": "4051.2",
+      "aug": "4040.30",
+      "sep": "4062.6",
+      "oct": "4099.5",
+      "nov": "4132.9",
+      "dec": "4137.1"
+    },
+    "annual": "4063.4"
+  },
+  {
+    "year": 2019,
+    "industry": "Goods Producing",
+    "month": {
+      "jan": "223.2",
+      "feb": "224.7",
+      "mar": "226.4",
+      "apr": "228.9",
+      "may": "228.8",
+      "jun": "229.9",
+      "jul": "229.5",
+      "aug": "229.5",
+      "sep": "229",
+      "oct": "226.1",
+      "nov": "225.3",
+      "dec": "224.2"
+    },
+    "annual": "227.1"
+  },
+  {
+    "year": 2019,
+    "industry": "Service Providing",
+    "month": {
+      "jan": "4321.7",
+      "feb": "4369.00",
+      "mar": "4397.7",
+      "apr": "4419.8",
+      "may": "4428.70",
+      "jun": "4439.1",
+      "jul": "4402",
+      "aug": "4386.50",
+      "sep": "4423.3",
+      "oct": "4474.5",
+      "nov": "4513.3",
+      "dec": "4515.6"
+    },
+    "annual": "4424.3"
+  },
+  {
+    "year": 2019,
+    "industry": "Natural Resources, Mining and Construction",
+    "month": {
+      "jan": "155.7",
+      "feb": "157.1",
+      "mar": "158.6",
+      "apr": "161.3",
+      "may": "161.1",
+      "jun": "161.9",
+      "jul": "162.7",
+      "aug": "162.9",
+      "sep": "162.4",
+      "oct": "159.6",
+      "nov": "158.3",
+      "dec": "156.9"
+    },
+    "annual": "159.9"
+  },
+  {
+    "year": 2019,
+    "industry": "Manufacturing",
+    "month": {
+      "jan": "67.5",
+      "feb": "67.6",
+      "mar": "67.8",
+      "apr": "67.6",
+      "may": "67.7",
+      "jun": "68",
+      "jul": "66.8",
+      "aug": "66.6",
+      "sep": "66.6",
+      "oct": "66.5",
+      "nov": "67",
+      "dec": "67.3"
+    },
+    "annual": "67.3"
+  },
+  {
+    "year": 2019,
+    "industry": "Trade, Transportation, and Utilities",
+    "month": {
+      "jan": "636",
+      "feb": "627.3",
+      "mar": "628.1",
+      "apr": "627.5",
+      "may": "629.5",
+      "jun": "635.2",
+      "jul": "626.4",
+      "aug": "622.2",
+      "sep": "629.9",
+      "oct": "632.4",
+      "nov": "646.3",
+      "dec": "651.9"
+    },
+    "annual": "632.7"
+  },
+  {
+    "year": 2019,
+    "industry": "Retail Trade",
+    "month": {
+      "jan": "348.9",
+      "feb": "342.2",
+      "mar": "342.6",
+      "apr": "342.7",
+      "may": "343.2",
+      "jun": "345.7",
+      "jul": "343.4",
+      "aug": "342.3",
+      "sep": "342.3",
+      "oct": "345.5",
+      "nov": "355.4",
+      "dec": "359.1"
+    },
+    "annual": "346.1"
+  },
+  {
+    "year": 2019,
+    "industry": "Transportation, Warehousing, and Utilities",
+    "month": {
+      "jan": "147.9",
+      "feb": "145.7",
+      "mar": "145.8",
+      "apr": "145.7",
+      "may": "146.8",
+      "jun": "148.9",
+      "jul": "142.8",
+      "aug": "140.5",
+      "sep": "148.6",
+      "oct": "150.4",
+      "nov": "152.3",
+      "dec": "154.8"
+    },
+    "annual": "147.5"
+  },
+  {
+    "year": 2019,
+    "industry": "Information",
+    "month": {
+      "jan": "201.4",
+      "feb": "205.4",
+      "mar": "208.5",
+      "apr": "210.2",
+      "may": "211.3",
+      "jun": "213.6",
+      "jul": "213.4",
+      "aug": "215.8",
+      "sep": "213.5",
+      "oct": "212.5",
+      "nov": "216.7",
+      "dec": "212.6"
+    },
+    "annual": "211.2"
+  },
+  {
+    "year": 2019,
+    "industry": "Financial Activities",
+    "month": {
+      "jan": "475.9",
+      "feb": "478.2",
+      "mar": "478.2",
+      "apr": "477.5",
+      "may": "478.3",
+      "jun": "486.7",
+      "jul": "490.9",
+      "aug": "491.4",
+      "sep": "481.6",
+      "oct": "482.8",
+      "nov": "483.1",
+      "dec": "483.7"
+    },
+    "annual": "482.4"
+  },
+  {
+    "year": 2019,
+    "industry": "Professional and Business Services",
+    "month": {
+      "jan": "771.4",
+      "feb": "777.6",
+      "mar": "782.5",
+      "apr": "789.2",
+      "may": "789",
+      "jun": "800.9",
+      "jul": "802.7",
+      "aug": "800.9",
+      "sep": "795.6",
+      "oct": "806.3",
+      "nov": "805.2",
+      "dec": "807.4"
+    },
+    "annual": "794.1"
+  },
+  {
+    "year": 2019,
+    "industry": "Educational Services",
+    "month": {
+      "jan": "248.6",
+      "feb": "273.1",
+      "mar": "274.8",
+      "apr": "276.1",
+      "may": "265.5",
+      "jun": "239.3",
+      "jul": "225.9",
+      "aug": "223.2",
+      "sep": "246.9",
+      "oct": "262.5",
+      "nov": "267",
+      "dec": "263.9"
+    },
+    "annual": "255.6"
+  },
+  {
+    "year": 2019,
+    "industry": "Health Care and Social Assistance",
+    "month": {
+      "jan": "775.8",
+      "feb": "780.6",
+      "mar": "788.1",
+      "apr": "792.2",
+      "may": "797.3",
+      "jun": "800.6",
+      "jul": "796.8",
+      "aug": "796.1",
+      "sep": "801.5",
+      "oct": "813",
+      "nov": "823.3",
+      "dec": "827.9"
+    },
+    "annual": "799.4"
+  },
+  {
+    "year": 2019,
+    "industry": "Leisure and Hospitality",
+    "month": {
+      "jan": "449.2",
+      "feb": "451.8",
+      "mar": "458.3",
+      "apr": "466.8",
+      "may": "474.8",
+      "jun": "478.4",
+      "jul": "471.8",
+      "aug": "467.6",
+      "sep": "470.9",
+      "oct": "466.7",
+      "nov": "469.3",
+      "dec": "469.3"
+    },
+    "annual": "466.2"
+  },
+  {
+    "year": 2019,
+    "industry": "Accommodation and Food Services",
+    "month": {
+      "jan": "359.1",
+      "feb": "360.5",
+      "mar": "365.5",
+      "apr": "371.9",
+      "may": "377.7",
+      "jun": "380.8",
+      "jul": "374.9",
+      "aug": "372.4",
+      "sep": "376.3",
+      "oct": "373.5",
+      "nov": "375.8",
+      "dec": "376.8"
+    },
+    "annual": "372.1"
+  },
+  {
+    "year": 2019,
+    "industry": "Government",
+    "month": {
+      "jan": "571.5",
+      "feb": "581.1",
+      "mar": "585.3",
+      "apr": "585.5",
+      "may": "587.9",
+      "jun": "588.9",
+      "jul": "580.3",
+      "aug": "575.7",
+      "sep": "589.7",
+      "oct": "601.1",
+      "nov": "605.7",
+      "dec": "602.7"
+    },
+    "annual": "588"
+  },
+  {
+    "year": 2018,
+    "industry": "Total Nonfarm",
+    "month": {
+      "jan": "4435.90",
+      "feb": "4492.90",
+      "mar": "4520.80",
+      "apr": "4531.10",
+      "may": "4548.00",
+      "jun": "4568.20",
+      "jul": "4536.00",
+      "aug": "4515.60",
+      "sep": "4549.10",
+      "oct": "4625.90",
+      "nov": "4668.90",
+      "dec": "4677.10"
+    },
+    "annual": "4555.80"
+  },
+  {
+    "year": 2018,
+    "industry": "Total Private",
+    "month": {
+      "jan": "3864.00",
+      "feb": "3911.90",
+      "mar": "3935.10",
+      "apr": "3944.20",
+      "may": "3959.90",
+      "jun": "3981.20",
+      "jul": "3955.30",
+      "aug": "3945.00",
+      "sep": "3962.70",
+      "oct": "4037.30",
+      "nov": "4072.90",
+      "dec": "4084.20"
+    },
+    "annual": "3971.10"
+  },
+  {
+    "year": 2018,
+    "industry": "Goods Producing",
+    "month": {
+      "jan": "220.1",
+      "feb": "223.3",
+      "mar": "225.3",
+      "apr": "227",
+      "may": "229.3",
+      "jun": "231.8",
+      "jul": "231.9",
+      "aug": "231.8",
+      "sep": "231.6",
+      "oct": "233.3",
+      "nov": "232.6",
+      "dec": "231.3"
+    },
+    "annual": "229.1"
+  },
+  {
+    "year": 2018,
+    "industry": "Service Providing",
+    "month": {
+      "jan": "4215.80",
+      "feb": "4269.60",
+      "mar": "4295.50",
+      "apr": "4304.10",
+      "may": "4318.70",
+      "jun": "4336.40",
+      "jul": "4304.10",
+      "aug": "4283.80",
+      "sep": "4317.50",
+      "oct": "4392.60",
+      "nov": "4436.30",
+      "dec": "4445.80"
+    },
+    "annual": "4326.70"
+  },
+  {
+    "year": 2018,
+    "industry": "Natural Resources, Mining and Construction",
+    "month": {
+      "jan": "149.3",
+      "feb": "152.1",
+      "mar": "154.1",
+      "apr": "156.3",
+      "may": "158.5",
+      "jun": "160.6",
+      "jul": "161.8",
+      "aug": "161.7",
+      "sep": "162",
+      "oct": "164",
+      "nov": "163.3",
+      "dec": "162"
+    },
+    "annual": "158.8"
+  },
+  {
+    "year": 2018,
+    "industry": "Manufacturing",
+    "month": {
+      "jan": "70.8",
+      "feb": "71.2",
+      "mar": "71.2",
+      "apr": "70.7",
+      "may": "70.8",
+      "jun": "71.2",
+      "jul": "70.1",
+      "aug": "70.1",
+      "sep": "69.6",
+      "oct": "69.3",
+      "nov": "69.3",
+      "dec": "69.3"
+    },
+    "annual": "70.3"
+  },
+  {
+    "year": 2018,
+    "industry": "Trade, Transportation, and Utilities",
+    "month": {
+      "jan": "631.5",
+      "feb": "624.4",
+      "mar": "624.3",
+      "apr": "624.2",
+      "may": "628.4",
+      "jun": "633.3",
+      "jul": "625.7",
+      "aug": "622.9",
+      "sep": "630.9",
+      "oct": "637.7",
+      "nov": "655.9",
+      "dec": "662"
+    },
+    "annual": "633.4"
+  },
+  {
+    "year": 2018,
+    "industry": "Transportation, Warehousing, and Utilities",
+    "month": {
+      "jan": "141.2",
+      "feb": "139.1",
+      "mar": "139.5",
+      "apr": "140",
+      "may": "141.6",
+      "jun": "142.9",
+      "jul": "136.8",
+      "aug": "135.7",
+      "sep": "143.2",
+      "oct": "145.6",
+      "nov": "151.3",
+      "dec": "153.7"
+    },
+    "annual": "142.6"
+  },
+  {
+    "year": 2018,
+    "industry": "Information",
+    "month": {
+      "jan": "194.4",
+      "feb": "201.3",
+      "mar": "203.7",
+      "apr": "199.8",
+      "may": "201.7",
+      "jun": "207",
+      "jul": "206.3",
+      "aug": "207",
+      "sep": "206.4",
+      "oct": "210.6",
+      "nov": "212.4",
+      "dec": "210.3"
+    },
+    "annual": "205.1"
+  },
+  {
+    "year": 2018,
+    "industry": "Financial Activities",
+    "month": {
+      "jan": "466.7",
+      "feb": "469.5",
+      "mar": "469.5",
+      "apr": "467.4",
+      "may": "468.4",
+      "jun": "479",
+      "jul": "483.5",
+      "aug": "483.3",
+      "sep": "474.9",
+      "oct": "477.9",
+      "nov": "478.4",
+      "dec": "480.5"
+    },
+    "annual": "474.9"
+  },
+  {
+    "year": 2018,
+    "industry": "Professional and Business Services",
+    "month": {
+      "jan": "742.2",
+      "feb": "749",
+      "mar": "752.3",
+      "apr": "753.8",
+      "may": "757.9",
+      "jun": "770.1",
+      "jul": "771",
+      "aug": "771.1",
+      "sep": "766.1",
+      "oct": "777.8",
+      "nov": "786.3",
+      "dec": "787.6"
+    },
+    "annual": "765.4"
+  },
+  {
+    "year": 2018,
+    "industry": "Educational Services",
+    "month": {
+      "jan": "245.9",
+      "feb": "269.6",
+      "mar": "271.4",
+      "apr": "273.4",
+      "may": "262.7",
+      "jun": "237.6",
+      "jul": "227.7",
+      "aug": "224.8",
+      "sep": "242.6",
+      "oct": "270",
+      "nov": "272.4",
+      "dec": "268.9"
+    },
+    "annual": "255.6"
+  },
+  {
+    "year": 2018,
+    "industry": "Health Care and Social Assistance",
+    "month": {
+      "jan": "726.4",
+      "feb": "733.6",
+      "mar": "737.5",
+      "apr": "741.8",
+      "may": "748.1",
+      "jun": "752.3",
+      "jul": "749.1",
+      "aug": "750",
+      "sep": "753.1",
+      "oct": "766.7",
+      "nov": "771.4",
+      "dec": "778"
+    },
+    "annual": "750.7"
+  },
+  {
+    "year": 2018,
+    "industry": "Leisure and Hospitality",
+    "month": {
+      "jan": "447",
+      "feb": "450.2",
+      "mar": "458.8",
+      "apr": "464.2",
+      "may": "469.7",
+      "jun": "475.4",
+      "jul": "467.7",
+      "aug": "462.4",
+      "sep": "465.5",
+      "oct": "468.5",
+      "nov": "468.2",
+      "dec": "470.7"
+    },
+    "annual": "464"
+  },
+  {
+    "year": 2018,
+    "industry": "Accommodation and Food Services",
+    "month": {
+      "jan": "358.9",
+      "feb": "360",
+      "mar": "365",
+      "apr": "369.4",
+      "may": "375.6",
+      "jun": "379.6",
+      "jul": "373.1",
+      "aug": "369.7",
+      "sep": "372.8",
+      "oct": "373.1",
+      "nov": "373.1",
+      "dec": "375.6"
+    },
+    "annual": "370.5"
+  },
+  {
+    "year": 2018,
+    "industry": "Other Services",
+    "month": {
+      "jan": "189.8",
+      "feb": "191",
+      "mar": "192.3",
+      "apr": "192.6",
+      "may": "193.7",
+      "jun": "194.7",
+      "jul": "192.4",
+      "aug": "191.7",
+      "sep": "191.6",
+      "oct": "194.8",
+      "nov": "195.3",
+      "dec": "194.9"
+    },
+    "annual": "192.9"
+  },
+  {
+    "year": 2018,
+    "industry": "Government",
+    "month": {
+      "jan": "571.9",
+      "feb": "581",
+      "mar": "585.7",
+      "apr": "586.9",
+      "may": "588.1",
+      "jun": "587",
+      "jul": "580.7",
+      "aug": "570.6",
+      "sep": "586.4",
+      "oct": "588.6",
+      "nov": "596",
+      "dec": "592.9"
+    },
+    "annual": "584.7"
+  },
+  {
+    "year": 2017,
+    "industry": "Total Nonfarm",
+    "month": {
+      "jan": "4357.10",
+      "feb": "4404.60",
+      "mar": "4423.80",
+      "apr": "4434.60",
+      "may": "4460.70",
+      "jun": "4469.20",
+      "jul": "4459.10",
+      "aug": "4435.70",
+      "sep": "4460.90",
+      "oct": "4525.40",
+      "nov": "4563.90",
+      "dec": "4581.20"
+    },
+    "annual": "4464.70"
+  },
+  {
+    "year": 2017,
+    "industry": "Total Private",
+    "month": {
+      "jan": "3783.60",
+      "feb": "3822.20",
+      "mar": "3837.70",
+      "apr": "3847.00",
+      "may": "3873.50",
+      "jun": "3888.90",
+      "jul": "3862.60",
+      "aug": "3857.10",
+      "sep": "3882.90",
+      "oct": "3937.70",
+      "nov": "3975.20",
+      "dec": "3991.40"
+    },
+    "annual": "3880.00"
+  },
+  {
+    "year": 2017,
+    "industry": "Goods Producing",
+    "month": {
+      "jan": "217.8",
+      "feb": "218.8",
+      "mar": "219.4",
+      "apr": "222.8",
+      "may": "225.3",
+      "jun": "227.2",
+      "jul": "227.7",
+      "aug": "228.4",
+      "sep": "228.8",
+      "oct": "230.7",
+      "nov": "231.8",
+      "dec": "229.6"
+    },
+    "annual": "225.7"
+  },
+  {
+    "year": 2017,
+    "industry": "Service Providing",
+    "month": {
+      "jan": "4139.30",
+      "feb": "4185.80",
+      "mar": "4204.40",
+      "apr": "4211.80",
+      "may": "4235.40",
+      "jun": "4242.00",
+      "jul": "4231.40",
+      "aug": "4207.30",
+      "sep": "4232.10",
+      "oct": "4294.70",
+      "nov": "4332.10",
+      "dec": "4351.60"
+    },
+    "annual": "4239.00"
+  },
+  {
+    "year": 2017,
+    "industry": "Natural Resources, Mining and Construction",
+    "month": {
+      "jan": "144.5",
+      "feb": "145.1",
+      "mar": "145.5",
+      "apr": "149.2",
+      "may": "151.5",
+      "jun": "153.2",
+      "jul": "154.7",
+      "aug": "155.7",
+      "sep": "156",
+      "oct": "158.2",
+      "nov": "159",
+      "dec": "157.1"
+    },
+    "annual": "152.5"
+  },
+  {
+    "year": 2017,
+    "industry": "Manufacturing",
+    "month": {
+      "jan": "73.3",
+      "feb": "73.7",
+      "mar": "73.9",
+      "apr": "73.6",
+      "may": "73.8",
+      "jun": "74",
+      "jul": "73",
+      "aug": "72.7",
+      "sep": "72.8",
+      "oct": "72.5",
+      "nov": "72.8",
+      "dec": "72.5"
+    },
+    "annual": "73.2"
+  },
+  {
+    "year": 2017,
+    "industry": "Trade, Transportation, and Utilities",
+    "month": {
+      "jan": "629.6",
+      "feb": "622.8",
+      "mar": "623",
+      "apr": "623.2",
+      "may": "629",
+      "jun": "632",
+      "jul": "624.4",
+      "aug": "622.5",
+      "sep": "630.3",
+      "oct": "634.5",
+      "nov": "649.9",
+      "dec": "657.2"
+    },
+    "annual": "631.5"
+  },
+  {
+    "year": 2017,
+    "industry": "Retail Trade",
+    "month": {
+      "jan": "351.2",
+      "feb": "345.1",
+      "mar": "344.1",
+      "apr": "345.7",
+      "may": "348.4",
+      "jun": "349.5",
+      "jul": "347.7",
+      "aug": "346.8",
+      "sep": "348.4",
+      "oct": "352.1",
+      "nov": "363.2",
+      "dec": "366.4"
+    },
+    "annual": "350.7"
+  },
+  {
+    "year": 2017,
+    "industry": "Transportation, Warehousing, and Utilities",
+    "month": {
+      "jan": "137.9",
+      "feb": "136.9",
+      "mar": "138.1",
+      "apr": "136",
+      "may": "138.2",
+      "jun": "139.1",
+      "jul": "133.8",
+      "aug": "133.2",
+      "sep": "139.3",
+      "oct": "140.2",
+      "nov": "143.8",
+      "dec": "147.1"
+    },
+    "annual": "138.6"
+  },
+  {
+    "year": 2017,
+    "industry": "Information",
+    "month": {
+      "jan": "192.4",
+      "feb": "195.4",
+      "mar": "196.5",
+      "apr": "194.7",
+      "may": "196",
+      "jun": "199.3",
+      "jul": "201.8",
+      "aug": "204.3",
+      "sep": "204.6",
+      "oct": "205.9",
+      "nov": "207.6",
+      "dec": "208"
+    },
+    "annual": "200.5"
+  },
+  {
+    "year": 2017,
+    "industry": "Financial Activities",
+    "month": {
+      "jan": "460.3",
+      "feb": "462.3",
+      "mar": "462.7",
+      "apr": "459.9",
+      "may": "461.5",
+      "jun": "471.2",
+      "jul": "474.1",
+      "aug": "475.1",
+      "sep": "467.6",
+      "oct": "470",
+      "nov": "471.4",
+      "dec": "474.4"
+    },
+    "annual": "467.5"
+  },
+  {
+    "year": 2017,
+    "industry": "Professional and Business Services",
+    "month": {
+      "jan": "723.1",
+      "feb": "730.8",
+      "mar": "733",
+      "apr": "732.6",
+      "may": "736.6",
+      "jun": "747.8",
+      "jul": "748.9",
+      "aug": "746.2",
+      "sep": "744.9",
+      "oct": "750.6",
+      "nov": "757.9",
+      "dec": "760.8"
+    },
+    "annual": "742.8"
+  },
+  {
+    "year": 2017,
+    "industry": "Educational Services",
+    "month": {
+      "jan": "241.5",
+      "feb": "263.2",
+      "mar": "264.8",
+      "apr": "265.3",
+      "may": "257.7",
+      "jun": "236.6",
+      "jul": "222.8",
+      "aug": "221",
+      "sep": "238.9",
+      "oct": "264",
+      "nov": "266.5",
+      "dec": "264.4"
+    },
+    "annual": "250.6"
+  },
+  {
+    "year": 2017,
+    "industry": "Health Care and Social Assistance",
+    "month": {
+      "jan": "695.3",
+      "feb": "700.3",
+      "mar": "704.1",
+      "apr": "703.4",
+      "may": "708.9",
+      "jun": "711.9",
+      "jul": "708.5",
+      "aug": "706.9",
+      "sep": "711.6",
+      "oct": "722",
+      "nov": "728.7",
+      "dec": "733.9"
+    },
+    "annual": "711.3"
+  },
+  {
+    "year": 2017,
+    "industry": "Leisure and Hospitality",
+    "month": {
+      "jan": "434.7",
+      "feb": "439.2",
+      "mar": "444.3",
+      "apr": "454.2",
+      "may": "466",
+      "jun": "469.4",
+      "jul": "462.9",
+      "aug": "462.4",
+      "sep": "464.7",
+      "oct": "466.7",
+      "nov": "467.9",
+      "dec": "468.7"
+    },
+    "annual": "458.4"
+  },
+  {
+    "year": 2017,
+    "industry": "Accommodation and Food Services",
+    "month": {
+      "jan": "349.4",
+      "feb": "352.3",
+      "mar": "356.1",
+      "apr": "363.4",
+      "may": "373.6",
+      "jun": "377.6",
+      "jul": "371.2",
+      "aug": "371.7",
+      "sep": "374.7",
+      "oct": "375.4",
+      "nov": "375.1",
+      "dec": "376.1"
+    },
+    "annual": "368.1"
+  },
+  {
+    "year": 2017,
+    "industry": "Other Services",
+    "month": {
+      "jan": "188.9",
+      "feb": "189.4",
+      "mar": "189.9",
+      "apr": "190.9",
+      "may": "192.5",
+      "jun": "193.5",
+      "jul": "191.5",
+      "aug": "190.3",
+      "sep": "191.5",
+      "oct": "193.3",
+      "nov": "193.5",
+      "dec": "194.4"
+    },
+    "annual": "191.6"
+  },
+  {
+    "year": 2017,
+    "industry": "Government",
+    "month": {
+      "jan": "573.5",
+      "feb": "582.4",
+      "mar": "586.1",
+      "apr": "587.6",
+      "may": "587.2",
+      "jun": "580.3",
+      "jul": "596.5",
+      "aug": "578.6",
+      "sep": "578",
+      "oct": "587.7",
+      "nov": "588.7",
+      "dec": "589.8"
+    },
+    "annual": "584.7"
+  },
+  {
+    "year": 2016,
+    "industry": "Total Nonfarm",
+    "month": {
+      "jan": "4276.80",
+      "feb": "4315.80",
+      "mar": "4341.70",
+      "apr": "4371.60",
+      "may": "4364.30",
+      "jun": "4370.80",
+      "jul": "4375.90",
+      "aug": "4356.20",
+      "sep": "4374.10",
+      "oct": "4429.10",
+      "nov": "4466.00",
+      "dec": "4483.70"
+    },
+    "annual": "4377.20"
+  },
+  {
+    "year": 2016,
+    "industry": "Total Private",
+    "month": {
+      "jan": "3707.50",
+      "feb": "3736.60",
+      "mar": "3758.20",
+      "apr": "3786.40",
+      "may": "3779.00",
+      "jun": "3792.10",
+      "jul": "3781.00",
+      "aug": "3772.60",
+      "sep": "3796.10",
+      "oct": "3842.20",
+      "nov": "3876.60",
+      "dec": "3893.60"
+    },
+    "annual": "3793.50"
+  },
+  {
+    "year": 2016,
+    "industry": "Goods Producing",
+    "month": {
+      "jan": "216",
+      "feb": "216.1",
+      "mar": "218.8",
+      "apr": "222.7",
+      "may": "223.5",
+      "jun": "225.1",
+      "jul": "226.7",
+      "aug": "227.7",
+      "sep": "226.7",
+      "oct": "226.8",
+      "nov": "226.2",
+      "dec": "224.4"
+    },
+    "annual": "223.4"
+  },
+  {
+    "year": 2016,
+    "industry": "Service Providing",
+    "month": {
+      "jan": "4060.80",
+      "feb": "4099.70",
+      "mar": "4122.90",
+      "apr": "4148.90",
+      "may": "4140.80",
+      "jun": "4145.70",
+      "jul": "4149.20",
+      "aug": "4128.50",
+      "sep": "4147.40",
+      "oct": "4202.30",
+      "nov": "4239.80",
+      "dec": "4259.30"
+    },
+    "annual": "4153.80"
+  },
+  {
+    "year": 2016,
+    "industry": "Natural Resources, Mining and Construction",
+    "month": {
+      "jan": "139.7",
+      "feb": "139.1",
+      "mar": "141.9",
+      "apr": "146.2",
+      "may": "147",
+      "jun": "148.5",
+      "jul": "150.6",
+      "aug": "151.8",
+      "sep": "151.1",
+      "oct": "151.1",
+      "nov": "150.7",
+      "dec": "149.2"
+    },
+    "annual": "147.2"
+  },
+  {
+    "year": 2016,
+    "industry": "Manufacturing",
+    "month": {
+      "jan": "76.3",
+      "feb": "77",
+      "mar": "76.9",
+      "apr": "76.5",
+      "may": "76.5",
+      "jun": "76.6",
+      "jul": "76.1",
+      "aug": "75.9",
+      "sep": "75.6",
+      "oct": "75.7",
+      "nov": "75.5",
+      "dec": "75.2"
+    },
+    "annual": "76.2"
+  },
+  {
+    "year": 2016,
+    "industry": "Trade, Transportation, and Utilities",
+    "month": {
+      "jan": "626.8",
+      "feb": "621.2",
+      "mar": "620.9",
+      "apr": "624.8",
+      "may": "623.7",
+      "jun": "628.1",
+      "jul": "619.2",
+      "aug": "617.2",
+      "sep": "625.2",
+      "oct": "632.7",
+      "nov": "645.4",
+      "dec": "653.9"
+    },
+    "annual": "628.3"
+  },
+  {
+    "year": 2016,
+    "industry": "Retail Trade",
+    "month": {
+      "jan": "348",
+      "feb": "343.1",
+      "mar": "342.5",
+      "apr": "345.1",
+      "may": "345.2",
+      "jun": "348.2",
+      "jul": "346.1",
+      "aug": "346",
+      "sep": "347.3",
+      "oct": "353.1",
+      "nov": "364.1",
+      "dec": "367.9"
+    },
+    "annual": "349.7"
+  },
+  {
+    "year": 2016,
+    "industry": "Transportation, Warehousing, and Utilities",
+    "month": {
+      "jan": "135.2",
+      "feb": "134",
+      "mar": "134.7",
+      "apr": "136.3",
+      "may": "135.3",
+      "jun": "136.1",
+      "jul": "129.8",
+      "aug": "128.1",
+      "sep": "135.3",
+      "oct": "136.9",
+      "nov": "138.4",
+      "dec": "142.4"
+    },
+    "annual": "135.2"
+  },
+  {
+    "year": 2016,
+    "industry": "Information",
+    "month": {
+      "jan": "187.1",
+      "feb": "188.7",
+      "mar": "190.3",
+      "apr": "191.7",
+      "may": "185.5",
+      "jun": "193.2",
+      "jul": "198.1",
+      "aug": "198.2",
+      "sep": "196.8",
+      "oct": "199.2",
+      "nov": "200.2",
+      "dec": "200.8"
+    },
+    "annual": "194.2"
+  },
+  {
+    "year": 2016,
+    "industry": "Financial Activities",
+    "month": {
+      "jan": "461.4",
+      "feb": "462",
+      "mar": "462.1",
+      "apr": "460.6",
+      "may": "462",
+      "jun": "468.7",
+      "jul": "471.2",
+      "aug": "471.4",
+      "sep": "461.9",
+      "oct": "463.1",
+      "nov": "464.3",
+      "dec": "466.9"
+    },
+    "annual": "464.6"
+  },
+  {
+    "year": 2016,
+    "industry": "Professional and Business Services",
+    "month": {
+      "jan": "703.4",
+      "feb": "707.4",
+      "mar": "711.4",
+      "apr": "715.3",
+      "may": "715.3",
+      "jun": "723.9",
+      "jul": "728.8",
+      "aug": "729.2",
+      "sep": "727.6",
+      "oct": "732.6",
+      "nov": "738.3",
+      "dec": "739.6"
+    },
+    "annual": "722.7"
+  },
+  {
+    "year": 2016,
+    "industry": "Educational Services",
+    "month": {
+      "jan": "237.7",
+      "feb": "258.7",
+      "mar": "260",
+      "apr": "262.3",
+      "may": "254.8",
+      "jun": "231.8",
+      "jul": "220.7",
+      "aug": "219",
+      "sep": "238.5",
+      "oct": "260.2",
+      "nov": "263.6",
+      "dec": "262.6"
+    },
+    "annual": "247.5"
+  },
+  {
+    "year": 2016,
+    "industry": "Health Care and Social Assistance",
+    "month": {
+      "jan": "668.4",
+      "feb": "670.5",
+      "mar": "674.5",
+      "apr": "677.3",
+      "may": "679.6",
+      "jun": "681.1",
+      "jul": "679.3",
+      "aug": "677.3",
+      "sep": "681.2",
+      "oct": "688.2",
+      "nov": "695.3",
+      "dec": "701.2"
+    },
+    "annual": "681.2"
+  },
+  {
+    "year": 2016,
+    "industry": "Leisure and Hospitality",
+    "month": {
+      "jan": "420.9",
+      "feb": "424.3",
+      "mar": "432.5",
+      "apr": "441.9",
+      "may": "443.8",
+      "jun": "449",
+      "jul": "446.5",
+      "aug": "442.7",
+      "sep": "447.5",
+      "oct": "447.1",
+      "nov": "450.6",
+      "dec": "451.8"
+    },
+    "annual": "441.6"
+  },
+  {
+    "year": 2016,
+    "industry": "Accommodation and Food Services",
+    "month": {
+      "jan": "337.4",
+      "feb": "338.8",
+      "mar": "344.6",
+      "apr": "352.9",
+      "may": "356",
+      "jun": "360.8",
+      "jul": "357.5",
+      "aug": "356.2",
+      "sep": "360.2",
+      "oct": "359.3",
+      "nov": "361.3",
+      "dec": "363.2"
+    },
+    "annual": "354"
+  },
+  {
+    "year": 2016,
+    "industry": "Other Services",
+    "month": {
+      "jan": "185.8",
+      "feb": "187.7",
+      "mar": "187.7",
+      "apr": "189.8",
+      "may": "190.8",
+      "jun": "191.2",
+      "jul": "190.5",
+      "aug": "189.9",
+      "sep": "190.7",
+      "oct": "192.3",
+      "nov": "192.7",
+      "dec": "192.4"
+    },
+    "annual": "190.1"
+  },
+  {
+    "year": 2016,
+    "industry": "Government",
+    "month": {
+      "jan": "569.3",
+      "feb": "579.2",
+      "mar": "583.5",
+      "apr": "585.2",
+      "may": "585.3",
+      "jun": "578.7",
+      "jul": "594.9",
+      "aug": "583.6",
+      "sep": "578",
+      "oct": "586.9",
+      "nov": "589.4",
+      "dec": "590.1"
+    },
+    "annual": "583.7"
+  },
+  {
+    "year": 2015,
+    "industry": "Total Nonfarm",
+    "month": {
+      "jan": "4168.30",
+      "feb": "4208.30",
+      "mar": "4230.70",
+      "apr": "4259.90",
+      "may": "4279.70",
+      "jun": "4280.10",
+      "jul": "4286.90",
+      "aug": "4264.90",
+      "sep": "4277.70",
+      "oct": "4360.40",
+      "nov": "4396.40",
+      "dec": "4411.20"
+    },
+    "annual": "4285.40"
+  },
+  {
+    "year": 2015,
+    "industry": "Total Private",
+    "month": {
+      "jan": "3603.90",
+      "feb": "3634.70",
+      "mar": "3653.80",
+      "apr": "3679.20",
+      "may": "3699.00",
+      "jun": "3705.70",
+      "jul": "3696.20",
+      "aug": "3685.70",
+      "sep": "3703.30",
+      "oct": "3777.00",
+      "nov": "3808.80",
+      "dec": "3823.70"
+    },
+    "annual": "3705.90"
+  },
+  {
+    "year": 2015,
+    "industry": "Goods Producing",
+    "month": {
+      "jan": "204.6",
+      "feb": "203.7",
+      "mar": "207.9",
+      "apr": "213.4",
+      "may": "216.3",
+      "jun": "218.7",
+      "jul": "221.2",
+      "aug": "222.8",
+      "sep": "222.4",
+      "oct": "225.9",
+      "nov": "226.3",
+      "dec": "223.9"
+    },
+    "annual": "217.3"
+  },
+  {
+    "year": 2015,
+    "industry": "Service Providing",
+    "month": {
+      "jan": "3963.70",
+      "feb": "4004.60",
+      "mar": "4022.80",
+      "apr": "4046.50",
+      "may": "4063.40",
+      "jun": "4061.40",
+      "jul": "4065.70",
+      "aug": "4042.10",
+      "sep": "4055.30",
+      "oct": "4134.50",
+      "nov": "4170.10",
+      "dec": "4187.30"
+    },
+    "annual": "4068.10"
+  },
+  {
+    "year": 2015,
+    "industry": "Natural Resources, Mining and Construction",
+    "month": {
+      "jan": "128.5",
+      "feb": "126.9",
+      "mar": "130.6",
+      "apr": "135.9",
+      "may": "138.4",
+      "jun": "140.3",
+      "jul": "143.1",
+      "aug": "144.6",
+      "sep": "144",
+      "oct": "147.1",
+      "nov": "147.6",
+      "dec": "145.5"
+    },
+    "annual": "139.4"
+  },
+  {
+    "year": 2015,
+    "industry": "Manufacturing",
+    "month": {
+      "jan": "76.1",
+      "feb": "76.8",
+      "mar": "77.3",
+      "apr": "77.5",
+      "may": "77.9",
+      "jun": "78.4",
+      "jul": "78.1",
+      "aug": "78.2",
+      "sep": "78.4",
+      "oct": "78.8",
+      "nov": "78.7",
+      "dec": "78.4"
+    },
+    "annual": "77.9"
+  },
+  {
+    "year": 2015,
+    "industry": "Trade, Transportation, and Utilities",
+    "month": {
+      "jan": "624.2",
+      "feb": "619.1",
+      "mar": "618.9",
+      "apr": "620.9",
+      "may": "625.3",
+      "jun": "630.4",
+      "jul": "621.6",
+      "aug": "621.4",
+      "sep": "628",
+      "oct": "633.4",
+      "nov": "646.9",
+      "dec": "652.8"
+    },
+    "annual": "628.6"
+  },
+  {
+    "year": 2015,
+    "industry": "Retail Trade",
+    "month": {
+      "jan": "351.2",
+      "feb": "346.8",
+      "mar": "346.2",
+      "apr": "346.4",
+      "may": "349.1",
+      "jun": "351.7",
+      "jul": "348.9",
+      "aug": "348.6",
+      "sep": "350.2",
+      "oct": "354.1",
+      "nov": "365.2",
+      "dec": "367.2"
+    },
+    "annual": "352.1"
+  },
+  {
+    "year": 2015,
+    "industry": "Transportation, Warehousing, and Utilities",
+    "month": {
+      "jan": "130.5",
+      "feb": "129.3",
+      "mar": "129.4",
+      "apr": "131.4",
+      "may": "132.6",
+      "jun": "134.1",
+      "jul": "128.1",
+      "aug": "128.3",
+      "sep": "133.6",
+      "oct": "134.3",
+      "nov": "136.2",
+      "dec": "139.4"
+    },
+    "annual": "132.3"
+  },
+  {
+    "year": 2015,
+    "industry": "Information",
+    "month": {
+      "jan": "184.9",
+      "feb": "187.4",
+      "mar": "188.1",
+      "apr": "186.5",
+      "may": "187.3",
+      "jun": "189.8",
+      "jul": "191.4",
+      "aug": "191.1",
+      "sep": "191.1",
+      "oct": "194.5",
+      "nov": "196.2",
+      "dec": "196.6"
+    },
+    "annual": "190.4"
+  },
+  {
+    "year": 2015,
+    "industry": "Financial Activities",
+    "month": {
+      "jan": "449.2",
+      "feb": "450.6",
+      "mar": "451.2",
+      "apr": "451",
+      "may": "452.5",
+      "jun": "460.7",
+      "jul": "465.8",
+      "aug": "465.5",
+      "sep": "458.7",
+      "oct": "462.1",
+      "nov": "463",
+      "dec": "465.1"
+    },
+    "annual": "458"
+  },
+  {
+    "year": 2015,
+    "industry": "Professional and Business Services",
+    "month": {
+      "jan": "677.8",
+      "feb": "683.3",
+      "mar": "686.1",
+      "apr": "691.8",
+      "may": "694.3",
+      "jun": "702.9",
+      "jul": "708",
+      "aug": "706.4",
+      "sep": "700.7",
+      "oct": "712.5",
+      "nov": "717.1",
+      "dec": "719.2"
+    },
+    "annual": "700"
+  },
+  {
+    "year": 2015,
+    "industry": "Educational Services",
+    "month": {
+      "jan": "228.8",
+      "feb": "251",
+      "mar": "253.9",
+      "apr": "255.7",
+      "may": "247.8",
+      "jun": "223.9",
+      "jul": "214.7",
+      "aug": "211.4",
+      "sep": "229.1",
+      "oct": "256.2",
+      "nov": "260.5",
+      "dec": "259.9"
+    },
+    "annual": "241.1"
+  },
+  {
+    "year": 2015,
+    "industry": "Health Care and Social Assistance",
+    "month": {
+      "jan": "646.9",
+      "feb": "647.4",
+      "mar": "649.6",
+      "apr": "651.5",
+      "may": "655",
+      "jun": "655.2",
+      "jul": "652.3",
+      "aug": "650.1",
+      "sep": "652",
+      "oct": "664.1",
+      "nov": "670.5",
+      "dec": "675.5"
+    },
+    "annual": "655.8"
+  },
+  {
+    "year": 2015,
+    "industry": "Leisure and Hospitality",
+    "month": {
+      "jan": "405.3",
+      "feb": "409.1",
+      "mar": "415.3",
+      "apr": "424.7",
+      "may": "435.2",
+      "jun": "437.2",
+      "jul": "435.3",
+      "aug": "431.6",
+      "sep": "435.2",
+      "oct": "440.1",
+      "nov": "439.5",
+      "dec": "441"
+    },
+    "annual": "429.1"
+  },
+  {
+    "year": 2015,
+    "industry": "Other Services",
+    "month": {
+      "jan": "182.2",
+      "feb": "183.1",
+      "mar": "182.8",
+      "apr": "183.7",
+      "may": "185.3",
+      "jun": "186.9",
+      "jul": "185.9",
+      "aug": "185.4",
+      "sep": "186.1",
+      "oct": "188.2",
+      "nov": "188.8",
+      "dec": "189.7"
+    },
+    "annual": "185.7"
+  },
+  {
+    "year": 2015,
+    "industry": "Government",
+    "month": {
+      "jan": "564.4",
+      "feb": "573.6",
+      "mar": "576.9",
+      "apr": "580.7",
+      "may": "580.7",
+      "jun": "574.4",
+      "jul": "590.7",
+      "aug": "579.2",
+      "sep": "574.4",
+      "oct": "583.4",
+      "nov": "587.6",
+      "dec": "587.5"
+    },
+    "annual": "579.5"
+  },
+  {
+    "year": 2014,
+    "industry": "Total Nonfarm",
+    "month": {
+      "jan": "4024.90",
+      "feb": "4068.70",
+      "mar": "4094.30",
+      "apr": "4129.20",
+      "may": "4152.50",
+      "jun": "4152.60",
+      "jul": "4156.00",
+      "aug": "4147.10",
+      "sep": "4164.00",
+      "oct": "4235.40",
+      "nov": "4276.00",
+      "dec": "4293.70"
+    },
+    "annual": "4157.90"
+  },
+  {
+    "year": 2014,
+    "industry": "Total Private",
+    "month": {
+      "jan": "3466.90",
+      "feb": "3501.30",
+      "mar": "3524.10",
+      "apr": "3554.90",
+      "may": "3578.20",
+      "jun": "3584.70",
+      "jul": "3572.00",
+      "aug": "3573.80",
+      "sep": "3595.20",
+      "oct": "3657.10",
+      "nov": "3694.30",
+      "dec": "3712.90"
+    },
+    "annual": "3584.60"
+  },
+  {
+    "year": 2014,
+    "industry": "Goods Producing",
+    "month": {
+      "jan": "194.1",
+      "feb": "193.6",
+      "mar": "197.9",
+      "apr": "202.3",
+      "may": "204.6",
+      "jun": "207",
+      "jul": "210.2",
+      "aug": "211.4",
+      "sep": "211.3",
+      "oct": "212.9",
+      "nov": "213.5",
+      "dec": "211.8"
+    },
+    "annual": "205.9"
+  },
+  {
+    "year": 2014,
+    "industry": "Service Providing",
+    "month": {
+      "jan": "3830.80",
+      "feb": "3875.10",
+      "mar": "3896.40",
+      "apr": "3926.90",
+      "may": "3947.90",
+      "jun": "3945.60",
+      "jul": "3945.80",
+      "aug": "3935.70",
+      "sep": "3952.70",
+      "oct": "4022.50",
+      "nov": "4062.50",
+      "dec": "4081.90"
+    },
+    "annual": "3952.00"
+  },
+  {
+    "year": 2014,
+    "industry": "Natural Resources, Mining and Construction",
+    "month": {
+      "jan": "119.2",
+      "feb": "117.9",
+      "mar": "122",
+      "apr": "126.5",
+      "may": "128",
+      "jun": "130",
+      "jul": "133.8",
+      "aug": "134.5",
+      "sep": "134.1",
+      "oct": "135.3",
+      "nov": "135.6",
+      "dec": "134.1"
+    },
+    "annual": "129.3"
+  },
+  {
+    "year": 2014,
+    "industry": "Manufacturing",
+    "month": {
+      "jan": "74.9",
+      "feb": "75.7",
+      "mar": "75.9",
+      "apr": "75.8",
+      "may": "76.6",
+      "jun": "77",
+      "jul": "76.4",
+      "aug": "76.9",
+      "sep": "77.2",
+      "oct": "77.6",
+      "nov": "77.9",
+      "dec": "77.7"
+    },
+    "annual": "76.6"
+  },
+  {
+    "year": 2014,
+    "industry": "Trade, Transportation, and Utilities",
+    "month": {
+      "jan": "609.5",
+      "feb": "603.6",
+      "mar": "605",
+      "apr": "607.7",
+      "may": "612.1",
+      "jun": "617.3",
+      "jul": "611.8",
+      "aug": "613.1",
+      "sep": "622.4",
+      "oct": "630.1",
+      "nov": "644.4",
+      "dec": "652.9"
+    },
+    "annual": "619.2"
+  },
+  {
+    "year": 2014,
+    "industry": "Retail Trade",
+    "month": {
+      "jan": "343.3",
+      "feb": "339.5",
+      "mar": "339.5",
+      "apr": "341.1",
+      "may": "343.4",
+      "jun": "347",
+      "jul": "347",
+      "aug": "349.2",
+      "sep": "351.6",
+      "oct": "357.7",
+      "nov": "369.4",
+      "dec": "374.3"
+    },
+    "annual": "350.3"
+  },
+  {
+    "year": 2014,
+    "industry": "Transportation, Warehousing, and Utilities",
+    "month": {
+      "jan": "125.9",
+      "feb": "123.6",
+      "mar": "124.7",
+      "apr": "124.9",
+      "may": "126.4",
+      "jun": "127.2",
+      "jul": "121.5",
+      "aug": "120.7",
+      "sep": "127.6",
+      "oct": "128.7",
+      "nov": "130.2",
+      "dec": "133.2"
+    },
+    "annual": "126.2"
+  },
+  {
+    "year": 2014,
+    "industry": "Information",
+    "month": {
+      "jan": "180.7",
+      "feb": "184.2",
+      "mar": "184.8",
+      "apr": "183.3",
+      "may": "183.8",
+      "jun": "186.9",
+      "jul": "186.4",
+      "aug": "187.8",
+      "sep": "186.6",
+      "oct": "189.4",
+      "nov": "189.8",
+      "dec": "191.4"
+    },
+    "annual": "186.3"
+  },
+  {
+    "year": 2014,
+    "industry": "Financial Activities",
+    "month": {
+      "jan": "438.4",
+      "feb": "441",
+      "mar": "442",
+      "apr": "441",
+      "may": "443.4",
+      "jun": "451.9",
+      "jul": "455.6",
+      "aug": "455.7",
+      "sep": "449.1",
+      "oct": "450.5",
+      "nov": "451.8",
+      "dec": "455.2"
+    },
+    "annual": "448"
+  },
+  {
+    "year": 2014,
+    "industry": "Professional and Business Services",
+    "month": {
+      "jan": "645.8",
+      "feb": "651.4",
+      "mar": "654",
+      "apr": "661",
+      "may": "663.1",
+      "jun": "670.2",
+      "jul": "675.4",
+      "aug": "677.2",
+      "sep": "671.8",
+      "oct": "681.2",
+      "nov": "687.1",
+      "dec": "690.6"
+    },
+    "annual": "669.1"
+  },
+  {
+    "year": 2014,
+    "industry": "Educational Services",
+    "month": {
+      "jan": "216.4",
+      "feb": "237",
+      "mar": "240.7",
+      "apr": "243.2",
+      "may": "236",
+      "jun": "213.9",
+      "jul": "203.9",
+      "aug": "201.9",
+      "sep": "221",
+      "oct": "246.8",
+      "nov": "251.7",
+      "dec": "251"
+    },
+    "annual": "230.3"
+  },
+  {
+    "year": 2014,
+    "industry": "Health Care and Social Assistance",
+    "month": {
+      "jan": "622.5",
+      "feb": "623.3",
+      "mar": "627.8",
+      "apr": "632.2",
+      "may": "637.2",
+      "jun": "637.4",
+      "jul": "635.1",
+      "aug": "635.4",
+      "sep": "637.3",
+      "oct": "643.9",
+      "nov": "649.3",
+      "dec": "652"
+    },
+    "annual": "636.1"
+  },
+  {
+    "year": 2014,
+    "industry": "Leisure and Hospitality",
+    "month": {
+      "jan": "384.1",
+      "feb": "390.3",
+      "mar": "395.1",
+      "apr": "405.5",
+      "may": "417.2",
+      "jun": "419",
+      "jul": "413.8",
+      "aug": "411.6",
+      "sep": "415.5",
+      "oct": "418.9",
+      "nov": "422.1",
+      "dec": "423.2"
+    },
+    "annual": "409.7"
+  },
+  {
+    "year": 2014,
+    "industry": "Accommodation and Food Services",
+    "month": {
+      "jan": "306.7",
+      "feb": "311.3",
+      "mar": "315",
+      "apr": "322",
+      "may": "331.9",
+      "jun": "334.4",
+      "jul": "329.6",
+      "aug": "328.9",
+      "sep": "333.1",
+      "oct": "336",
+      "nov": "337.9",
+      "dec": "338.7"
+    },
+    "annual": "327.1"
+  },
+  {
+    "year": 2014,
+    "industry": "Other Services",
+    "month": {
+      "jan": "175.4",
+      "feb": "176.9",
+      "mar": "176.8",
+      "apr": "178.7",
+      "may": "180.8",
+      "jun": "181.1",
+      "jul": "179.8",
+      "aug": "179.7",
+      "sep": "180.2",
+      "oct": "183.4",
+      "nov": "184.6",
+      "dec": "184.8"
+    },
+    "annual": "180.2"
+  },
+  {
+    "year": 2014,
+    "industry": "Government",
+    "month": {
+      "jan": "558",
+      "feb": "567.4",
+      "mar": "570.2",
+      "apr": "574.3",
+      "may": "574.3",
+      "jun": "567.9",
+      "jul": "584",
+      "aug": "573.3",
+      "sep": "568.8",
+      "oct": "578.3",
+      "nov": "581.7",
+      "dec": "580.8"
+    },
+    "annual": "573.3"
+  },
+  {
+    "year": 2013,
+    "industry": "Total Nonfarm",
+    "month": {
+      "jan": "3911.10",
+      "feb": "3943.20",
+      "mar": "3972.50",
+      "apr": "4010.50",
+      "may": "4021.00",
+      "jun": "4016.20",
+      "jul": "4020.90",
+      "aug": "4001.10",
+      "sep": "4023.20",
+      "oct": "4095.90",
+      "nov": "4135.60",
+      "dec": "4149.90"
+    },
+    "annual": "4025.10"
+  },
+  {
+    "year": 2013,
+    "industry": "Total Private",
+    "month": {
+      "jan": "3352.20",
+      "feb": "3375.60",
+      "mar": "3402.70",
+      "apr": "3438.60",
+      "may": "3448.00",
+      "jun": "3450.20",
+      "jul": "3438.80",
+      "aug": "3430.90",
+      "sep": "3459.20",
+      "oct": "3522.60",
+      "nov": "3560.10",
+      "dec": "3575.60"
+    },
+    "annual": "3454.50"
+  },
+  {
+    "year": 2013,
+    "industry": "Goods Producing",
+    "month": {
+      "jan": "191",
+      "feb": "190.8",
+      "mar": "192.4",
+      "apr": "197.2",
+      "may": "198.1",
+      "jun": "198.7",
+      "jul": "200.9",
+      "aug": "202.4",
+      "sep": "201.8",
+      "oct": "204.3",
+      "nov": "204.5",
+      "dec": "201.5"
+    },
+    "annual": "198.6"
+  },
+  {
+    "year": 2013,
+    "industry": "Service Providing",
+    "month": {
+      "jan": "3720.10",
+      "feb": "3752.40",
+      "mar": "3780.10",
+      "apr": "3813.30",
+      "may": "3822.90",
+      "jun": "3817.50",
+      "jul": "3820.00",
+      "aug": "3798.70",
+      "sep": "3821.40",
+      "oct": "3891.60",
+      "nov": "3931.10",
+      "dec": "3948.40"
+    },
+    "annual": "3826.50"
+  },
+  {
+    "year": 2013,
+    "industry": "Natural Resources, Mining and Construction",
+    "month": {
+      "jan": "116.7",
+      "feb": "115.9",
+      "mar": "117.2",
+      "apr": "120.9",
+      "may": "121.3",
+      "jun": "122",
+      "jul": "124.9",
+      "aug": "125.7",
+      "sep": "124.7",
+      "oct": "126.7",
+      "nov": "127",
+      "dec": "124.1"
+    },
+    "annual": "122.3"
+  },
+  {
+    "year": 2013,
+    "industry": "Manufacturing",
+    "month": {
+      "jan": "74.3",
+      "feb": "74.9",
+      "mar": "75.2",
+      "apr": "76.3",
+      "may": "76.8",
+      "jun": "76.7",
+      "jul": "76",
+      "aug": "76.7",
+      "sep": "77.1",
+      "oct": "77.6",
+      "nov": "77.5",
+      "dec": "77.4"
+    },
+    "annual": "76.4"
+  },
+  {
+    "year": 2013,
+    "industry": "Trade, Transportation, and Utilities",
+    "month": {
+      "jan": "593",
+      "feb": "583.4",
+      "mar": "590.7",
+      "apr": "594.8",
+      "may": "598.5",
+      "jun": "604.3",
+      "jul": "598.8",
+      "aug": "598.1",
+      "sep": "607.3",
+      "oct": "612.7",
+      "nov": "628.8",
+      "dec": "636.1"
+    },
+    "annual": "603.9"
+  },
+  {
+    "year": 2013,
+    "industry": "Retail Trade",
+    "month": {
+      "jan": "331.3",
+      "feb": "328.1",
+      "mar": "329.5",
+      "apr": "331.2",
+      "may": "333.8",
+      "jun": "337.5",
+      "jul": "337.9",
+      "aug": "338.4",
+      "sep": "341.2",
+      "oct": "345.8",
+      "nov": "359.5",
+      "dec": "364.4"
+    },
+    "annual": "339.9"
+  },
+  {
+    "year": 2013,
+    "industry": "Transportation, Warehousing, and Utilities",
+    "month": {
+      "jan": "122.9",
+      "feb": "116.2",
+      "mar": "121.7",
+      "apr": "123.4",
+      "may": "124.1",
+      "jun": "124.6",
+      "jul": "119.1",
+      "aug": "118",
+      "sep": "124.6",
+      "oct": "125.3",
+      "nov": "126.6",
+      "dec": "128.4"
+    },
+    "annual": "122.9"
+  },
+  {
+    "year": 2013,
+    "industry": "Information",
+    "month": {
+      "jan": "172.1",
+      "feb": "173.8",
+      "mar": "175.4",
+      "apr": "177.1",
+      "may": "178.8",
+      "jun": "181.1",
+      "jul": "180.6",
+      "aug": "182.1",
+      "sep": "183",
+      "oct": "184.6",
+      "nov": "186.3",
+      "dec": "186.9"
+    },
+    "annual": "180.2"
+  },
+  {
+    "year": 2013,
+    "industry": "Financial Activities",
+    "month": {
+      "jan": "430",
+      "feb": "431.8",
+      "mar": "431.3",
+      "apr": "431.6",
+      "may": "431.4",
+      "jun": "438.3",
+      "jul": "441.5",
+      "aug": "441.4",
+      "sep": "435.8",
+      "oct": "438.3",
+      "nov": "441.1",
+      "dec": "444.4"
+    },
+    "annual": "436.4"
+  },
+  {
+    "year": 2013,
+    "industry": "Professional and Business Services",
+    "month": {
+      "jan": "625.9",
+      "feb": "629.2",
+      "mar": "632.2",
+      "apr": "636.8",
+      "may": "636.3",
+      "jun": "644.7",
+      "jul": "649.2",
+      "aug": "647.8",
+      "sep": "642.8",
+      "oct": "653.1",
+      "nov": "656.7",
+      "dec": "660.9"
+    },
+    "annual": "643"
+  },
+  {
+    "year": 2013,
+    "industry": "Educational Services",
+    "month": {
+      "jan": "207.2",
+      "feb": "225.1",
+      "mar": "227.7",
+      "apr": "231.1",
+      "may": "224.6",
+      "jun": "198.9",
+      "jul": "189.9",
+      "aug": "185.7",
+      "sep": "210.8",
+      "oct": "233.9",
+      "nov": "237.4",
+      "dec": "237.6"
+    },
+    "annual": "217.5"
+  },
+  {
+    "year": 2013,
+    "industry": "Health Care and Social Assistance",
+    "month": {
+      "jan": "602.3",
+      "feb": "605",
+      "mar": "608.7",
+      "apr": "612.4",
+      "may": "614.2",
+      "jun": "614.1",
+      "jul": "612",
+      "aug": "609.7",
+      "sep": "610.1",
+      "oct": "621.5",
+      "nov": "625.4",
+      "dec": "627.4"
+    },
+    "annual": "613.6"
+  },
+  {
+    "year": 2013,
+    "industry": "Leisure and Hospitality",
+    "month": {
+      "jan": "359.6",
+      "feb": "364",
+      "mar": "371.6",
+      "apr": "383.4",
+      "may": "390.8",
+      "jun": "394.3",
+      "jul": "391.1",
+      "aug": "389",
+      "sep": "393",
+      "oct": "397.2",
+      "nov": "402",
+      "dec": "402.7"
+    },
+    "annual": "386.6"
+  },
+  {
+    "year": 2013,
+    "industry": "Accommodation and Food Services",
+    "month": {
+      "jan": "287.4",
+      "feb": "290.8",
+      "mar": "295.3",
+      "apr": "304",
+      "may": "310.4",
+      "jun": "314.6",
+      "jul": "310.4",
+      "aug": "310.1",
+      "sep": "315.2",
+      "oct": "316.3",
+      "nov": "319.6",
+      "dec": "321.2"
+    },
+    "annual": "307.9"
+  },
+  {
+    "year": 2013,
+    "industry": "Other Services",
+    "month": {
+      "jan": "171.1",
+      "feb": "172.5",
+      "mar": "172.7",
+      "apr": "174.2",
+      "may": "175.3",
+      "jun": "175.8",
+      "jul": "174.8",
+      "aug": "174.7",
+      "sep": "174.6",
+      "oct": "177",
+      "nov": "177.9",
+      "dec": "178.1"
+    },
+    "annual": "174.9"
+  },
+  {
+    "year": 2013,
+    "industry": "Government",
+    "month": {
+      "jan": "558.9",
+      "feb": "567.6",
+      "mar": "569.8",
+      "apr": "571.9",
+      "may": "573",
+      "jun": "566",
+      "jul": "582.1",
+      "aug": "570.2",
+      "sep": "564",
+      "oct": "573.3",
+      "nov": "575.5",
+      "dec": "574.3"
+    },
+    "annual": "570.6"
+  },
+  {
+    "year": 2012,
+    "industry": "Total Nonfarm",
+    "month": {
+      "jan": "3829.30",
+      "feb": "3868.70",
+      "mar": "3896.10",
+      "apr": "3915.80",
+      "may": "3941.90",
+      "jun": "3935.90",
+      "jul": "3911.70",
+      "aug": "3904.10",
+      "sep": "3935.00",
+      "oct": "3986.90",
+      "nov": "3994.70",
+      "dec": "4027.80"
+    },
+    "annual": "3929.00"
+  },
+  {
+    "year": 2012,
+    "industry": "Total Private",
+    "month": {
+      "jan": "3270.90",
+      "feb": "3300.80",
+      "mar": "3324.50",
+      "apr": "3343.30",
+      "may": "3368.40",
+      "jun": "3369.50",
+      "jul": "3332.20",
+      "aug": "3334.70",
+      "sep": "3369.10",
+      "oct": "3412.80",
+      "nov": "3420.20",
+      "dec": "3454.80"
+    },
+    "annual": "3358.40"
+  },
+  {
+    "year": 2012,
+    "industry": "Goods Producing",
+    "month": {
+      "jan": "184.8",
+      "feb": "184.9",
+      "mar": "187.3",
+      "apr": "190.7",
+      "may": "192.4",
+      "jun": "194.2",
+      "jul": "195.4",
+      "aug": "196.2",
+      "sep": "196.2",
+      "oct": "197",
+      "nov": "195",
+      "dec": "196.4"
+    },
+    "annual": "192.5"
+  },
+  {
+    "year": 2012,
+    "industry": "Service Providing",
+    "month": {
+      "jan": "3644.50",
+      "feb": "3683.80",
+      "mar": "3708.80",
+      "apr": "3725.10",
+      "may": "3749.50",
+      "jun": "3741.70",
+      "jul": "3716.30",
+      "aug": "3707.90",
+      "sep": "3738.80",
+      "oct": "3789.90",
+      "nov": "3799.70",
+      "dec": "3831.40"
+    },
+    "annual": "3736.50"
+  },
+  {
+    "year": 2012,
+    "industry": "Natural Resources, Mining and Construction",
+    "month": {
+      "jan": "109.7",
+      "feb": "109.2",
+      "mar": "111.3",
+      "apr": "114.8",
+      "may": "115.8",
+      "jun": "117",
+      "jul": "118.9",
+      "aug": "119.7",
+      "sep": "118.8",
+      "oct": "119.7",
+      "nov": "119",
+      "dec": "120.3"
+    },
+    "annual": "116.2"
+  },
+  {
+    "year": 2012,
+    "industry": "Manufacturing",
+    "month": {
+      "jan": "75.1",
+      "feb": "75.7",
+      "mar": "76",
+      "apr": "75.9",
+      "may": "76.6",
+      "jun": "77.2",
+      "jul": "76.5",
+      "aug": "76.5",
+      "sep": "77.4",
+      "oct": "77.3",
+      "nov": "76",
+      "dec": "76.1"
+    },
+    "annual": "76.4"
+  },
+  {
+    "year": 2012,
+    "industry": "Trade, Transportation, and Utilities",
+    "month": {
+      "jan": "582.6",
+      "feb": "577.8",
+      "mar": "579.5",
+      "apr": "579.6",
+      "may": "586",
+      "jun": "591.6",
+      "jul": "577.5",
+      "aug": "582.8",
+      "sep": "591.9",
+      "oct": "596.9",
+      "nov": "610.3",
+      "dec": "620.3"
+    },
+    "annual": "589.7"
+  },
+  {
+    "year": 2012,
+    "industry": "Retail Trade",
+    "month": {
+      "jan": "323",
+      "feb": "317.8",
+      "mar": "318.4",
+      "apr": "319.7",
+      "may": "322.8",
+      "jun": "326.2",
+      "jul": "324.7",
+      "aug": "325",
+      "sep": "328.6",
+      "oct": "332.6",
+      "nov": "344.6",
+      "dec": "350.4"
+    },
+    "annual": "327.8"
+  },
+  {
+    "year": 2012,
+    "industry": "Transportation, Warehousing, and Utilities",
+    "month": {
+      "jan": "121.6",
+      "feb": "121.2",
+      "mar": "121.9",
+      "apr": "121",
+      "may": "123.8",
+      "jun": "124.9",
+      "jul": "113",
+      "aug": "118.2",
+      "sep": "123.9",
+      "oct": "123.9",
+      "nov": "125.1",
+      "dec": "128.1"
+    },
+    "annual": "122.2"
+  },
+  {
+    "year": 2012,
+    "industry": "Information",
+    "month": {
+      "jan": "172.2",
+      "feb": "173.5",
+      "mar": "174.3",
+      "apr": "175.6",
+      "may": "177.3",
+      "jun": "178.3",
+      "jul": "176.7",
+      "aug": "176.9",
+      "sep": "176.6",
+      "oct": "178.4",
+      "nov": "179",
+      "dec": "179.2"
+    },
+    "annual": "176.5"
+  },
+  {
+    "year": 2012,
+    "industry": "Financial Activities",
+    "month": {
+      "jan": "434.5",
+      "feb": "436.3",
+      "mar": "435.7",
+      "apr": "434.5",
+      "may": "434.6",
+      "jun": "440.8",
+      "jul": "443.2",
+      "aug": "442.3",
+      "sep": "436.1",
+      "oct": "437.4",
+      "nov": "437.1",
+      "dec": "440.3"
+    },
+    "annual": "437.7"
+  },
+  {
+    "year": 2012,
+    "industry": "Professional and Business Services",
+    "month": {
+      "jan": "597.8",
+      "feb": "602.1",
+      "mar": "607",
+      "apr": "609.6",
+      "may": "613.2",
+      "jun": "621.9",
+      "jul": "623.1",
+      "aug": "624.8",
+      "sep": "623.3",
+      "oct": "632",
+      "nov": "634.5",
+      "dec": "640.7"
+    },
+    "annual": "619.2"
+  },
+  {
+    "year": 2012,
+    "industry": "Educational Services",
+    "month": {
+      "jan": "200.5",
+      "feb": "217.9",
+      "mar": "221.1",
+      "apr": "221.1",
+      "may": "218",
+      "jun": "193.8",
+      "jul": "178.9",
+      "aug": "176.3",
+      "sep": "202.6",
+      "oct": "220.3",
+      "nov": "222.1",
+      "dec": "223.8"
+    },
+    "annual": "208"
+  },
+  {
+    "year": 2012,
+    "industry": "Health Care and Social Assistance",
+    "month": {
+      "jan": "588.7",
+      "feb": "590.6",
+      "mar": "594.7",
+      "apr": "597.6",
+      "may": "602.1",
+      "jun": "602.2",
+      "jul": "597.9",
+      "aug": "596",
+      "sep": "598.2",
+      "oct": "600.5",
+      "nov": "598",
+      "dec": "604.5"
+    },
+    "annual": "597.6"
+  },
+  {
+    "year": 2012,
+    "industry": "Leisure and Hospitality",
+    "month": {
+      "jan": "343.3",
+      "feb": "350.1",
+      "mar": "356.5",
+      "apr": "365.3",
+      "may": "373.7",
+      "jun": "374.7",
+      "jul": "369.6",
+      "aug": "370.4",
+      "sep": "373",
+      "oct": "376.8",
+      "nov": "371.4",
+      "dec": "375.7"
+    },
+    "annual": "366.7"
+  },
+  {
+    "year": 2012,
+    "industry": "Accommodation and Food Services",
+    "month": {
+      "jan": "273",
+      "feb": "278.2",
+      "mar": "282.6",
+      "apr": "288",
+      "may": "296",
+      "jun": "298",
+      "jul": "295.2",
+      "aug": "296.5",
+      "sep": "300.5",
+      "oct": "301.8",
+      "nov": "296.9",
+      "dec": "300.4"
+    },
+    "annual": "292.3"
+  },
+  {
+    "year": 2012,
+    "industry": "Other Services",
+    "month": {
+      "jan": "166.5",
+      "feb": "167.6",
+      "mar": "168.4",
+      "apr": "169.3",
+      "may": "171.1",
+      "jun": "172",
+      "jul": "169.9",
+      "aug": "169",
+      "sep": "171.2",
+      "oct": "173.5",
+      "nov": "172.8",
+      "dec": "173.9"
+    },
+    "annual": "170.4"
+  },
+  {
+    "year": 2012,
+    "industry": "Government",
+    "month": {
+      "jan": "558.4",
+      "feb": "567.9",
+      "mar": "571.6",
+      "apr": "572.5",
+      "may": "573.5",
+      "jun": "566.4",
+      "jul": "579.5",
+      "aug": "569.4",
+      "sep": "565.9",
+      "oct": "574.1",
+      "nov": "574.5",
+      "dec": "573"
+    },
+    "annual": "570.6"
+  },
+  {
+    "year": 2011,
+    "industry": "Total Nonfarm",
+    "month": {
+      "jan": "3741.20",
+      "feb": "3776.20",
+      "mar": "3797.70",
+      "apr": "3836.30",
+      "may": "3842.70",
+      "jun": "3839.90",
+      "jul": "3841.10",
+      "aug": "3827.80",
+      "sep": "3849.30",
+      "oct": "3886.80",
+      "nov": "3918.00",
+      "dec": "3933.00"
+    },
+    "annual": "3840.80"
+  },
+  {
+    "year": 2011,
+    "industry": "Total Private",
+    "month": {
+      "jan": "3179.50",
+      "feb": "3208.30",
+      "mar": "3227.90",
+      "apr": "3262.20",
+      "may": "3269.10",
+      "jun": "3271.70",
+      "jul": "3251.70",
+      "aug": "3240.80",
+      "sep": "3282.50",
+      "oct": "3312.80",
+      "nov": "3343.10",
+      "dec": "3360.30"
+    },
+    "annual": "3267.50"
+  },
+  {
+    "year": 2011,
+    "industry": "Goods Producing",
+    "month": {
+      "jan": "178.8",
+      "feb": "179.5",
+      "mar": "182.5",
+      "apr": "184.7",
+      "may": "187.5",
+      "jun": "189.1",
+      "jul": "191.5",
+      "aug": "193.4",
+      "sep": "193.1",
+      "oct": "192.9",
+      "nov": "192.6",
+      "dec": "191"
+    },
+    "annual": "188.1"
+  },
+  {
+    "year": 2011,
+    "industry": "Service Providing",
+    "month": {
+      "jan": "3562.40",
+      "feb": "3596.70",
+      "mar": "3615.20",
+      "apr": "3651.60",
+      "may": "3655.20",
+      "jun": "3650.80",
+      "jul": "3649.60",
+      "aug": "3634.40",
+      "sep": "3656.20",
+      "oct": "3693.90",
+      "nov": "3725.40",
+      "dec": "3742.00"
+    },
+    "annual": "3652.80"
+  },
+  {
+    "year": 2011,
+    "industry": "Natural Resources, Mining and Construction",
+    "month": {
+      "jan": "104.7",
+      "feb": "105",
+      "mar": "107.7",
+      "apr": "109.8",
+      "may": "112.3",
+      "jun": "113.2",
+      "jul": "116.1",
+      "aug": "117.4",
+      "sep": "116.4",
+      "oct": "116",
+      "nov": "115.6",
+      "dec": "114.3"
+    },
+    "annual": "112.4"
+  },
+  {
+    "year": 2011,
+    "industry": "Manufacturing",
+    "month": {
+      "jan": "74.1",
+      "feb": "74.5",
+      "mar": "74.8",
+      "apr": "74.9",
+      "may": "75.2",
+      "jun": "75.9",
+      "jul": "75.4",
+      "aug": "76",
+      "sep": "76.7",
+      "oct": "76.9",
+      "nov": "77",
+      "dec": "76.7"
+    },
+    "annual": "75.7"
+  },
+  {
+    "year": 2011,
+    "industry": "Trade, Transportation, and Utilities",
+    "month": {
+      "jan": "565.9",
+      "feb": "561.9",
+      "mar": "562.6",
+      "apr": "567",
+      "may": "570.2",
+      "jun": "576.1",
+      "jul": "568.1",
+      "aug": "568.3",
+      "sep": "578.4",
+      "oct": "581.1",
+      "nov": "594.8",
+      "dec": "604"
+    },
+    "annual": "574.9"
+  },
+  {
+    "year": 2011,
+    "industry": "Retail Trade",
+    "month": {
+      "jan": "307.8",
+      "feb": "304.5",
+      "mar": "304.5",
+      "apr": "307.2",
+      "may": "309",
+      "jun": "312.7",
+      "jul": "311.3",
+      "aug": "312.3",
+      "sep": "315.8",
+      "oct": "319.6",
+      "nov": "331.4",
+      "dec": "338"
+    },
+    "annual": "314.5"
+  },
+  {
+    "year": 2011,
+    "industry": "Transportation, Warehousing, and Utilities",
+    "month": {
+      "jan": "121.4",
+      "feb": "120.3",
+      "mar": "120.5",
+      "apr": "121.8",
+      "may": "122.6",
+      "jun": "123.9",
+      "jul": "117.6",
+      "aug": "116.6",
+      "sep": "123.2",
+      "oct": "122.2",
+      "nov": "124.1",
+      "dec": "125.7"
+    },
+    "annual": "121.7"
+  },
+  {
+    "year": 2011,
+    "industry": "Information",
+    "month": {
+      "jan": "166.8",
+      "feb": "168.1",
+      "mar": "169.6",
+      "apr": "171.3",
+      "may": "171.8",
+      "jun": "172.4",
+      "jul": "173",
+      "aug": "166.1",
+      "sep": "174.1",
+      "oct": "173.8",
+      "nov": "174.9",
+      "dec": "176"
+    },
+    "annual": "171.5"
+  },
+  {
+    "year": 2011,
+    "industry": "Financial Activities",
+    "month": {
+      "jan": "431.5",
+      "feb": "432.9",
+      "mar": "433.6",
+      "apr": "433.8",
+      "may": "434.9",
+      "jun": "441.7",
+      "jul": "445.2",
+      "aug": "446.2",
+      "sep": "440.1",
+      "oct": "439",
+      "nov": "439",
+      "dec": "440"
+    },
+    "annual": "438.2"
+  },
+  {
+    "year": 2011,
+    "industry": "Professional and Business Services",
+    "month": {
+      "jan": "578.3",
+      "feb": "583.8",
+      "mar": "587.6",
+      "apr": "593.3",
+      "may": "592.3",
+      "jun": "600.9",
+      "jul": "603.7",
+      "aug": "603.4",
+      "sep": "600.5",
+      "oct": "603.3",
+      "nov": "609.5",
+      "dec": "612.2"
+    },
+    "annual": "597.4"
+  },
+  {
+    "year": 2011,
+    "industry": "Educational Services",
+    "month": {
+      "jan": "190.2",
+      "feb": "206.9",
+      "mar": "208.4",
+      "apr": "212.6",
+      "may": "208",
+      "jun": "185.6",
+      "jul": "172.3",
+      "aug": "169.3",
+      "sep": "192.8",
+      "oct": "210.8",
+      "nov": "214.4",
+      "dec": "214.1"
+    },
+    "annual": "198.8"
+  },
+  {
+    "year": 2011,
+    "industry": "Health Care and Social Assistance",
+    "month": {
+      "jan": "584.8",
+      "feb": "587.3",
+      "mar": "589.9",
+      "apr": "592.2",
+      "may": "593",
+      "jun": "591.7",
+      "jul": "587.8",
+      "aug": "586.8",
+      "sep": "588.8",
+      "oct": "591.5",
+      "nov": "593.3",
+      "dec": "597.3"
+    },
+    "annual": "590.4"
+  },
+  {
+    "year": 2011,
+    "industry": "Leisure and Hospitality",
+    "month": {
+      "jan": "322.1",
+      "feb": "325.5",
+      "mar": "330.9",
+      "apr": "342.1",
+      "may": "345",
+      "jun": "347.5",
+      "jul": "345.1",
+      "aug": "343.6",
+      "sep": "348.5",
+      "oct": "353.1",
+      "nov": "357.1",
+      "dec": "357.4"
+    },
+    "annual": "343.2"
+  },
+  {
+    "year": 2011,
+    "industry": "Accommodation and Food Services",
+    "month": {
+      "jan": "256.2",
+      "feb": "258.9",
+      "mar": "263.1",
+      "apr": "270.5",
+      "may": "276.3",
+      "jun": "278.7",
+      "jul": "275.4",
+      "aug": "275.6",
+      "sep": "281",
+      "oct": "281.2",
+      "nov": "283.8",
+      "dec": "284.2"
+    },
+    "annual": "273.7"
+  },
+  {
+    "year": 2011,
+    "industry": "Other Services",
+    "month": {
+      "jan": "161.1",
+      "feb": "162.4",
+      "mar": "162.8",
+      "apr": "165.2",
+      "may": "166.4",
+      "jun": "166.7",
+      "jul": "165",
+      "aug": "163.7",
+      "sep": "166.2",
+      "oct": "167.3",
+      "nov": "167.5",
+      "dec": "168.3"
+    },
+    "annual": "165.2"
+  },
+  {
+    "year": 2011,
+    "industry": "Government",
+    "month": {
+      "jan": "561.7",
+      "feb": "567.9",
+      "mar": "569.8",
+      "apr": "574.1",
+      "may": "573.6",
+      "jun": "568.2",
+      "jul": "589.4",
+      "aug": "587",
+      "sep": "566.8",
+      "oct": "574",
+      "nov": "574.9",
+      "dec": "572.7"
+    },
+    "annual": "573.3"
+  },
+  {
+    "year": 2010,
+    "industry": "Total Nonfarm",
+    "month": {
+      "jan": "3666.20",
+      "feb": "3692.30",
+      "mar": "3717.10",
+      "apr": "3749.70",
+      "may": "3776.30",
+      "jun": "3768.80",
+      "jul": "3735.10",
+      "aug": "3718.80",
+      "sep": "3740.70",
+      "oct": "3793.70",
+      "nov": "3819.60",
+      "dec": "3838.70"
+    },
+    "annual": "3751.40"
+  },
+  {
+    "year": 2010,
+    "industry": "Total Private",
+    "month": {
+      "jan": "3093.90",
+      "feb": "3114.40",
+      "mar": "3136.20",
+      "apr": "3163.80",
+      "may": "3170.00",
+      "jun": "3176.70",
+      "jul": "3151.60",
+      "aug": "3148.90",
+      "sep": "3173.10",
+      "oct": "3221.50",
+      "nov": "3249.80",
+      "dec": "3268.90"
+    },
+    "annual": "3172.40"
+  },
+  {
+    "year": 2010,
+    "industry": "Goods Producing",
+    "month": {
+      "jan": "185.1",
+      "feb": "183.5",
+      "mar": "186.4",
+      "apr": "189.6",
+      "may": "189.1",
+      "jun": "189.9",
+      "jul": "191.5",
+      "aug": "192.4",
+      "sep": "191.3",
+      "oct": "190.6",
+      "nov": "190",
+      "dec": "186.9"
+    },
+    "annual": "188.9"
+  },
+  {
+    "year": 2010,
+    "industry": "Service Providing",
+    "month": {
+      "jan": "3481.10",
+      "feb": "3508.80",
+      "mar": "3530.70",
+      "apr": "3560.10",
+      "may": "3587.20",
+      "jun": "3578.90",
+      "jul": "3543.60",
+      "aug": "3526.40",
+      "sep": "3549.40",
+      "oct": "3603.10",
+      "nov": "3629.60",
+      "dec": "3651.80"
+    },
+    "annual": "3562.60"
+  },
+  {
+    "year": 2010,
+    "industry": "Natural Resources, Mining and Construction",
+    "month": {
+      "jan": "109.7",
+      "feb": "107.7",
+      "mar": "110",
+      "apr": "113.1",
+      "may": "112.6",
+      "jun": "112.9",
+      "jul": "115.1",
+      "aug": "116.2",
+      "sep": "115",
+      "oct": "113.8",
+      "nov": "113.4",
+      "dec": "110.8"
+    },
+    "annual": "112.5"
+  },
+  {
+    "year": 2010,
+    "industry": "Manufacturing",
+    "month": {
+      "jan": "75.4",
+      "feb": "75.8",
+      "mar": "76.4",
+      "apr": "76.5",
+      "may": "76.5",
+      "jun": "77",
+      "jul": "76.4",
+      "aug": "76.2",
+      "sep": "76.3",
+      "oct": "76.8",
+      "nov": "76.6",
+      "dec": "76.1"
+    },
+    "annual": "76.3"
+  },
+  {
+    "year": 2010,
+    "industry": "Trade, Transportation, and Utilities",
+    "month": {
+      "jan": "550.1",
+      "feb": "545.4",
+      "mar": "547.7",
+      "apr": "552.2",
+      "may": "554.6",
+      "jun": "560.2",
+      "jul": "553.1",
+      "aug": "552.6",
+      "sep": "560.4",
+      "oct": "567.2",
+      "nov": "577.9",
+      "dec": "586.1"
+    },
+    "annual": "559"
+  },
+  {
+    "year": 2010,
+    "industry": "Retail Trade",
+    "month": {
+      "jan": "296.3",
+      "feb": "292.5",
+      "mar": "293.7",
+      "apr": "297.3",
+      "may": "298.5",
+      "jun": "302.6",
+      "jul": "301",
+      "aug": "300.9",
+      "sep": "303.1",
+      "oct": "308.3",
+      "nov": "317.2",
+      "dec": "322.7"
+    },
+    "annual": "302.8"
+  },
+  {
+    "year": 2010,
+    "industry": "Transportation, Warehousing, and Utilities",
+    "month": {
+      "jan": "119.8",
+      "feb": "118.5",
+      "mar": "118.9",
+      "apr": "119.7",
+      "may": "120.1",
+      "jun": "120.6",
+      "jul": "115.1",
+      "aug": "114.6",
+      "sep": "119.9",
+      "oct": "121",
+      "nov": "122.1",
+      "dec": "124"
+    },
+    "annual": "119.5"
+  },
+  {
+    "year": 2010,
+    "industry": "Information",
+    "month": {
+      "jan": "161.3",
+      "feb": "161.9",
+      "mar": "163.1",
+      "apr": "163.8",
+      "may": "165",
+      "jun": "166.1",
+      "jul": "167.3",
+      "aug": "168",
+      "sep": "168.5",
+      "oct": "170.2",
+      "nov": "171",
+      "dec": "172.9"
+    },
+    "annual": "166.6"
+  },
+  {
+    "year": 2010,
+    "industry": "Financial Activities",
+    "month": {
+      "jan": "420.1",
+      "feb": "421.7",
+      "mar": "422.6",
+      "apr": "421.5",
+      "may": "422.7",
+      "jun": "429.3",
+      "jul": "431.7",
+      "aug": "432.8",
+      "sep": "429.5",
+      "oct": "429.6",
+      "nov": "431.7",
+      "dec": "434.8"
+    },
+    "annual": "427.3"
+  },
+  {
+    "year": 2010,
+    "industry": "Professional and Business Services",
+    "month": {
+      "jan": "558.6",
+      "feb": "562.8",
+      "mar": "565",
+      "apr": "571.8",
+      "may": "572.3",
+      "jun": "579.2",
+      "jul": "579.3",
+      "aug": "579",
+      "sep": "574.5",
+      "oct": "582.9",
+      "nov": "587.2",
+      "dec": "590.6"
+    },
+    "annual": "575.3"
+  },
+  {
+    "year": 2010,
+    "industry": "Educational Services",
+    "month": {
+      "jan": "185.4",
+      "feb": "200.2",
+      "mar": "202.8",
+      "apr": "203",
+      "may": "196.1",
+      "jun": "181.5",
+      "jul": "165.7",
+      "aug": "163.2",
+      "sep": "183",
+      "oct": "202.8",
+      "nov": "207.3",
+      "dec": "206.6"
+    },
+    "annual": "191.5"
+  },
+  {
+    "year": 2010,
+    "industry": "Health Care and Social Assistance",
+    "month": {
+      "jan": "572.9",
+      "feb": "575",
+      "mar": "578.3",
+      "apr": "580.2",
+      "may": "582.4",
+      "jun": "581.6",
+      "jul": "576.6",
+      "aug": "575.8",
+      "sep": "577.1",
+      "oct": "583.7",
+      "nov": "587.7",
+      "dec": "590.8"
+    },
+    "annual": "580.2"
+  },
+  {
+    "year": 2010,
+    "industry": "Leisure and Hospitality",
+    "month": {
+      "jan": "302.3",
+      "feb": "305.1",
+      "mar": "310.8",
+      "apr": "321.5",
+      "may": "326.4",
+      "jun": "327.7",
+      "jul": "326.2",
+      "aug": "325.8",
+      "sep": "328.9",
+      "oct": "332",
+      "nov": "334.1",
+      "dec": "336.8"
+    },
+    "annual": "323.1"
+  },
+  {
+    "year": 2010,
+    "industry": "Accommodation and Food Services",
+    "month": {
+      "jan": "237.1",
+      "feb": "239.3",
+      "mar": "243.5",
+      "apr": "252",
+      "may": "257.1",
+      "jun": "259",
+      "jul": "257.2",
+      "aug": "257.5",
+      "sep": "261.5",
+      "oct": "263.5",
+      "nov": "264.2",
+      "dec": "266.8"
+    },
+    "annual": "254.9"
+  },
+  {
+    "year": 2010,
+    "industry": "Other Services",
+    "month": {
+      "jan": "158.1",
+      "feb": "158.8",
+      "mar": "159.5",
+      "apr": "160.2",
+      "may": "161.4",
+      "jun": "161.2",
+      "jul": "160.2",
+      "aug": "159.3",
+      "sep": "159.9",
+      "oct": "162.5",
+      "nov": "162.9",
+      "dec": "163.4"
+    },
+    "annual": "160.6"
+  },
+  {
+    "year": 2010,
+    "industry": "Government",
+    "month": {
+      "jan": "572.3",
+      "feb": "577.9",
+      "mar": "580.9",
+      "apr": "585.9",
+      "may": "606.3",
+      "jun": "592.1",
+      "jul": "583.5",
+      "aug": "569.9",
+      "sep": "567.6",
+      "oct": "572.2",
+      "nov": "569.8",
+      "dec": "569.8"
+    },
+    "annual": "579"
+  },
+  {
+    "year": 2009,
+    "industry": "Total Nonfarm",
+    "month": {
+      "jan": "3735.50",
+      "feb": "3740.10",
+      "mar": "3736.00",
+      "apr": "3724.90",
+      "may": "3730.40",
+      "jun": "3725.10",
+      "jul": "3732.90",
+      "aug": "3704.80",
+      "sep": "3689.20",
+      "oct": "3728.90",
+      "nov": "3750.40",
+      "dec": "3772.50"
+    },
+    "annual": "3730.90"
+  },
+  {
+    "year": 2009,
+    "industry": "Total Private",
+    "month": {
+      "jan": "3156.20",
+      "feb": "3158.90",
+      "mar": "3152.30",
+      "apr": "3140.90",
+      "may": "3148.00",
+      "jun": "3146.70",
+      "jul": "3106.60",
+      "aug": "3088.90",
+      "sep": "3120.20",
+      "oct": "3152.80",
+      "nov": "3171.80",
+      "dec": "3192.40"
+    },
+    "annual": "3144.60"
+  },
+  {
+    "year": 2009,
+    "industry": "Goods Producing",
+    "month": {
+      "jan": "207.8",
+      "feb": "205.5",
+      "mar": "205.2",
+      "apr": "203.4",
+      "may": "204",
+      "jun": "204.7",
+      "jul": "203.4",
+      "aug": "202.5",
+      "sep": "201",
+      "oct": "199.8",
+      "nov": "197.5",
+      "dec": "194.6"
+    },
+    "annual": "202.5"
+  },
+  {
+    "year": 2009,
+    "industry": "Service Providing",
+    "month": {
+      "jan": "3527.70",
+      "feb": "3534.60",
+      "mar": "3530.80",
+      "apr": "3521.50",
+      "may": "3526.40",
+      "jun": "3520.40",
+      "jul": "3529.50",
+      "aug": "3502.30",
+      "sep": "3488.20",
+      "oct": "3529.10",
+      "nov": "3552.90",
+      "dec": "3577.90"
+    },
+    "annual": "3528.40"
+  },
+  {
+    "year": 2009,
+    "industry": "Natural Resources, Mining and Construction",
+    "month": {
+      "jan": "121.5",
+      "feb": "120.5",
+      "mar": "120.9",
+      "apr": "121.1",
+      "may": "121.8",
+      "jun": "122.4",
+      "jul": "122.7",
+      "aug": "122.5",
+      "sep": "120.7",
+      "oct": "120.1",
+      "nov": "118.8",
+      "dec": "116.7"
+    },
+    "annual": "120.8"
+  },
+  {
+    "year": 2009,
+    "industry": "Trade, Transportation, and Utilities",
+    "month": {
+      "jan": "557.3",
+      "feb": "550.4",
+      "mar": "547.5",
+      "apr": "542.9",
+      "may": "546.9",
+      "jun": "550.9",
+      "jul": "542.4",
+      "aug": "542",
+      "sep": "550.5",
+      "oct": "554.3",
+      "nov": "564.4",
+      "dec": "573.3"
+    },
+    "annual": "551.9"
+  },
+  {
+    "year": 2009,
+    "industry": "Retail Trade",
+    "month": {
+      "jan": "291.2",
+      "feb": "286.2",
+      "mar": "284.7",
+      "apr": "282.8",
+      "may": "285.7",
+      "jun": "289.6",
+      "jul": "288.8",
+      "aug": "289.4",
+      "sep": "292.9",
+      "oct": "296.4",
+      "nov": "305.1",
+      "dec": "311.8"
+    },
+    "annual": "292.1"
+  },
+  {
+    "year": 2009,
+    "industry": "Transportation, Warehousing, and Utilities",
+    "month": {
+      "jan": "123.9",
+      "feb": "123.3",
+      "mar": "122.7",
+      "apr": "122.4",
+      "may": "123.4",
+      "jun": "123.5",
+      "jul": "117.6",
+      "aug": "116.5",
+      "sep": "121.7",
+      "oct": "121.8",
+      "nov": "123",
+      "dec": "124.6"
+    },
+    "annual": "122"
+  },
+  {
+    "year": 2009,
+    "industry": "Information",
+    "month": {
+      "jan": "165.4",
+      "feb": "164.5",
+      "mar": "165.1",
+      "apr": "166.7",
+      "may": "167.1",
+      "jun": "166.8",
+      "jul": "166.1",
+      "aug": "165.4",
+      "sep": "166.1",
+      "oct": "165.3",
+      "nov": "165.7",
+      "dec": "166.4"
+    },
+    "annual": "165.9"
+  },
+  {
+    "year": 2009,
+    "industry": "Financial Activities",
+    "month": {
+      "jan": "447.3",
+      "feb": "443.3",
+      "mar": "439.8",
+      "apr": "434.1",
+      "may": "431.7",
+      "jun": "431.7",
+      "jul": "432",
+      "aug": "429.8",
+      "sep": "426.8",
+      "oct": "425.9",
+      "nov": "425.4",
+      "dec": "427.1"
+    },
+    "annual": "432.9"
+  },
+  {
+    "year": 2009,
+    "industry": "Professional and Business Services",
+    "month": {
+      "jan": "580.2",
+      "feb": "578.2",
+      "mar": "574.6",
+      "apr": "567.8",
+      "may": "566.5",
+      "jun": "570.6",
+      "jul": "567.1",
+      "aug": "562.4",
+      "sep": "560.2",
+      "oct": "563.3",
+      "nov": "567.4",
+      "dec": "571.4"
+    },
+    "annual": "569.1"
+  },
+  {
+    "year": 2009,
+    "industry": "Educational Services",
+    "month": {
+      "jan": "180.9",
+      "feb": "194.9",
+      "mar": "197.1",
+      "apr": "196.7",
+      "may": "190.5",
+      "jun": "176.5",
+      "jul": "160.6",
+      "aug": "157.2",
+      "sep": "174.5",
+      "oct": "194.6",
+      "nov": "197.4",
+      "dec": "200.9"
+    },
+    "annual": "185.2"
+  },
+  {
+    "year": 2009,
+    "industry": "Health Care and Social Assistance",
+    "month": {
+      "jan": "560.8",
+      "feb": "563.6",
+      "mar": "562.6",
+      "apr": "563.4",
+      "may": "566.8",
+      "jun": "569.4",
+      "jul": "564.7",
+      "aug": "563.8",
+      "sep": "566.6",
+      "oct": "573",
+      "nov": "576.1",
+      "dec": "578.6"
+    },
+    "annual": "567.5"
+  },
+  {
+    "year": 2009,
+    "industry": "Leisure and Hospitality",
+    "month": {
+      "jan": "297.5",
+      "feb": "298.8",
+      "mar": "300.6",
+      "apr": "306.3",
+      "may": "313.5",
+      "jun": "314.6",
+      "jul": "310.7",
+      "aug": "307.1",
+      "sep": "315",
+      "oct": "315.7",
+      "nov": "316",
+      "dec": "317.8"
+    },
+    "annual": "309.5"
+  },
+  {
+    "year": 2009,
+    "industry": "Accommodation and Food Services",
+    "month": {
+      "jan": "230.8",
+      "feb": "231.5",
+      "mar": "233.1",
+      "apr": "237.3",
+      "may": "244.7",
+      "jun": "246",
+      "jul": "242.3",
+      "aug": "239.9",
+      "sep": "247.6",
+      "oct": "247.7",
+      "nov": "246.6",
+      "dec": "248.3"
+    },
+    "annual": "241.3"
+  },
+  {
+    "year": 2009,
+    "industry": "Other Services",
+    "month": {
+      "jan": "159",
+      "feb": "159.7",
+      "mar": "159.8",
+      "apr": "159.6",
+      "may": "161",
+      "jun": "161.5",
+      "jul": "159.6",
+      "aug": "158.7",
+      "sep": "159.5",
+      "oct": "160.9",
+      "nov": "161.9",
+      "dec": "162.3"
+    },
+    "annual": "160.3"
+  },
+  {
+    "year": 2009,
+    "industry": "Government",
+    "month": {
+      "jan": "579.3",
+      "feb": "581.2",
+      "mar": "583.7",
+      "apr": "584",
+      "may": "582.4",
+      "jun": "578.4",
+      "jul": "626.3",
+      "aug": "615.9",
+      "sep": "569",
+      "oct": "576.1",
+      "nov": "578.6",
+      "dec": "580.1"
+    },
+    "annual": "586.3"
+  },
+  {
+    "year": 2008,
+    "industry": "Total Nonfarm",
+    "month": {
+      "jan": "3774.50",
+      "feb": "3801.40",
+      "mar": "3817.00",
+      "apr": "3833.50",
+      "may": "3837.70",
+      "jun": "3848.70",
+      "jul": "3831.80",
+      "aug": "3814.10",
+      "sep": "3820.50",
+      "oct": "3846.50",
+      "nov": "3860.20",
+      "dec": "3868.10"
+    },
+    "annual": "3829.50"
+  },
+  {
+    "year": 2008,
+    "industry": "Total Private",
+    "month": {
+      "jan": "3198.90",
+      "feb": "3223.60",
+      "mar": "3236.50",
+      "apr": "3251.20",
+      "may": "3255.50",
+      "jun": "3267.60",
+      "jul": "3236.10",
+      "aug": "3228.70",
+      "sep": "3247.10",
+      "oct": "3268.30",
+      "nov": "3277.70",
+      "dec": "3282.80"
+    },
+    "annual": "3247.80"
+  },
+  {
+    "year": 2008,
+    "industry": "Goods Producing",
+    "month": {
+      "jan": "224.1",
+      "feb": "225.2",
+      "mar": "226.7",
+      "apr": "228.6",
+      "may": "229.6",
+      "jun": "231",
+      "jul": "231.7",
+      "aug": "233",
+      "sep": "231.8",
+      "oct": "230.5",
+      "nov": "227.2",
+      "dec": "221.5"
+    },
+    "annual": "228.4"
+  },
+  {
+    "year": 2008,
+    "industry": "Service Providing",
+    "month": {
+      "jan": "3550.40",
+      "feb": "3576.20",
+      "mar": "3590.30",
+      "apr": "3604.90",
+      "may": "3608.10",
+      "jun": "3617.70",
+      "jul": "3600.10",
+      "aug": "3581.10",
+      "sep": "3588.70",
+      "oct": "3616.00",
+      "nov": "3633.00",
+      "dec": "3646.60"
+    },
+    "annual": "3601.10"
+  },
+  {
+    "year": 2008,
+    "industry": "Natural Resources, Mining and Construction",
+    "month": {
+      "jan": "127.7",
+      "feb": "128.3",
+      "mar": "129.5",
+      "apr": "131.8",
+      "may": "133.2",
+      "jun": "134.1",
+      "jul": "136.1",
+      "aug": "137.6",
+      "sep": "135.9",
+      "oct": "135.7",
+      "nov": "133.9",
+      "dec": "130"
+    },
+    "annual": "132.8"
+  },
+  {
+    "year": 2008,
+    "industry": "Manufacturing",
+    "month": {
+      "jan": "96.4",
+      "feb": "96.9",
+      "mar": "97.2",
+      "apr": "96.8",
+      "may": "96.4",
+      "jun": "96.9",
+      "jul": "95.6",
+      "aug": "95.4",
+      "sep": "95.9",
+      "oct": "94.8",
+      "nov": "93.3",
+      "dec": "91.5"
+    },
+    "annual": "95.6"
+  },
+  {
+    "year": 2008,
+    "industry": "Trade, Transportation, and Utilities",
+    "month": {
+      "jan": "571.9",
+      "feb": "567",
+      "mar": "569.4",
+      "apr": "569.1",
+      "may": "571.3",
+      "jun": "575.6",
+      "jul": "568.6",
+      "aug": "567.7",
+      "sep": "576.1",
+      "oct": "576",
+      "nov": "582.9",
+      "dec": "588.1"
+    },
+    "annual": "573.6"
+  },
+  {
+    "year": 2008,
+    "industry": "Retail Trade",
+    "month": {
+      "jan": "298.7",
+      "feb": "293.8",
+      "mar": "295.1",
+      "apr": "294.7",
+      "may": "295.7",
+      "jun": "298.4",
+      "jul": "298.2",
+      "aug": "298.2",
+      "sep": "300.9",
+      "oct": "301.9",
+      "nov": "308.9",
+      "dec": "312.1"
+    },
+    "annual": "299.7"
+  },
+  {
+    "year": 2008,
+    "industry": "Transportation, Warehousing, and Utilities",
+    "month": {
+      "jan": "125.1",
+      "feb": "124.9",
+      "mar": "125.7",
+      "apr": "126.5",
+      "may": "127.8",
+      "jun": "128.7",
+      "jul": "122.7",
+      "aug": "122.2",
+      "sep": "127.8",
+      "oct": "127.2",
+      "nov": "127.8",
+      "dec": "130"
+    },
+    "annual": "126.4"
+  },
+  {
+    "year": 2008,
+    "industry": "Information",
+    "month": {
+      "jan": "166.8",
+      "feb": "168.8",
+      "mar": "169.2",
+      "apr": "168.4",
+      "may": "170",
+      "jun": "172.2",
+      "jul": "170.3",
+      "aug": "171.1",
+      "sep": "172.2",
+      "oct": "170.7",
+      "nov": "171",
+      "dec": "172.1"
+    },
+    "annual": "170.2"
+  },
+  {
+    "year": 2008,
+    "industry": "Financial Activities",
+    "month": {
+      "jan": "465.4",
+      "feb": "465.8",
+      "mar": "465.2",
+      "apr": "463.5",
+      "may": "462.7",
+      "jun": "467.8",
+      "jul": "470.2",
+      "aug": "470.2",
+      "sep": "460.8",
+      "oct": "458.6",
+      "nov": "457",
+      "dec": "456.2"
+    },
+    "annual": "463.6"
+  },
+  {
+    "year": 2008,
+    "industry": "Professional and Business Services",
+    "month": {
+      "jan": "593.9",
+      "feb": "598.2",
+      "mar": "599.2",
+      "apr": "603.2",
+      "may": "603.7",
+      "jun": "610.8",
+      "jul": "611.9",
+      "aug": "609.2",
+      "sep": "603.1",
+      "oct": "602.6",
+      "nov": "602.7",
+      "dec": "603.7"
+    },
+    "annual": "603.5"
+  },
+  {
+    "year": 2008,
+    "industry": "Educational Services",
+    "month": {
+      "jan": "173.5",
+      "feb": "188.8",
+      "mar": "190",
+      "apr": "191.7",
+      "may": "184.7",
+      "jun": "174.1",
+      "jul": "154.7",
+      "aug": "152.7",
+      "sep": "171.9",
+      "oct": "190.4",
+      "nov": "193.8",
+      "dec": "196"
+    },
+    "annual": "180.2"
+  },
+  {
+    "year": 2008,
+    "industry": "Health Care and Social Assistance",
+    "month": {
+      "jan": "549.7",
+      "feb": "552",
+      "mar": "554.7",
+      "apr": "553.5",
+      "may": "556.5",
+      "jun": "556.8",
+      "jul": "553.8",
+      "aug": "552",
+      "sep": "554.1",
+      "oct": "559.8",
+      "nov": "563.7",
+      "dec": "567"
+    },
+    "annual": "556.1"
+  },
+  {
+    "year": 2008,
+    "industry": "Leisure and Hospitality",
+    "month": {
+      "jan": "295.5",
+      "feb": "298.8",
+      "mar": "302.5",
+      "apr": "312.3",
+      "may": "315.1",
+      "jun": "317",
+      "jul": "314.7",
+      "aug": "313.2",
+      "sep": "315.9",
+      "oct": "317.5",
+      "nov": "317.2",
+      "dec": "316"
+    },
+    "annual": "311.3"
+  },
+  {
+    "year": 2008,
+    "industry": "Accommodation and Food Services",
+    "month": {
+      "jan": "229.2",
+      "feb": "232.1",
+      "mar": "234.5",
+      "apr": "240.9",
+      "may": "244.3",
+      "jun": "246",
+      "jul": "242.8",
+      "aug": "241.8",
+      "sep": "246.6",
+      "oct": "245.6",
+      "nov": "245",
+      "dec": "244.6"
+    },
+    "annual": "241.1"
+  },
+  {
+    "year": 2008,
+    "industry": "Other Services",
+    "month": {
+      "jan": "158.1",
+      "feb": "159",
+      "mar": "159.6",
+      "apr": "160.9",
+      "may": "161.9",
+      "jun": "162.3",
+      "jul": "160.2",
+      "aug": "159.6",
+      "sep": "161.2",
+      "oct": "162.2",
+      "nov": "162.2",
+      "dec": "162.2"
+    },
+    "annual": "160.8"
+  },
+  {
+    "year": 2008,
+    "industry": "Government",
+    "month": {
+      "jan": "575.6",
+      "feb": "577.8",
+      "mar": "580.5",
+      "apr": "582.3",
+      "may": "582.2",
+      "jun": "581.1",
+      "jul": "595.7",
+      "aug": "585.4",
+      "sep": "573.4",
+      "oct": "578.2",
+      "nov": "582.5",
+      "dec": "585.3"
+    },
+    "annual": "581.7"
+  },
+  {
+    "year": 2007,
+    "industry": "Total Nonfarm",
+    "month": {
+      "jan": "3699.60",
+      "feb": "3725.70",
+      "mar": "3749.00",
+      "apr": "3752.70",
+      "may": "3772.00",
+      "jun": "3791.40",
+      "jul": "3770.10",
+      "aug": "3751.60",
+      "sep": "3766.20",
+      "oct": "3819.80",
+      "nov": "3852.60",
+      "dec": "3875.30"
+    },
+    "annual": "3777.20"
+  },
+  {
+    "year": 2007,
+    "industry": "Total Private",
+    "month": {
+      "jan": "3129.60",
+      "feb": "3153.40",
+      "mar": "3175.40",
+      "apr": "3180.50",
+      "may": "3197.80",
+      "jun": "3217.80",
+      "jul": "3182.40",
+      "aug": "3173.40",
+      "sep": "3198.80",
+      "oct": "3247.40",
+      "nov": "3275.60",
+      "dec": "3295.20"
+    },
+    "annual": "3202.30"
+  },
+  {
+    "year": 2007,
+    "industry": "Goods Producing",
+    "month": {
+      "jan": "219.6",
+      "feb": "219.9",
+      "mar": "222.7",
+      "apr": "226.1",
+      "may": "229.6",
+      "jun": "232.5",
+      "jul": "229.9",
+      "aug": "230.8",
+      "sep": "232.6",
+      "oct": "232.9",
+      "nov": "233.2",
+      "dec": "230.8"
+    },
+    "annual": "228.4"
+  },
+  {
+    "year": 2007,
+    "industry": "Service Providing",
+    "month": {
+      "jan": "3480.00",
+      "feb": "3505.80",
+      "mar": "3526.30",
+      "apr": "3526.60",
+      "may": "3542.40",
+      "jun": "3558.90",
+      "jul": "3540.20",
+      "aug": "3520.80",
+      "sep": "3533.60",
+      "oct": "3586.90",
+      "nov": "3619.40",
+      "dec": "3644.50"
+    },
+    "annual": "3548.80"
+  },
+  {
+    "year": 2007,
+    "industry": "Natural Resources, Mining and Construction",
+    "month": {
+      "jan": "118",
+      "feb": "117.7",
+      "mar": "120.4",
+      "apr": "124.3",
+      "may": "127.5",
+      "jun": "130.4",
+      "jul": "129.4",
+      "aug": "130.8",
+      "sep": "131.8",
+      "oct": "132.7",
+      "nov": "133.5",
+      "dec": "131.8"
+    },
+    "annual": "127.4"
+  },
+  {
+    "year": 2007,
+    "industry": "Manufacturing",
+    "month": {
+      "jan": "101.6",
+      "feb": "102.2",
+      "mar": "102.3",
+      "apr": "101.8",
+      "may": "102.1",
+      "jun": "102.1",
+      "jul": "100.5",
+      "aug": "100",
+      "sep": "100.8",
+      "oct": "100.2",
+      "nov": "99.7",
+      "dec": "99"
+    },
+    "annual": "101"
+  },
+  {
+    "year": 2007,
+    "industry": "Trade, Transportation, and Utilities",
+    "month": {
+      "jan": "564.7",
+      "feb": "559.7",
+      "mar": "561.7",
+      "apr": "561",
+      "may": "566.1",
+      "jun": "572.8",
+      "jul": "563.4",
+      "aug": "559.9",
+      "sep": "569.3",
+      "oct": "573.6",
+      "nov": "587",
+      "dec": "596.4"
+    },
+    "annual": "569.6"
+  },
+  {
+    "year": 2007,
+    "industry": "Retail Trade",
+    "month": {
+      "jan": "293.1",
+      "feb": "287.6",
+      "mar": "289.1",
+      "apr": "289.1",
+      "may": "291.5",
+      "jun": "295.5",
+      "jul": "293.1",
+      "aug": "291.3",
+      "sep": "294.4",
+      "oct": "297",
+      "nov": "309.3",
+      "dec": "316.1"
+    },
+    "annual": "295.6"
+  },
+  {
+    "year": 2007,
+    "industry": "Transportation, Warehousing, and Utilities",
+    "month": {
+      "jan": "123.8",
+      "feb": "124.2",
+      "mar": "124.4",
+      "apr": "124.3",
+      "may": "126.3",
+      "jun": "128",
+      "jul": "121.8",
+      "aug": "120.2",
+      "sep": "126.5",
+      "oct": "126.6",
+      "nov": "127.5",
+      "dec": "129.5"
+    },
+    "annual": "125.3"
+  },
+  {
+    "year": 2007,
+    "industry": "Information",
+    "month": {
+      "jan": "163.6",
+      "feb": "165.6",
+      "mar": "165.8",
+      "apr": "165.2",
+      "may": "166.6",
+      "jun": "168.5",
+      "jul": "167.6",
+      "aug": "168.5",
+      "sep": "168.9",
+      "oct": "168.2",
+      "nov": "170.2",
+      "dec": "171.2"
+    },
+    "annual": "167.5"
+  },
+  {
+    "year": 2007,
+    "industry": "Financial Activities",
+    "month": {
+      "jan": "458.4",
+      "feb": "460",
+      "mar": "461.5",
+      "apr": "460.1",
+      "may": "460.5",
+      "jun": "468.7",
+      "jul": "472.3",
+      "aug": "472.3",
+      "sep": "467.1",
+      "oct": "469.8",
+      "nov": "470.9",
+      "dec": "471.9"
+    },
+    "annual": "466.1"
+  },
+  {
+    "year": 2007,
+    "industry": "Professional and Business Services",
+    "month": {
+      "jan": "576.6",
+      "feb": "580.7",
+      "mar": "585.7",
+      "apr": "583.4",
+      "may": "586.2",
+      "jun": "596.6",
+      "jul": "596.7",
+      "aug": "597.9",
+      "sep": "590.9",
+      "oct": "600",
+      "nov": "604.7",
+      "dec": "609.6"
+    },
+    "annual": "592.4"
+  },
+  {
+    "year": 2007,
+    "industry": "Educational Services",
+    "month": {
+      "jan": "169.5",
+      "feb": "183.3",
+      "mar": "185.5",
+      "apr": "184.9",
+      "may": "178.9",
+      "jun": "163.8",
+      "jul": "149.5",
+      "aug": "145.1",
+      "sep": "164.4",
+      "oct": "185.2",
+      "nov": "186.4",
+      "dec": "186.6"
+    },
+    "annual": "173.6"
+  },
+  {
+    "year": 2007,
+    "industry": "Health Care and Social Assistance",
+    "month": {
+      "jan": "541.8",
+      "feb": "543",
+      "mar": "545.9",
+      "apr": "544.9",
+      "may": "547.8",
+      "jun": "550.2",
+      "jul": "545.6",
+      "aug": "543.6",
+      "sep": "546.1",
+      "oct": "553.3",
+      "nov": "555.7",
+      "dec": "558.3"
+    },
+    "annual": "548"
+  },
+  {
+    "year": 2007,
+    "industry": "Leisure and Hospitality",
+    "month": {
+      "jan": "280.3",
+      "feb": "285",
+      "mar": "289.6",
+      "apr": "297.5",
+      "may": "302.8",
+      "jun": "304.9",
+      "jul": "300.8",
+      "aug": "300.1",
+      "sep": "303",
+      "oct": "305.5",
+      "nov": "307.7",
+      "dec": "310"
+    },
+    "annual": "298.9"
+  },
+  {
+    "year": 2007,
+    "industry": "Accommodation and Food Services",
+    "month": {
+      "jan": "219",
+      "feb": "221.8",
+      "mar": "225.1",
+      "apr": "230.2",
+      "may": "235.4",
+      "jun": "237.3",
+      "jul": "233.2",
+      "aug": "233",
+      "sep": "236.9",
+      "oct": "237.6",
+      "nov": "239.9",
+      "dec": "240.9"
+    },
+    "annual": "232.5"
+  },
+  {
+    "year": 2007,
+    "industry": "Other Services",
+    "month": {
+      "jan": "155.1",
+      "feb": "156.2",
+      "mar": "157",
+      "apr": "157.4",
+      "may": "159.3",
+      "jun": "159.8",
+      "jul": "156.6",
+      "aug": "155.2",
+      "sep": "156.5",
+      "oct": "158.9",
+      "nov": "159.8",
+      "dec": "160.4"
+    },
+    "annual": "157.7"
+  },
+  {
+    "year": 2007,
+    "industry": "Government",
+    "month": {
+      "jan": "570",
+      "feb": "572.3",
+      "mar": "573.6",
+      "apr": "572.2",
+      "may": "574.2",
+      "jun": "573.6",
+      "jul": "587.7",
+      "aug": "578.2",
+      "sep": "567.4",
+      "oct": "572.4",
+      "nov": "577",
+      "dec": "580.1"
+    },
+    "annual": "574.9"
+  },
+  {
+    "year": 2006,
+    "industry": "Total Nonfarm",
+    "month": {
+      "jan": "3612.90",
+      "feb": "3633.50",
+      "mar": "3664.60",
+      "apr": "3675.50",
+      "may": "3697.40",
+      "jun": "3713.50",
+      "jul": "3688.80",
+      "aug": "3672.70",
+      "sep": "3696.20",
+      "oct": "3736.20",
+      "nov": "3774.30",
+      "dec": "3806.80"
+    },
+    "annual": "3697.70"
+  },
+  {
+    "year": 2006,
+    "industry": "Total Private",
+    "month": {
+      "jan": "3046.40",
+      "feb": "3068.70",
+      "mar": "3097.70",
+      "apr": "3107.40",
+      "may": "3127.30",
+      "jun": "3143.70",
+      "jul": "3106.10",
+      "aug": "3101.90",
+      "sep": "3135.80",
+      "oct": "3170.40",
+      "nov": "3202.90",
+      "dec": "3231.60"
+    },
+    "annual": "3128.30"
+  },
+  {
+    "year": 2006,
+    "industry": "Goods Producing",
+    "month": {
+      "jan": "216.7",
+      "feb": "217.7",
+      "mar": "220.7",
+      "apr": "222.4",
+      "may": "225.3",
+      "jun": "228.8",
+      "jul": "224.5",
+      "aug": "227.4",
+      "sep": "229.3",
+      "oct": "228.4",
+      "nov": "227.4",
+      "dec": "226.8"
+    },
+    "annual": "224.6"
+  },
+  {
+    "year": 2006,
+    "industry": "Service Providing",
+    "month": {
+      "jan": "3396.20",
+      "feb": "3415.80",
+      "mar": "3443.90",
+      "apr": "3453.10",
+      "may": "3472.10",
+      "jun": "3484.70",
+      "jul": "3464.30",
+      "aug": "3445.30",
+      "sep": "3466.90",
+      "oct": "3507.80",
+      "nov": "3546.90",
+      "dec": "3580.00"
+    },
+    "annual": "3473.10"
+  },
+  {
+    "year": 2006,
+    "industry": "Natural Resources, Mining and Construction",
+    "month": {
+      "jan": "110.3",
+      "feb": "110.8",
+      "mar": "113.6",
+      "apr": "115.5",
+      "may": "117.8",
+      "jun": "120.5",
+      "jul": "119.7",
+      "aug": "122.3",
+      "sep": "123.4",
+      "oct": "122.9",
+      "nov": "122.6",
+      "dec": "123.1"
+    },
+    "annual": "118.5"
+  },
+  {
+    "year": 2006,
+    "industry": "Manufacturing",
+    "month": {
+      "jan": "106.4",
+      "feb": "106.9",
+      "mar": "107.1",
+      "apr": "106.9",
+      "may": "107.5",
+      "jun": "108.3",
+      "jul": "104.8",
+      "aug": "105.1",
+      "sep": "105.9",
+      "oct": "105.5",
+      "nov": "104.8",
+      "dec": "103.7"
+    },
+    "annual": "106.1"
+  },
+  {
+    "year": 2006,
+    "industry": "Trade, Transportation, and Utilities",
+    "month": {
+      "jan": "551.1",
+      "feb": "546",
+      "mar": "549.3",
+      "apr": "549.7",
+      "may": "553.4",
+      "jun": "559",
+      "jul": "550.4",
+      "aug": "549.5",
+      "sep": "559.2",
+      "oct": "564.6",
+      "nov": "577",
+      "dec": "587.5"
+    },
+    "annual": "558.1"
+  },
+  {
+    "year": 2006,
+    "industry": "Retail Trade",
+    "month": {
+      "jan": "284",
+      "feb": "279.2",
+      "mar": "280.8",
+      "apr": "281.5",
+      "may": "283.1",
+      "jun": "285.9",
+      "jul": "284.5",
+      "aug": "283.9",
+      "sep": "286.7",
+      "oct": "291.5",
+      "nov": "302",
+      "dec": "308.6"
+    },
+    "annual": "287.6"
+  },
+  {
+    "year": 2006,
+    "industry": "Transportation, Warehousing, and Utilities",
+    "month": {
+      "jan": "121.4",
+      "feb": "121.2",
+      "mar": "121.7",
+      "apr": "121.6",
+      "may": "123",
+      "jun": "124.7",
+      "jul": "118.4",
+      "aug": "117.7",
+      "sep": "124.2",
+      "oct": "124.3",
+      "nov": "125.9",
+      "dec": "128.3"
+    },
+    "annual": "122.7"
+  },
+  {
+    "year": 2006,
+    "industry": "Information",
+    "month": {
+      "jan": "162.7",
+      "feb": "163.2",
+      "mar": "164.3",
+      "apr": "162.9",
+      "may": "164.9",
+      "jun": "167.4",
+      "jul": "165.5",
+      "aug": "166.8",
+      "sep": "167.1",
+      "oct": "165.8",
+      "nov": "167.8",
+      "dec": "169.3"
+    },
+    "annual": "165.6"
+  },
+  {
+    "year": 2006,
+    "industry": "Financial Activities",
+    "month": {
+      "jan": "445.1",
+      "feb": "447.5",
+      "mar": "450.2",
+      "apr": "450.8",
+      "may": "452.8",
+      "jun": "459.8",
+      "jul": "463.1",
+      "aug": "464.4",
+      "sep": "460.2",
+      "oct": "459.7",
+      "nov": "461.8",
+      "dec": "465.7"
+    },
+    "annual": "456.8"
+  },
+  {
+    "year": 2006,
+    "industry": "Professional and Business Services",
+    "month": {
+      "jan": "555",
+      "feb": "559",
+      "mar": "565.9",
+      "apr": "564.3",
+      "may": "567.6",
+      "jun": "576.9",
+      "jul": "574.9",
+      "aug": "576.5",
+      "sep": "573.2",
+      "oct": "576.6",
+      "nov": "584.1",
+      "dec": "591.1"
+    },
+    "annual": "572.1"
+  },
+  {
+    "year": 2006,
+    "industry": "Educational Services",
+    "month": {
+      "jan": "164.4",
+      "feb": "178.4",
+      "mar": "180.3",
+      "apr": "182",
+      "may": "176.9",
+      "jun": "160.7",
+      "jul": "146.4",
+      "aug": "141.4",
+      "sep": "161.1",
+      "oct": "182",
+      "nov": "184",
+      "dec": "183.3"
+    },
+    "annual": "170.1"
+  },
+  {
+    "year": 2006,
+    "industry": "Health Care and Social Assistance",
+    "month": {
+      "jan": "532.3",
+      "feb": "533.5",
+      "mar": "536.5",
+      "apr": "538.3",
+      "may": "542.1",
+      "jun": "544.3",
+      "jul": "540.1",
+      "aug": "537.2",
+      "sep": "540.4",
+      "oct": "545.1",
+      "nov": "548.5",
+      "dec": "552.4"
+    },
+    "annual": "540.9"
+  },
+  {
+    "year": 2006,
+    "industry": "Leisure and Hospitality",
+    "month": {
+      "jan": "268",
+      "feb": "271.7",
+      "mar": "277.5",
+      "apr": "283.6",
+      "may": "289.7",
+      "jun": "291.2",
+      "jul": "287.2",
+      "aug": "286",
+      "sep": "290.3",
+      "oct": "292.4",
+      "nov": "295.7",
+      "dec": "297.7"
+    },
+    "annual": "285.9"
+  },
+  {
+    "year": 2006,
+    "industry": "Accommodation and Food Services",
+    "month": {
+      "jan": "208.3",
+      "feb": "211.1",
+      "mar": "215.3",
+      "apr": "218.3",
+      "may": "224.1",
+      "jun": "226",
+      "jul": "222.2",
+      "aug": "221.2",
+      "sep": "226.4",
+      "oct": "226.5",
+      "nov": "229.4",
+      "dec": "231.1"
+    },
+    "annual": "221.7"
+  },
+  {
+    "year": 2006,
+    "industry": "Other Services",
+    "month": {
+      "jan": "151.1",
+      "feb": "151.7",
+      "mar": "153",
+      "apr": "153.4",
+      "may": "154.6",
+      "jun": "155.6",
+      "jul": "154",
+      "aug": "152.7",
+      "sep": "155",
+      "oct": "155.8",
+      "nov": "156.6",
+      "dec": "157.8"
+    },
+    "annual": "154.3"
+  },
+  {
+    "year": 2006,
+    "industry": "Government",
+    "month": {
+      "jan": "566.5",
+      "feb": "564.8",
+      "mar": "566.9",
+      "apr": "568.1",
+      "may": "570.1",
+      "jun": "569.8",
+      "jul": "582.7",
+      "aug": "570.8",
+      "sep": "560.4",
+      "oct": "565.8",
+      "nov": "571.4",
+      "dec": "575.2"
+    },
+    "annual": "569.4"
+  },
+  {
+    "year": 2005,
+    "industry": "Total Nonfarm",
+    "month": {
+      "jan": "3553.50",
+      "feb": "3570.60",
+      "mar": "3592.50",
+      "apr": "3618.70",
+      "may": "3628.40",
+      "jun": "3643.50",
+      "jul": "3628.50",
+      "aug": "3618.60",
+      "sep": "3636.00",
+      "oct": "3659.20",
+      "nov": "3697.40",
+      "dec": "3728.40"
+    },
+    "annual": "3631.30"
+  },
+  {
+    "year": 2005,
+    "industry": "Total Private",
+    "month": {
+      "jan": "2990.50",
+      "feb": "3008.90",
+      "mar": "3029.80",
+      "apr": "3051.20",
+      "may": "3059.20",
+      "jun": "3070.80",
+      "jul": "3042.10",
+      "aug": "3043.80",
+      "sep": "3077.30",
+      "oct": "3097.70",
+      "nov": "3129.20",
+      "dec": "3157.50"
+    },
+    "annual": "3063.20"
+  },
+  {
+    "year": 2005,
+    "industry": "Goods Producing",
+    "month": {
+      "jan": "220.2",
+      "feb": "221.6",
+      "mar": "224.5",
+      "apr": "225.9",
+      "may": "227.3",
+      "jun": "230.1",
+      "jul": "227.7",
+      "aug": "231.2",
+      "sep": "232.4",
+      "oct": "228.9",
+      "nov": "229.3",
+      "dec": "227.5"
+    },
+    "annual": "227.2"
+  },
+  {
+    "year": 2005,
+    "industry": "Service Providing",
+    "month": {
+      "jan": "3333.30",
+      "feb": "3349.00",
+      "mar": "3368.00",
+      "apr": "3392.80",
+      "may": "3401.10",
+      "jun": "3413.40",
+      "jul": "3400.80",
+      "aug": "3387.40",
+      "sep": "3403.60",
+      "oct": "3430.30",
+      "nov": "3468.10",
+      "dec": "3500.90"
+    },
+    "annual": "3404.10"
+  },
+  {
+    "year": 2005,
+    "industry": "Natural Resources, Mining and Construction",
+    "month": {
+      "jan": "106.1",
+      "feb": "106.5",
+      "mar": "108.7",
+      "apr": "111",
+      "may": "112.8",
+      "jun": "114.8",
+      "jul": "114.6",
+      "aug": "117.4",
+      "sep": "118.3",
+      "oct": "115.9",
+      "nov": "117.2",
+      "dec": "116.4"
+    },
+    "annual": "113.3"
+  },
+  {
+    "year": 2005,
+    "industry": "Manufacturing",
+    "month": {
+      "jan": "114.1",
+      "feb": "115.1",
+      "mar": "115.8",
+      "apr": "114.9",
+      "may": "114.5",
+      "jun": "115.3",
+      "jul": "113.1",
+      "aug": "113.8",
+      "sep": "114.1",
+      "oct": "113",
+      "nov": "112.1",
+      "dec": "111.1"
+    },
+    "annual": "113.9"
+  },
+  {
+    "year": 2005,
+    "industry": "Trade, Transportation, and Utilities",
+    "month": {
+      "jan": "537.1",
+      "feb": "534.4",
+      "mar": "536.8",
+      "apr": "539.7",
+      "may": "543.3",
+      "jun": "547.7",
+      "jul": "541.2",
+      "aug": "541.7",
+      "sep": "551.4",
+      "oct": "553",
+      "nov": "564.1",
+      "dec": "576.4"
+    },
+    "annual": "547.2"
+  },
+  {
+    "year": 2005,
+    "industry": "Retail Trade",
+    "month": {
+      "jan": "276.2",
+      "feb": "272.2",
+      "mar": "273.6",
+      "apr": "276.1",
+      "may": "278.1",
+      "jun": "280.9",
+      "jul": "278.2",
+      "aug": "279.1",
+      "sep": "283",
+      "oct": "284.6",
+      "nov": "293.8",
+      "dec": "302.3"
+    },
+    "annual": "281.5"
+  },
+  {
+    "year": 2005,
+    "industry": "Transportation, Warehousing, and Utilities",
+    "month": {
+      "jan": "117.4",
+      "feb": "117.5",
+      "mar": "118.2",
+      "apr": "118.1",
+      "may": "119.3",
+      "jun": "120.3",
+      "jul": "117.4",
+      "aug": "116.2",
+      "sep": "121",
+      "oct": "120.6",
+      "nov": "122.3",
+      "dec": "124.5"
+    },
+    "annual": "119.4"
+  },
+  {
+    "year": 2005,
+    "industry": "Information",
+    "month": {
+      "jan": "158.4",
+      "feb": "160.7",
+      "mar": "160.4",
+      "apr": "160.2",
+      "may": "162.1",
+      "jun": "164.9",
+      "jul": "163.2",
+      "aug": "164.4",
+      "sep": "165.2",
+      "oct": "166.2",
+      "nov": "167.2",
+      "dec": "169.4"
+    },
+    "annual": "163.5"
+  },
+  {
+    "year": 2005,
+    "industry": "Financial Activities",
+    "month": {
+      "jan": "434.8",
+      "feb": "434.9",
+      "mar": "436.1",
+      "apr": "439.4",
+      "may": "438.9",
+      "jun": "445.7",
+      "jul": "449.2",
+      "aug": "449.8",
+      "sep": "445.7",
+      "oct": "446.1",
+      "nov": "447.8",
+      "dec": "452"
+    },
+    "annual": "443.4"
+  },
+  {
+    "year": 2005,
+    "industry": "Professional and Business Services",
+    "month": {
+      "jan": "544.5",
+      "feb": "545.1",
+      "mar": "547.4",
+      "apr": "552.4",
+      "may": "551.8",
+      "jun": "557.5",
+      "jul": "556.8",
+      "aug": "559.4",
+      "sep": "559",
+      "oct": "559.8",
+      "nov": "566.7",
+      "dec": "574.1"
+    },
+    "annual": "556.2"
+  },
+  {
+    "year": 2005,
+    "industry": "Educational Services",
+    "month": {
+      "jan": "159.8",
+      "feb": "171.8",
+      "mar": "174.3",
+      "apr": "175.1",
+      "may": "169.8",
+      "jun": "153.9",
+      "jul": "143.6",
+      "aug": "139.9",
+      "sep": "156",
+      "oct": "176.4",
+      "nov": "178.4",
+      "dec": "178.1"
+    },
+    "annual": "164.8"
+  },
+  {
+    "year": 2005,
+    "industry": "Health Care and Social Assistance",
+    "month": {
+      "jan": "521.5",
+      "feb": "523.4",
+      "mar": "526.4",
+      "apr": "527",
+      "may": "529.8",
+      "jun": "531.5",
+      "jul": "529.1",
+      "aug": "527.7",
+      "sep": "531.2",
+      "oct": "533.4",
+      "nov": "537.4",
+      "dec": "539.2"
+    },
+    "annual": "529.8"
+  },
+  {
+    "year": 2005,
+    "industry": "Leisure and Hospitality",
+    "month": {
+      "jan": "264",
+      "feb": "266.1",
+      "mar": "272.3",
+      "apr": "277.8",
+      "may": "281.9",
+      "jun": "284.1",
+      "jul": "277.9",
+      "aug": "277.7",
+      "sep": "283",
+      "oct": "280.4",
+      "nov": "283.9",
+      "dec": "285"
+    },
+    "annual": "277.8"
+  },
+  {
+    "year": 2005,
+    "industry": "Accommodation and Food Services",
+    "month": {
+      "jan": "204.5",
+      "feb": "206.7",
+      "mar": "210.6",
+      "apr": "214.8",
+      "may": "218.5",
+      "jun": "220.9",
+      "jul": "214.8",
+      "aug": "214.7",
+      "sep": "219.2",
+      "oct": "217.4",
+      "nov": "219.9",
+      "dec": "221"
+    },
+    "annual": "215.3"
+  },
+  {
+    "year": 2005,
+    "industry": "Other Services",
+    "month": {
+      "jan": "150.2",
+      "feb": "150.9",
+      "mar": "151.6",
+      "apr": "153.7",
+      "may": "154.3",
+      "jun": "155.4",
+      "jul": "153.4",
+      "aug": "152",
+      "sep": "153.4",
+      "oct": "153.5",
+      "nov": "154.4",
+      "dec": "155.8"
+    },
+    "annual": "153.2"
+  },
+  {
+    "year": 2005,
+    "industry": "Government",
+    "month": {
+      "jan": "563",
+      "feb": "561.7",
+      "mar": "562.7",
+      "apr": "567.5",
+      "may": "569.2",
+      "jun": "572.7",
+      "jul": "586.4",
+      "aug": "574.8",
+      "sep": "558.7",
+      "oct": "561.5",
+      "nov": "568.2",
+      "dec": "570.9"
+    },
+    "annual": "568.1"
+  },
+  {
+    "year": 2004,
+    "industry": "Total Nonfarm",
+    "month": {
+      "jan": "3497.40",
+      "feb": "3521.10",
+      "mar": "3550.50",
+      "apr": "3557.50",
+      "may": "3579.20",
+      "jun": "3591.20",
+      "jul": "3583.80",
+      "aug": "3563.00",
+      "sep": "3565.80",
+      "oct": "3608.80",
+      "nov": "3635.10",
+      "dec": "3659.50"
+    },
+    "annual": "3576.10"
+  },
+  {
+    "year": 2004,
+    "industry": "Total Private",
+    "month": {
+      "jan": "2934.70",
+      "feb": "2959.50",
+      "mar": "2987.30",
+      "apr": "2992.50",
+      "may": "3012.50",
+      "jun": "3021.80",
+      "jul": "3001.40",
+      "aug": "2993.10",
+      "sep": "3015.40",
+      "oct": "3048.00",
+      "nov": "3069.50",
+      "dec": "3095.70"
+    },
+    "annual": "3011.00"
+  },
+  {
+    "year": 2004,
+    "industry": "Goods Producing",
+    "month": {
+      "jan": "223.3",
+      "feb": "226.3",
+      "mar": "230.2",
+      "apr": "230",
+      "may": "233.4",
+      "jun": "237.1",
+      "jul": "235",
+      "aug": "236.1",
+      "sep": "237.1",
+      "oct": "235.1",
+      "nov": "235",
+      "dec": "232.9"
+    },
+    "annual": "232.6"
+  },
+  {
+    "year": 2004,
+    "industry": "Service Providing",
+    "month": {
+      "jan": "3274.10",
+      "feb": "3294.80",
+      "mar": "3320.30",
+      "apr": "3327.50",
+      "may": "3345.80",
+      "jun": "3354.10",
+      "jul": "3348.80",
+      "aug": "3326.90",
+      "sep": "3328.70",
+      "oct": "3373.70",
+      "nov": "3400.10",
+      "dec": "3426.60"
+    },
+    "annual": "3343.50"
+  },
+  {
+    "year": 2004,
+    "industry": "Natural Resources, Mining and Construction",
+    "month": {
+      "jan": "104.3",
+      "feb": "105.4",
+      "mar": "107.9",
+      "apr": "109.2",
+      "may": "111.5",
+      "jun": "114.1",
+      "jul": "114.5",
+      "aug": "115",
+      "sep": "115.5",
+      "oct": "114.6",
+      "nov": "115.1",
+      "dec": "114.5"
+    },
+    "annual": "111.8"
+  },
+  {
+    "year": 2004,
+    "industry": "Manufacturing",
+    "month": {
+      "jan": "119",
+      "feb": "120.9",
+      "mar": "122.3",
+      "apr": "120.8",
+      "may": "121.9",
+      "jun": "123",
+      "jul": "120.5",
+      "aug": "121.1",
+      "sep": "121.6",
+      "oct": "120.5",
+      "nov": "119.9",
+      "dec": "118.4"
+    },
+    "annual": "120.8"
+  },
+  {
+    "year": 2004,
+    "industry": "Trade, Transportation, and Utilities",
+    "month": {
+      "jan": "526.8",
+      "feb": "524",
+      "mar": "527.9",
+      "apr": "528.4",
+      "may": "534",
+      "jun": "539",
+      "jul": "535.9",
+      "aug": "535.3",
+      "sep": "542.8",
+      "oct": "548.5",
+      "nov": "556.5",
+      "dec": "566.8"
+    },
+    "annual": "538.8"
+  },
+  {
+    "year": 2004,
+    "industry": "Retail Trade",
+    "month": {
+      "jan": "265.3",
+      "feb": "262.4",
+      "mar": "264.5",
+      "apr": "266.2",
+      "may": "269.5",
+      "jun": "272.9",
+      "jul": "272.1",
+      "aug": "272.3",
+      "sep": "276.7",
+      "oct": "279.1",
+      "nov": "287.1",
+      "dec": "295.8"
+    },
+    "annual": "273.7"
+  },
+  {
+    "year": 2004,
+    "industry": "Transportation, Warehousing, and Utilities",
+    "month": {
+      "jan": "117.7",
+      "feb": "117.2",
+      "mar": "117.9",
+      "apr": "116.7",
+      "may": "118.3",
+      "jun": "119",
+      "jul": "116.9",
+      "aug": "116.5",
+      "sep": "119.4",
+      "oct": "121.3",
+      "nov": "120.9",
+      "dec": "121.9"
+    },
+    "annual": "118.6"
+  },
+  {
+    "year": 2004,
+    "industry": "Information",
+    "month": {
+      "jan": "157.5",
+      "feb": "158.8",
+      "mar": "159.6",
+      "apr": "159.2",
+      "may": "160.1",
+      "jun": "159.9",
+      "jul": "159.7",
+      "aug": "161.9",
+      "sep": "163.1",
+      "oct": "163",
+      "nov": "164.6",
+      "dec": "163.3"
+    },
+    "annual": "160.9"
+  },
+  {
+    "year": 2004,
+    "industry": "Financial Activities",
+    "month": {
+      "jan": "428.3",
+      "feb": "429.5",
+      "mar": "430.3",
+      "apr": "429.1",
+      "may": "429.3",
+      "jun": "435",
+      "jul": "439.6",
+      "aug": "438.7",
+      "sep": "434.1",
+      "oct": "436.4",
+      "nov": "437",
+      "dec": "441.9"
+    },
+    "annual": "434.1"
+  },
+  {
+    "year": 2004,
+    "industry": "Professional and Business Services",
+    "month": {
+      "jan": "525.4",
+      "feb": "530.7",
+      "mar": "536.4",
+      "apr": "538.8",
+      "may": "540.5",
+      "jun": "545.9",
+      "jul": "543.7",
+      "aug": "544.7",
+      "sep": "543.4",
+      "oct": "546.4",
+      "nov": "550.8",
+      "dec": "559.4"
+    },
+    "annual": "542.2"
+  },
+  {
+    "year": 2004,
+    "industry": "Educational Services",
+    "month": {
+      "jan": "158.5",
+      "feb": "171.6",
+      "mar": "174.3",
+      "apr": "173.3",
+      "may": "172.2",
+      "jun": "156.3",
+      "jul": "144.4",
+      "aug": "139.7",
+      "sep": "152.8",
+      "oct": "168.7",
+      "nov": "171.5",
+      "dec": "170.5"
+    },
+    "annual": "162.8"
+  },
+  {
+    "year": 2004,
+    "industry": "Health Care and Social Assistance",
+    "month": {
+      "jan": "511.4",
+      "feb": "512.4",
+      "mar": "516.3",
+      "apr": "515.2",
+      "may": "517.7",
+      "jun": "519.8",
+      "jul": "518.7",
+      "aug": "515.2",
+      "sep": "514.9",
+      "oct": "522.4",
+      "nov": "523.7",
+      "dec": "527.4"
+    },
+    "annual": "517.9"
+  },
+  {
+    "year": 2004,
+    "industry": "Leisure and Hospitality",
+    "month": {
+      "jan": "255.8",
+      "feb": "257.9",
+      "mar": "262.7",
+      "apr": "268.9",
+      "may": "274.2",
+      "jun": "276.6",
+      "jul": "274",
+      "aug": "272.1",
+      "sep": "276.9",
+      "oct": "275.6",
+      "nov": "278",
+      "dec": "279.9"
+    },
+    "annual": "271.1"
+  },
+  {
+    "year": 2004,
+    "industry": "Accommodation and Food Services",
+    "month": {
+      "jan": "197.9",
+      "feb": "198.8",
+      "mar": "202.4",
+      "apr": "206",
+      "may": "210.8",
+      "jun": "212.7",
+      "jul": "210.8",
+      "aug": "210.7",
+      "sep": "214.2",
+      "oct": "214.3",
+      "nov": "216.2",
+      "dec": "217.7"
+    },
+    "annual": "209.4"
+  },
+  {
+    "year": 2004,
+    "industry": "Other Services",
+    "month": {
+      "jan": "147.7",
+      "feb": "148.3",
+      "mar": "149.6",
+      "apr": "149.6",
+      "may": "151.1",
+      "jun": "152.2",
+      "jul": "150.4",
+      "aug": "149.4",
+      "sep": "150.3",
+      "oct": "151.9",
+      "nov": "152.4",
+      "dec": "153.6"
+    },
+    "annual": "150.5"
+  },
+  {
+    "year": 2004,
+    "industry": "Government",
+    "month": {
+      "jan": "562.7",
+      "feb": "561.6",
+      "mar": "563.2",
+      "apr": "565",
+      "may": "566.7",
+      "jun": "569.4",
+      "jul": "582.4",
+      "aug": "569.9",
+      "sep": "550.4",
+      "oct": "560.8",
+      "nov": "565.6",
+      "dec": "563.8"
+    },
+    "annual": "565.1"
+  },
+  {
+    "year": 2003,
+    "industry": "Total Nonfarm",
+    "month": {
+      "jan": "3526.60",
+      "feb": "3539.40",
+      "mar": "3550.40",
+      "apr": "3549.20",
+      "may": "3562.30",
+      "jun": "3564.20",
+      "jul": "3539.80",
+      "aug": "3517.60",
+      "sep": "3526.20",
+      "oct": "3573.00",
+      "nov": "3601.10",
+      "dec": "3620.60"
+    },
+    "annual": "3555.90"
+  },
+  {
+    "year": 2003,
+    "industry": "Total Private",
+    "month": {
+      "jan": "2960.20",
+      "feb": "2975.00",
+      "mar": "2986.10",
+      "apr": "2983.50",
+      "may": "2996.40",
+      "jun": "2996.50",
+      "jul": "2960.30",
+      "aug": "2949.60",
+      "sep": "2978.00",
+      "oct": "3012.60",
+      "nov": "3034.10",
+      "dec": "3050.20"
+    },
+    "annual": "2990.20"
+  },
+  {
+    "year": 2003,
+    "industry": "Goods Producing",
+    "month": {
+      "jan": "235.2",
+      "feb": "236.5",
+      "mar": "239.9",
+      "apr": "239.6",
+      "may": "241.7",
+      "jun": "243.2",
+      "jul": "238.9",
+      "aug": "240.3",
+      "sep": "241.8",
+      "oct": "239.4",
+      "nov": "238.7",
+      "dec": "236"
+    },
+    "annual": "239.3"
+  },
+  {
+    "year": 2003,
+    "industry": "Service Providing",
+    "month": {
+      "jan": "3291.40",
+      "feb": "3302.90",
+      "mar": "3310.50",
+      "apr": "3309.60",
+      "may": "3320.60",
+      "jun": "3321.00",
+      "jul": "3300.90",
+      "aug": "3277.30",
+      "sep": "3284.40",
+      "oct": "3333.60",
+      "nov": "3362.40",
+      "dec": "3384.60"
+    },
+    "annual": "3316.60"
+  },
+  {
+    "year": 2003,
+    "industry": "Natural Resources, Mining and Construction",
+    "month": {
+      "jan": "107.6",
+      "feb": "107.3",
+      "mar": "109.7",
+      "apr": "111.4",
+      "may": "113.4",
+      "jun": "115",
+      "jul": "114.6",
+      "aug": "115.3",
+      "sep": "116.2",
+      "oct": "114.6",
+      "nov": "114.2",
+      "dec": "113.1"
+    },
+    "annual": "112.7"
+  },
+  {
+    "year": 2003,
+    "industry": "Manufacturing",
+    "month": {
+      "jan": "127.6",
+      "feb": "129.2",
+      "mar": "130.2",
+      "apr": "128.2",
+      "may": "128.3",
+      "jun": "128.2",
+      "jul": "124.3",
+      "aug": "125",
+      "sep": "125.6",
+      "oct": "124.8",
+      "nov": "124.5",
+      "dec": "122.9"
+    },
+    "annual": "126.6"
+  },
+  {
+    "year": 2003,
+    "industry": "Trade, Transportation, and Utilities",
+    "month": {
+      "jan": "533",
+      "feb": "529.1",
+      "mar": "529.9",
+      "apr": "525.6",
+      "may": "529.1",
+      "jun": "531.4",
+      "jul": "524.4",
+      "aug": "524.8",
+      "sep": "533.2",
+      "oct": "537",
+      "nov": "544.9",
+      "dec": "553.8"
+    },
+    "annual": "533"
+  },
+  {
+    "year": 2003,
+    "industry": "Retail Trade",
+    "month": {
+      "jan": "267",
+      "feb": "262.7",
+      "mar": "262.6",
+      "apr": "262.5",
+      "may": "264.1",
+      "jun": "265.8",
+      "jul": "263",
+      "aug": "263.6",
+      "sep": "267.3",
+      "oct": "270",
+      "nov": "277.2",
+      "dec": "284.5"
+    },
+    "annual": "267.5"
+  },
+  {
+    "year": 2003,
+    "industry": "Transportation, Warehousing, and Utilities",
+    "month": {
+      "jan": "119.8",
+      "feb": "119.9",
+      "mar": "120.4",
+      "apr": "118.6",
+      "may": "119.4",
+      "jun": "119.4",
+      "jul": "115.9",
+      "aug": "115.3",
+      "sep": "119.4",
+      "oct": "119.9",
+      "nov": "119.8",
+      "dec": "120.9"
+    },
+    "annual": "119.1"
+  },
+  {
+    "year": 2003,
+    "industry": "Information",
+    "month": {
+      "jan": "163.3",
+      "feb": "167",
+      "mar": "163.9",
+      "apr": "161.8",
+      "may": "166.1",
+      "jun": "163.6",
+      "jul": "161.7",
+      "aug": "164.7",
+      "sep": "163.6",
+      "oct": "164.8",
+      "nov": "168.1",
+      "dec": "166.4"
+    },
+    "annual": "164.6"
+  },
+  {
+    "year": 2003,
+    "industry": "Financial Activities",
+    "month": {
+      "jan": "434.4",
+      "feb": "432.7",
+      "mar": "431.1",
+      "apr": "429.2",
+      "may": "430.6",
+      "jun": "434.2",
+      "jul": "436",
+      "aug": "434.6",
+      "sep": "431.1",
+      "oct": "429.6",
+      "nov": "430.9",
+      "dec": "435.3"
+    },
+    "annual": "432.5"
+  },
+  {
+    "year": 2003,
+    "industry": "Professional and Business Services",
+    "month": {
+      "jan": "531.7",
+      "feb": "531.7",
+      "mar": "535.5",
+      "apr": "535.9",
+      "may": "535.2",
+      "jun": "539.5",
+      "jul": "535.8",
+      "aug": "534.5",
+      "sep": "535.1",
+      "oct": "540.4",
+      "nov": "543.4",
+      "dec": "548.3"
+    },
+    "annual": "537.3"
+  },
+  {
+    "year": 2003,
+    "industry": "Educational Services",
+    "month": {
+      "jan": "155.1",
+      "feb": "167.7",
+      "mar": "169.8",
+      "apr": "169",
+      "may": "166",
+      "jun": "152",
+      "jul": "142.5",
+      "aug": "137.3",
+      "sep": "151.2",
+      "oct": "169.1",
+      "nov": "170.8",
+      "dec": "168.4"
+    },
+    "annual": "159.9"
+  },
+  {
+    "year": 2003,
+    "industry": "Health Care and Social Assistance",
+    "month": {
+      "jan": "509",
+      "feb": "508.8",
+      "mar": "511.8",
+      "apr": "512.5",
+      "may": "513.8",
+      "jun": "516.1",
+      "jul": "512.2",
+      "aug": "508.9",
+      "sep": "511.4",
+      "oct": "516.4",
+      "nov": "518.2",
+      "dec": "520.7"
+    },
+    "annual": "513.3"
+  },
+  {
+    "year": 2003,
+    "industry": "Leisure and Hospitality",
+    "month": {
+      "jan": "250",
+      "feb": "252.6",
+      "mar": "254.3",
+      "apr": "260.4",
+      "may": "263.6",
+      "jun": "266.2",
+      "jul": "260.5",
+      "aug": "257.9",
+      "sep": "263.4",
+      "oct": "266.7",
+      "nov": "269.2",
+      "dec": "270.6"
+    },
+    "annual": "261.3"
+  },
+  {
+    "year": 2003,
+    "industry": "Accommodation and Food Services",
+    "month": {
+      "jan": "194.7",
+      "feb": "196.8",
+      "mar": "197.5",
+      "apr": "200.2",
+      "may": "204.3",
+      "jun": "205.5",
+      "jul": "201.9",
+      "aug": "200.4",
+      "sep": "206.1",
+      "oct": "206.9",
+      "nov": "209",
+      "dec": "210"
+    },
+    "annual": "202.8"
+  },
+  {
+    "year": 2003,
+    "industry": "Other Services",
+    "month": {
+      "jan": "148.5",
+      "feb": "148.9",
+      "mar": "149.9",
+      "apr": "149.5",
+      "may": "150.3",
+      "jun": "150.3",
+      "jul": "148.3",
+      "aug": "146.6",
+      "sep": "147.2",
+      "oct": "149.2",
+      "nov": "149.9",
+      "dec": "150.7"
+    },
+    "annual": "149.1"
+  },
+  {
+    "year": 2003,
+    "industry": "Government",
+    "month": {
+      "jan": "566.4",
+      "feb": "564.4",
+      "mar": "564.3",
+      "apr": "565.7",
+      "may": "565.9",
+      "jun": "567.7",
+      "jul": "579.5",
+      "aug": "568",
+      "sep": "548.2",
+      "oct": "560.4",
+      "nov": "567",
+      "dec": "570.4"
+    },
+    "annual": "565.7"
+  },
+  {
+    "year": 2002,
+    "industry": "Total Nonfarm",
+    "month": {
+      "jan": "3553.10",
+      "feb": "3576.70",
+      "mar": "3595.70",
+      "apr": "3599.40",
+      "may": "3620.50",
+      "jun": "3623.00",
+      "jul": "3602.80",
+      "aug": "3584.20",
+      "sep": "3571.80",
+      "oct": "3617.00",
+      "nov": "3645.10",
+      "dec": "3659.30"
+    },
+    "annual": "3604.10"
+  },
+  {
+    "year": 2002,
+    "industry": "Total Private",
+    "month": {
+      "jan": "2983.80",
+      "feb": "3010.50",
+      "mar": "3024.80",
+      "apr": "3029.30",
+      "may": "3048.20",
+      "jun": "3048.80",
+      "jul": "3007.00",
+      "aug": "3000.40",
+      "sep": "3014.30",
+      "oct": "3049.80",
+      "nov": "3069.40",
+      "dec": "3079.90"
+    },
+    "annual": "3030.50"
+  },
+  {
+    "year": 2002,
+    "industry": "Goods Producing",
+    "month": {
+      "jan": "249.1",
+      "feb": "252",
+      "mar": "254.2",
+      "apr": "255.1",
+      "may": "258.5",
+      "jun": "260.9",
+      "jul": "256.1",
+      "aug": "258.5",
+      "sep": "258.3",
+      "oct": "256.1",
+      "nov": "253.4",
+      "dec": "250.1"
+    },
+    "annual": "255.2"
+  },
+  {
+    "year": 2002,
+    "industry": "Service Providing",
+    "month": {
+      "jan": "3304.00",
+      "feb": "3324.70",
+      "mar": "3341.50",
+      "apr": "3344.30",
+      "may": "3362.00",
+      "jun": "3362.10",
+      "jul": "3346.70",
+      "aug": "3325.70",
+      "sep": "3313.50",
+      "oct": "3360.90",
+      "nov": "3391.70",
+      "dec": "3409.20"
+    },
+    "annual": "3348.90"
+  },
+  {
+    "year": 2002,
+    "industry": "Natural Resources, Mining and Construction",
+    "month": {
+      "jan": "111.6",
+      "feb": "112.2",
+      "mar": "112.9",
+      "apr": "114.4",
+      "may": "115.9",
+      "jun": "117.8",
+      "jul": "117",
+      "aug": "117.8",
+      "sep": "118",
+      "oct": "117.6",
+      "nov": "117.3",
+      "dec": "116.9"
+    },
+    "annual": "115.8"
+  },
+  {
+    "year": 2002,
+    "industry": "Manufacturing",
+    "month": {
+      "jan": "137.5",
+      "feb": "139.8",
+      "mar": "141.3",
+      "apr": "140.7",
+      "may": "142.6",
+      "jun": "143.1",
+      "jul": "139.1",
+      "aug": "140.7",
+      "sep": "140.3",
+      "oct": "138.5",
+      "nov": "136.1",
+      "dec": "133.2"
+    },
+    "annual": "139.4"
+  },
+  {
+    "year": 2002,
+    "industry": "Trade, Transportation, and Utilities",
+    "month": {
+      "jan": "530.3",
+      "feb": "526.4",
+      "mar": "530.1",
+      "apr": "529.8",
+      "may": "533.6",
+      "jun": "537.1",
+      "jul": "527.7",
+      "aug": "527.1",
+      "sep": "536.3",
+      "oct": "541.9",
+      "nov": "551.1",
+      "dec": "561"
+    },
+    "annual": "536"
+  },
+  {
+    "year": 2002,
+    "industry": "Retail Trade",
+    "month": {
+      "jan": "263.7",
+      "feb": "259.5",
+      "mar": "261.9",
+      "apr": "261.8",
+      "may": "264.1",
+      "jun": "267.5",
+      "jul": "264.3",
+      "aug": "264.9",
+      "sep": "268.6",
+      "oct": "271.7",
+      "nov": "281.1",
+      "dec": "290.2"
+    },
+    "annual": "268.3"
+  },
+  {
+    "year": 2002,
+    "industry": "Transportation, Warehousing, and Utilities",
+    "month": {
+      "jan": "119.7",
+      "feb": "119.5",
+      "mar": "120",
+      "apr": "120.5",
+      "may": "121.7",
+      "jun": "121.8",
+      "jul": "117.9",
+      "aug": "115.5",
+      "sep": "120.7",
+      "oct": "121.4",
+      "nov": "120.8",
+      "dec": "121.4"
+    },
+    "annual": "120.1"
+  },
+  {
+    "year": 2002,
+    "industry": "Information",
+    "month": {
+      "jan": "178.8",
+      "feb": "183",
+      "mar": "178.7",
+      "apr": "178.3",
+      "may": "184.1",
+      "jun": "182",
+      "jul": "173.2",
+      "aug": "175.4",
+      "sep": "172.3",
+      "oct": "173.5",
+      "nov": "176.3",
+      "dec": "174.7"
+    },
+    "annual": "177.5"
+  },
+  {
+    "year": 2002,
+    "industry": "Financial Activities",
+    "month": {
+      "jan": "448.3",
+      "feb": "448.3",
+      "mar": "447.3",
+      "apr": "442.2",
+      "may": "442.2",
+      "jun": "446.6",
+      "jul": "446.6",
+      "aug": "445.6",
+      "sep": "440.5",
+      "oct": "440.1",
+      "nov": "439.7",
+      "dec": "441.4"
+    },
+    "annual": "444.1"
+  },
+  {
+    "year": 2002,
+    "industry": "Professional and Business Services",
+    "month": {
+      "jan": "546.8",
+      "feb": "549",
+      "mar": "550.7",
+      "apr": "551.9",
+      "may": "551.7",
+      "jun": "554.9",
+      "jul": "552",
+      "aug": "550.7",
+      "sep": "547.5",
+      "oct": "551.1",
+      "nov": "552.3",
+      "dec": "555.1"
+    },
+    "annual": "551.1"
+  },
+  {
+    "year": 2002,
+    "industry": "Educational Services",
+    "month": {
+      "jan": "148.2",
+      "feb": "161.3",
+      "mar": "164.3",
+      "apr": "164.1",
+      "may": "163",
+      "jun": "148.8",
+      "jul": "139.2",
+      "aug": "134.7",
+      "sep": "149.5",
+      "oct": "164.5",
+      "nov": "167.9",
+      "dec": "165"
+    },
+    "annual": "155.9"
+  },
+  {
+    "year": 2002,
+    "industry": "Health Care and Social Assistance",
+    "month": {
+      "jan": "496",
+      "feb": "498.1",
+      "mar": "500.8",
+      "apr": "502.5",
+      "may": "504.1",
+      "jun": "506.1",
+      "jul": "505.7",
+      "aug": "503.2",
+      "sep": "504.6",
+      "oct": "509.8",
+      "nov": "512.4",
+      "dec": "514.4"
+    },
+    "annual": "504.8"
+  },
+  {
+    "year": 2002,
+    "industry": "Leisure and Hospitality",
+    "month": {
+      "jan": "239.1",
+      "feb": "244.1",
+      "mar": "249.2",
+      "apr": "255.8",
+      "may": "260",
+      "jun": "261.2",
+      "jul": "257.1",
+      "aug": "257.2",
+      "sep": "257.4",
+      "oct": "262.2",
+      "nov": "264.8",
+      "dec": "266.3"
+    },
+    "annual": "256.2"
+  },
+  {
+    "year": 2002,
+    "industry": "Accommodation and Food Services",
+    "month": {
+      "jan": "185.1",
+      "feb": "189.5",
+      "mar": "193.5",
+      "apr": "198.1",
+      "may": "203.2",
+      "jun": "204",
+      "jul": "199.1",
+      "aug": "199.1",
+      "sep": "201.4",
+      "oct": "203.7",
+      "nov": "205.5",
+      "dec": "207.1"
+    },
+    "annual": "199.1"
+  },
+  {
+    "year": 2002,
+    "industry": "Other Services",
+    "month": {
+      "jan": "147.2",
+      "feb": "148.3",
+      "mar": "149.5",
+      "apr": "149.6",
+      "may": "151",
+      "jun": "151.2",
+      "jul": "149.4",
+      "aug": "148",
+      "sep": "147.9",
+      "oct": "150.6",
+      "nov": "151.5",
+      "dec": "151.9"
+    },
+    "annual": "149.7"
+  },
+  {
+    "year": 2002,
+    "industry": "Government",
+    "month": {
+      "jan": "569.3",
+      "feb": "566.2",
+      "mar": "570.9",
+      "apr": "570.1",
+      "may": "572.3",
+      "jun": "574.2",
+      "jul": "595.8",
+      "aug": "583.8",
+      "sep": "557.5",
+      "oct": "567.2",
+      "nov": "575.7",
+      "dec": "579.4"
+    },
+    "annual": "573.5"
+  },
+  {
+    "year": 2001,
+    "industry": "Total Nonfarm",
+    "month": {
+      "jan": "3714.30",
+      "feb": "3726.10",
+      "mar": "3747.50",
+      "apr": "3735.60",
+      "may": "3742.80",
+      "jun": "3744.60",
+      "jul": "3737.10",
+      "aug": "3711.40",
+      "sep": "3671.20",
+      "oct": "3642.40",
+      "nov": "3669.50",
+      "dec": "3678.10"
+    },
+    "annual": "3710.10"
+  },
+  {
+    "year": 2001,
+    "industry": "Total Private",
+    "month": {
+      "jan": "3152.00",
+      "feb": "3172.00",
+      "mar": "3187.40",
+      "apr": "3167.10",
+      "may": "3182.40",
+      "jun": "3184.70",
+      "jul": "3131.00",
+      "aug": "3119.50",
+      "sep": "3120.90",
+      "oct": "3079.90",
+      "nov": "3100.30",
+      "dec": "3107.20"
+    },
+    "annual": "3142.00"
+  },
+  {
+    "year": 2001,
+    "industry": "Goods Producing",
+    "month": {
+      "jan": "275",
+      "feb": "277.5",
+      "mar": "281",
+      "apr": "280.6",
+      "may": "283.5",
+      "jun": "286.8",
+      "jul": "277.1",
+      "aug": "279",
+      "sep": "276.5",
+      "oct": "274.1",
+      "nov": "272",
+      "dec": "267.9"
+    },
+    "annual": "277.6"
+  },
+  {
+    "year": 2001,
+    "industry": "Service Providing",
+    "month": {
+      "jan": "3439.30",
+      "feb": "3448.60",
+      "mar": "3466.50",
+      "apr": "3455.00",
+      "may": "3459.30",
+      "jun": "3457.80",
+      "jul": "3460.00",
+      "aug": "3432.40",
+      "sep": "3394.70",
+      "oct": "3368.30",
+      "nov": "3397.50",
+      "dec": "3410.20"
+    },
+    "annual": "3432.50"
+  },
+  {
+    "year": 2001,
+    "industry": "Natural Resources, Mining and Construction",
+    "month": {
+      "jan": "117.3",
+      "feb": "117.5",
+      "mar": "119.8",
+      "apr": "122",
+      "may": "124.4",
+      "jun": "125.9",
+      "jul": "122.7",
+      "aug": "123.3",
+      "sep": "121.9",
+      "oct": "123.7",
+      "nov": "123.8",
+      "dec": "122.7"
+    },
+    "annual": "122.1"
+  },
+  {
+    "year": 2001,
+    "industry": "Manufacturing",
+    "month": {
+      "jan": "157.7",
+      "feb": "160",
+      "mar": "161.2",
+      "apr": "158.6",
+      "may": "159.1",
+      "jun": "160.9",
+      "jul": "154.4",
+      "aug": "155.7",
+      "sep": "154.6",
+      "oct": "150.4",
+      "nov": "148.2",
+      "dec": "145.2"
+    },
+    "annual": "155.5"
+  },
+  {
+    "year": 2001,
+    "industry": "Trade, Transportation, and Utilities",
+    "month": {
+      "jan": "568",
+      "feb": "564.4",
+      "mar": "565.1",
+      "apr": "559.5",
+      "may": "561.8",
+      "jun": "563.8",
+      "jul": "550.4",
+      "aug": "548.6",
+      "sep": "551.6",
+      "oct": "545.6",
+      "nov": "549.4",
+      "dec": "556.5"
+    },
+    "annual": "557.1"
+  },
+  {
+    "year": 2001,
+    "industry": "Retail Trade",
+    "month": {
+      "jan": "277.9",
+      "feb": "273.4",
+      "mar": "273.6",
+      "apr": "270.1",
+      "may": "271.5",
+      "jun": "273.3",
+      "jul": "266.8",
+      "aug": "268",
+      "sep": "268.5",
+      "oct": "266.7",
+      "nov": "274.7",
+      "dec": "282.4"
+    },
+    "annual": "272.2"
+  },
+  {
+    "year": 2001,
+    "industry": "Transportation, Warehousing, and Utilities",
+    "month": {
+      "jan": "133.5",
+      "feb": "133.9",
+      "mar": "134.2",
+      "apr": "134.1",
+      "may": "135",
+      "jun": "134.9",
+      "jul": "130",
+      "aug": "127.2",
+      "sep": "130.3",
+      "oct": "127",
+      "nov": "123",
+      "dec": "122.2"
+    },
+    "annual": "130.4"
+  },
+  {
+    "year": 2001,
+    "industry": "Information",
+    "month": {
+      "jan": "201.9",
+      "feb": "205",
+      "mar": "204.8",
+      "apr": "202.8",
+      "may": "205",
+      "jun": "203.8",
+      "jul": "202.3",
+      "aug": "200.7",
+      "sep": "197.1",
+      "oct": "195.8",
+      "nov": "198.2",
+      "dec": "195.7"
+    },
+    "annual": "201.1"
+  },
+  {
+    "year": 2001,
+    "industry": "Financial Activities",
+    "month": {
+      "jan": "483.9",
+      "feb": "483.3",
+      "mar": "484.4",
+      "apr": "480.3",
+      "may": "478.9",
+      "jun": "484",
+      "jul": "482.1",
+      "aug": "479.9",
+      "sep": "474.8",
+      "oct": "445.8",
+      "nov": "446.8",
+      "dec": "447.2"
+    },
+    "annual": "472.6"
+  },
+  {
+    "year": 2001,
+    "industry": "Professional and Business Services",
+    "month": {
+      "jan": "593.6",
+      "feb": "596",
+      "mar": "595.9",
+      "apr": "586.5",
+      "may": "585.7",
+      "jun": "588.9",
+      "jul": "586.4",
+      "aug": "584",
+      "sep": "581.5",
+      "oct": "564.1",
+      "nov": "565.7",
+      "dec": "565.6"
+    },
+    "annual": "582.8"
+  },
+  {
+    "year": 2001,
+    "industry": "Educational Services",
+    "month": {
+      "jan": "144.1",
+      "feb": "154.8",
+      "mar": "158",
+      "apr": "157.1",
+      "may": "155.8",
+      "jun": "143.7",
+      "jul": "132.3",
+      "aug": "128.7",
+      "sep": "141.2",
+      "oct": "158.1",
+      "nov": "161.9",
+      "dec": "159.6"
+    },
+    "annual": "149.6"
+  },
+  {
+    "year": 2001,
+    "industry": "Health Care and Social Assistance",
+    "month": {
+      "jan": "482.6",
+      "feb": "484.4",
+      "mar": "486.8",
+      "apr": "488.4",
+      "may": "491.6",
+      "jun": "492.7",
+      "jul": "490",
+      "aug": "489.1",
+      "sep": "488.2",
+      "oct": "497.9",
+      "nov": "501.4",
+      "dec": "505.7"
+    },
+    "annual": "491.6"
+  },
+  {
+    "year": 2001,
+    "industry": "Leisure and Hospitality",
+    "month": {
+      "jan": "255.4",
+      "feb": "258.2",
+      "mar": "261.8",
+      "apr": "262.5",
+      "may": "269.6",
+      "jun": "270",
+      "jul": "261.9",
+      "aug": "262",
+      "sep": "263.8",
+      "oct": "251.2",
+      "nov": "256.2",
+      "dec": "259.4"
+    },
+    "annual": "261"
+  },
+  {
+    "year": 2001,
+    "industry": "Accommodation and Food Services",
+    "month": {
+      "jan": "199",
+      "feb": "200.8",
+      "mar": "202.7",
+      "apr": "203.5",
+      "may": "209.6",
+      "jun": "210.5",
+      "jul": "203.9",
+      "aug": "204.6",
+      "sep": "208.7",
+      "oct": "195.2",
+      "nov": "198.3",
+      "dec": "201.5"
+    },
+    "annual": "203.2"
+  },
+  {
+    "year": 2001,
+    "industry": "Other Services",
+    "month": {
+      "jan": "147.5",
+      "feb": "148.4",
+      "mar": "149.6",
+      "apr": "149.4",
+      "may": "150.5",
+      "jun": "151",
+      "jul": "148.5",
+      "aug": "147.5",
+      "sep": "146.2",
+      "oct": "147.3",
+      "nov": "148.7",
+      "dec": "149.6"
+    },
+    "annual": "148.7"
+  },
+  {
+    "year": 2001,
+    "industry": "Government",
+    "month": {
+      "jan": "562.3",
+      "feb": "554.1",
+      "mar": "560.1",
+      "apr": "568.5",
+      "may": "560.4",
+      "jun": "559.9",
+      "jul": "606.1",
+      "aug": "591.9",
+      "sep": "550.3",
+      "oct": "562.5",
+      "nov": "569.2",
+      "dec": "570.9"
+    },
+    "annual": "568"
+  },
+  {
+    "year": 2000,
+    "industry": "Total Nonfarm",
+    "month": {
+      "jan": "3640.00",
+      "feb": "3663.00",
+      "mar": "3694.70",
+      "apr": "3722.30",
+      "may": "3745.20",
+      "jun": "3753.10",
+      "jul": "3740.70",
+      "aug": "3713.10",
+      "sep": "3729.50",
+      "oct": "3782.90",
+      "nov": "3813.40",
+      "dec": "3836.10"
+    },
+    "annual": "3736.20"
+  },
+  {
+    "year": 2000,
+    "industry": "Total Private",
+    "month": {
+      "jan": "3073.70",
+      "feb": "3100.70",
+      "mar": "3126.50",
+      "apr": "3145.30",
+      "may": "3155.90",
+      "jun": "3179.70",
+      "jul": "3138.30",
+      "aug": "3135.10",
+      "sep": "3178.90",
+      "oct": "3215.00",
+      "nov": "3246.00",
+      "dec": "3265.20"
+    },
+    "annual": "3163.40"
+  },
+  {
+    "year": 2000,
+    "industry": "Goods Producing",
+    "month": {
+      "jan": "283.6",
+      "feb": "288",
+      "mar": "294.3",
+      "apr": "295.2",
+      "may": "297.5",
+      "jun": "302.7",
+      "jul": "297.5",
+      "aug": "301.8",
+      "sep": "304.7",
+      "oct": "303",
+      "nov": "301.6",
+      "dec": "298.1"
+    },
+    "annual": "297.3"
+  },
+  {
+    "year": 2000,
+    "industry": "Service Providing",
+    "month": {
+      "jan": "3356.40",
+      "feb": "3375.00",
+      "mar": "3400.40",
+      "apr": "3427.10",
+      "may": "3447.70",
+      "jun": "3450.40",
+      "jul": "3443.20",
+      "aug": "3411.30",
+      "sep": "3424.80",
+      "oct": "3479.90",
+      "nov": "3511.80",
+      "dec": "3538.00"
+    },
+    "annual": "3438.80"
+  },
+  {
+    "year": 2000,
+    "industry": "Natural Resources, Mining and Construction",
+    "month": {
+      "jan": "109.9",
+      "feb": "110.8",
+      "mar": "114.6",
+      "apr": "116.3",
+      "may": "118.5",
+      "jun": "121.2",
+      "jul": "122.3",
+      "aug": "124.3",
+      "sep": "125.9",
+      "oct": "126.9",
+      "nov": "128.1",
+      "dec": "127.7"
+    },
+    "annual": "120.5"
+  },
+  {
+    "year": 2000,
+    "industry": "Manufacturing",
+    "month": {
+      "jan": "173.7",
+      "feb": "177.2",
+      "mar": "179.7",
+      "apr": "178.9",
+      "may": "179",
+      "jun": "181.5",
+      "jul": "175.2",
+      "aug": "177.5",
+      "sep": "178.8",
+      "oct": "176.1",
+      "nov": "173.5",
+      "dec": "170.4"
+    },
+    "annual": "176.8"
+  },
+  {
+    "year": 2000,
+    "industry": "Trade, Transportation, and Utilities",
+    "month": {
+      "jan": "564.1",
+      "feb": "559.2",
+      "mar": "561.5",
+      "apr": "560.9",
+      "may": "564.4",
+      "jun": "570.7",
+      "jul": "560.4",
+      "aug": "561.9",
+      "sep": "570.5",
+      "oct": "573.9",
+      "nov": "586.4",
+      "dec": "596.6"
+    },
+    "annual": "569.2"
+  },
+  {
+    "year": 2000,
+    "industry": "Retail Trade",
+    "month": {
+      "jan": "279.4",
+      "feb": "274.2",
+      "mar": "275.3",
+      "apr": "275.9",
+      "may": "278",
+      "jun": "281.7",
+      "jul": "276.2",
+      "aug": "278.1",
+      "sep": "281.2",
+      "oct": "283",
+      "nov": "294.5",
+      "dec": "303.7"
+    },
+    "annual": "281.8"
+  },
+  {
+    "year": 2000,
+    "industry": "Transportation, Warehousing, and Utilities",
+    "month": {
+      "jan": "132.9",
+      "feb": "132.7",
+      "mar": "132.8",
+      "apr": "132.9",
+      "may": "133.6",
+      "jun": "134.7",
+      "jul": "131.4",
+      "aug": "130.1",
+      "sep": "135.2",
+      "oct": "136.6",
+      "nov": "136.8",
+      "dec": "137.3"
+    },
+    "annual": "133.9"
+  },
+  {
+    "year": 2000,
+    "industry": "Information",
+    "month": {
+      "jan": "176.8",
+      "feb": "180.5",
+      "mar": "182.4",
+      "apr": "185.8",
+      "may": "188.2",
+      "jun": "191.2",
+      "jul": "190.2",
+      "aug": "180.5",
+      "sep": "193",
+      "oct": "194.5",
+      "nov": "196.6",
+      "dec": "196"
+    },
+    "annual": "188"
+  },
+  {
+    "year": 2000,
+    "industry": "Financial Activities",
+    "month": {
+      "jan": "481.7",
+      "feb": "483.5",
+      "mar": "484",
+      "apr": "483.4",
+      "may": "484",
+      "jun": "492.5",
+      "jul": "490.6",
+      "aug": "491.3",
+      "sep": "488.9",
+      "oct": "489",
+      "nov": "490.6",
+      "dec": "493.6"
+    },
+    "annual": "487.8"
+  },
+  {
+    "year": 2000,
+    "industry": "Professional and Business Services",
+    "month": {
+      "jan": "559.1",
+      "feb": "567.1",
+      "mar": "572.7",
+      "apr": "579",
+      "may": "583",
+      "jun": "592.8",
+      "jul": "593",
+      "aug": "596.5",
+      "sep": "595.4",
+      "oct": "598.6",
+      "nov": "603.7",
+      "dec": "608"
+    },
+    "annual": "587.4"
+  },
+  {
+    "year": 2000,
+    "industry": "Educational Services",
+    "month": {
+      "jan": "140.4",
+      "feb": "148.5",
+      "mar": "152.5",
+      "apr": "153.8",
+      "may": "145.1",
+      "jun": "131.1",
+      "jul": "117.7",
+      "aug": "115.2",
+      "sep": "134",
+      "oct": "154.9",
+      "nov": "156.9",
+      "dec": "156.9"
+    },
+    "annual": "142.3"
+  },
+  {
+    "year": 2000,
+    "industry": "Health Care and Social Assistance",
+    "month": {
+      "jan": "481.7",
+      "feb": "482.8",
+      "mar": "483.3",
+      "apr": "484.8",
+      "may": "488",
+      "jun": "489.5",
+      "jul": "486.1",
+      "aug": "485.6",
+      "sep": "485.3",
+      "oct": "487.1",
+      "nov": "489.4",
+      "dec": "493.1"
+    },
+    "annual": "486.4"
+  },
+  {
+    "year": 2000,
+    "industry": "Leisure and Hospitality",
+    "month": {
+      "jan": "241.8",
+      "feb": "245.6",
+      "mar": "249.1",
+      "apr": "255.7",
+      "may": "258.2",
+      "jun": "261.4",
+      "jul": "256.6",
+      "aug": "256.9",
+      "sep": "260.1",
+      "oct": "264.5",
+      "nov": "270.3",
+      "dec": "271.8"
+    },
+    "annual": "257.7"
+  },
+  {
+    "year": 2000,
+    "industry": "Accommodation and Food Services",
+    "month": {
+      "jan": "188.5",
+      "feb": "191.5",
+      "mar": "193.5",
+      "apr": "197.9",
+      "may": "201.2",
+      "jun": "203",
+      "jul": "199.9",
+      "aug": "199.2",
+      "sep": "203.4",
+      "oct": "206.1",
+      "nov": "209.4",
+      "dec": "211.1"
+    },
+    "annual": "200.4"
+  },
+  {
+    "year": 2000,
+    "industry": "Other Services",
+    "month": {
+      "jan": "144.5",
+      "feb": "145.5",
+      "mar": "146.7",
+      "apr": "146.7",
+      "may": "147.5",
+      "jun": "147.8",
+      "jul": "146.2",
+      "aug": "145.4",
+      "sep": "147",
+      "oct": "149.5",
+      "nov": "150.5",
+      "dec": "151.1"
+    },
+    "annual": "147.4"
+  },
+  {
+    "year": 2000,
+    "industry": "Government",
+    "month": {
+      "jan": "566.3",
+      "feb": "562.3",
+      "mar": "568.2",
+      "apr": "577",
+      "may": "589.3",
+      "jun": "573.4",
+      "jul": "602.4",
+      "aug": "578",
+      "sep": "550.6",
+      "oct": "567.9",
+      "nov": "567.4",
+      "dec": "570.9"
+    },
+    "annual": "572.8"
+  },
+  {
+    "year": 1999,
+    "industry": "Total Nonfarm",
+    "month": {
+      "jan": "3551.90",
+      "feb": "3575.70",
+      "mar": "3600.80",
+      "apr": "3608.40",
+      "may": "3613.10",
+      "jun": "3629.40",
+      "jul": "3648.50",
+      "aug": "3638.90",
+      "sep": "3610.70",
+      "oct": "3680.30",
+      "nov": "3717.00",
+      "dec": "3746.10"
+    },
+    "annual": "3635.10"
+  },
+  {
+    "year": 1999,
+    "industry": "Total Private",
+    "month": {
+      "jan": "2991.90",
+      "feb": "3016.70",
+      "mar": "3037.30",
+      "apr": "3042.90",
+      "may": "3048.50",
+      "jun": "3065.90",
+      "jul": "3042.10",
+      "aug": "3047.40",
+      "sep": "3059.90",
+      "oct": "3115.00",
+      "nov": "3149.20",
+      "dec": "3174.10"
+    },
+    "annual": "3065.90"
+  },
+  {
+    "year": 1999,
+    "industry": "Goods Producing",
+    "month": {
+      "jan": "283.7",
+      "feb": "287.3",
+      "mar": "291.2",
+      "apr": "294.8",
+      "may": "298.7",
+      "jun": "303.5",
+      "jul": "299.7",
+      "aug": "305.1",
+      "sep": "308.1",
+      "oct": "308.7",
+      "nov": "307.8",
+      "dec": "303"
+    },
+    "annual": "299.3"
+  },
+  {
+    "year": 1999,
+    "industry": "Service Providing",
+    "month": {
+      "jan": "3268.20",
+      "feb": "3288.40",
+      "mar": "3309.60",
+      "apr": "3313.60",
+      "may": "3314.40",
+      "jun": "3325.90",
+      "jul": "3348.80",
+      "aug": "3333.80",
+      "sep": "3302.60",
+      "oct": "3371.60",
+      "nov": "3409.20",
+      "dec": "3443.10"
+    },
+    "annual": "3335.80"
+  },
+  {
+    "year": 1999,
+    "industry": "Natural Resources, Mining and Construction",
+    "month": {
+      "jan": "101.6",
+      "feb": "102.6",
+      "mar": "104.6",
+      "apr": "108.3",
+      "may": "110.7",
+      "jun": "113.6",
+      "jul": "114.9",
+      "aug": "117.5",
+      "sep": "118.7",
+      "oct": "119",
+      "nov": "119.2",
+      "dec": "119.2"
+    },
+    "annual": "112.5"
+  },
+  {
+    "year": 1999,
+    "industry": "Manufacturing",
+    "month": {
+      "jan": "182.1",
+      "feb": "184.7",
+      "mar": "186.6",
+      "apr": "186.5",
+      "may": "188",
+      "jun": "189.9",
+      "jul": "184.8",
+      "aug": "187.6",
+      "sep": "189.4",
+      "oct": "189.7",
+      "nov": "188.6",
+      "dec": "183.8"
+    },
+    "annual": "186.8"
+  },
+  {
+    "year": 1999,
+    "industry": "Trade, Transportation, and Utilities",
+    "month": {
+      "jan": "542.9",
+      "feb": "543.7",
+      "mar": "546.1",
+      "apr": "548.5",
+      "may": "551.3",
+      "jun": "555.8",
+      "jul": "545.3",
+      "aug": "547.4",
+      "sep": "553.7",
+      "oct": "564.4",
+      "nov": "578.1",
+      "dec": "589.4"
+    },
+    "annual": "555.6"
+  },
+  {
+    "year": 1999,
+    "industry": "Retail Trade",
+    "month": {
+      "jan": "262.4",
+      "feb": "262.9",
+      "mar": "264.1",
+      "apr": "265.1",
+      "may": "265.8",
+      "jun": "268.8",
+      "jul": "264.9",
+      "aug": "266",
+      "sep": "268.5",
+      "oct": "274.5",
+      "nov": "285.7",
+      "dec": "296.1"
+    },
+    "annual": "270.4"
+  },
+  {
+    "year": 1999,
+    "industry": "Transportation, Warehousing, and Utilities",
+    "month": {
+      "jan": "129.7",
+      "feb": "130",
+      "mar": "130.4",
+      "apr": "130.7",
+      "may": "131.9",
+      "jun": "132.5",
+      "jul": "127.6",
+      "aug": "127.4",
+      "sep": "131.1",
+      "oct": "134",
+      "nov": "134.8",
+      "dec": "135.4"
+    },
+    "annual": "131.3"
+  },
+  {
+    "year": 1999,
+    "industry": "Information",
+    "month": {
+      "jan": "166.5",
+      "feb": "170.3",
+      "mar": "170.3",
+      "apr": "170.5",
+      "may": "170.3",
+      "jun": "172.4",
+      "jul": "176.4",
+      "aug": "177.8",
+      "sep": "175.5",
+      "oct": "175.4",
+      "nov": "177.1",
+      "dec": "179"
+    },
+    "annual": "173.5"
+  },
+  {
+    "year": 1999,
+    "industry": "Financial Activities",
+    "month": {
+      "jan": "478.4",
+      "feb": "478",
+      "mar": "477",
+      "apr": "474.8",
+      "may": "476.6",
+      "jun": "480.8",
+      "jul": "482.1",
+      "aug": "483.3",
+      "sep": "478.4",
+      "oct": "480.7",
+      "nov": "483.5",
+      "dec": "486.1"
+    },
+    "annual": "480"
+  },
+  {
+    "year": 1999,
+    "industry": "Professional and Business Services",
+    "month": {
+      "jan": "531.8",
+      "feb": "538.4",
+      "mar": "544.1",
+      "apr": "545.2",
+      "may": "544.5",
+      "jun": "554.8",
+      "jul": "557.9",
+      "aug": "559.6",
+      "sep": "557.9",
+      "oct": "566.1",
+      "nov": "569",
+      "dec": "577.1"
+    },
+    "annual": "553.9"
+  },
+  {
+    "year": 1999,
+    "industry": "Educational Services",
+    "month": {
+      "jan": "142.3",
+      "feb": "152.4",
+      "mar": "153.7",
+      "apr": "148.2",
+      "may": "141.6",
+      "jun": "130.6",
+      "jul": "122.7",
+      "aug": "117.7",
+      "sep": "125.2",
+      "oct": "145.4",
+      "nov": "148.5",
+      "dec": "147.1"
+    },
+    "annual": "139.6"
+  },
+  {
+    "year": 1999,
+    "industry": "Health Care and Social Assistance",
+    "month": {
+      "jan": "475.7",
+      "feb": "473.3",
+      "mar": "476.3",
+      "apr": "476.7",
+      "may": "478.2",
+      "jun": "479.3",
+      "jul": "477.6",
+      "aug": "476.6",
+      "sep": "477",
+      "oct": "478.4",
+      "nov": "481.5",
+      "dec": "484.8"
+    },
+    "annual": "478"
+  },
+  {
+    "year": 1999,
+    "industry": "Leisure and Hospitality",
+    "month": {
+      "jan": "232.3",
+      "feb": "234.6",
+      "mar": "238.5",
+      "apr": "243.3",
+      "may": "245.7",
+      "jun": "247.1",
+      "jul": "240.4",
+      "aug": "241.1",
+      "sep": "245.1",
+      "oct": "250.8",
+      "nov": "256.6",
+      "dec": "260.4"
+    },
+    "annual": "244.7"
+  },
+  {
+    "year": 1999,
+    "industry": "Accommodation and Food Services",
+    "month": {
+      "jan": "180.6",
+      "feb": "182.1",
+      "mar": "184.4",
+      "apr": "188.9",
+      "may": "191.8",
+      "jun": "193.5",
+      "jul": "188.4",
+      "aug": "188.1",
+      "sep": "191.6",
+      "oct": "196",
+      "nov": "200.1",
+      "dec": "203.2"
+    },
+    "annual": "190.7"
+  },
+  {
+    "year": 1999,
+    "industry": "Other Services",
+    "month": {
+      "jan": "138.3",
+      "feb": "138.7",
+      "mar": "140.1",
+      "apr": "140.9",
+      "may": "141.6",
+      "jun": "141.6",
+      "jul": "140",
+      "aug": "138.8",
+      "sep": "139",
+      "oct": "145.1",
+      "nov": "147.1",
+      "dec": "147.2"
+    },
+    "annual": "141.5"
+  },
+  {
+    "year": 1999,
+    "industry": "Government",
+    "month": {
+      "jan": "560",
+      "feb": "559",
+      "mar": "563.5",
+      "apr": "565.5",
+      "may": "564.6",
+      "jun": "563.5",
+      "jul": "606.4",
+      "aug": "591.5",
+      "sep": "550.8",
+      "oct": "565.3",
+      "nov": "567.8",
+      "dec": "572"
+    },
+    "annual": "569.2"
+  },
+  {
+    "year": 1998,
+    "industry": "Total Nonfarm",
+    "month": {
+      "jan": "3447.10",
+      "feb": "3471.70",
+      "mar": "3504.60",
+      "apr": "3515.60",
+      "may": "3528.80",
+      "jun": "3540.80",
+      "jul": "3554.00",
+      "aug": "3544.50",
+      "sep": "3530.30",
+      "oct": "3589.40",
+      "nov": "3622.00",
+      "dec": "3646.50"
+    },
+    "annual": "3541.30",
+    "analysis": "The unemployment numbers in Total Nonfarm only bump up in two places: around 2001 and around 2008. These two dips are explained by the economic crisis of those times. In the early 2000s, the dot com crash hit the tech sector hard. In 2007 and 2008, the housing sector crashed, resulting in the near collapse of the economy. The unemployment rates then recovered starting in 2009, increasing 27% between 2009 and 2020. Total Nonfarm makes up a large piece of the total unemployment in New York City because it contains the largest category of industries within it."
+  },
+  {
+    "year": 1998,
+    "industry": "Total Private",
+    "month": {
+      "jan": "2897.30",
+      "feb": "2918.70",
+      "mar": "2944.10",
+      "apr": "2956.10",
+      "may": "2969.60",
+      "jun": "2984.50",
+      "jul": "2968.70",
+      "aug": "2970.00",
+      "sep": "2991.70",
+      "oct": "3031.00",
+      "nov": "3056.40",
+      "dec": "3075.80"
+    },
+    "annual": "2980.30",
+    "analysis": "The unemployment numbers in Total Private, like in Total Nonfarm only dip in two places: around 2001 and around 2008. These two dips are explained by the economic crisis of those times. In the early 2000s, the dot com crash hit the tech sector hard. In 2007 and 2008, the housing sector crashed, resulting in the near collapse of the economy. The unemployment rates then recover from 2010 onwards, increasing 29% between 2010 and 2020. Total Private makes up the second largest piece of unemployment numbers and follows the same trends as Total Nonfarm."
+  },
+  {
+    "year": 1998,
+    "industry": "Goods Producing",
+    "month": {
+      "jan": "281.9",
+      "feb": "288.3",
+      "mar": "292.6",
+      "apr": "292.8",
+      "may": "297.5",
+      "jun": "301.7",
+      "jul": "298.6",
+      "aug": "302.6",
+      "sep": "306.5",
+      "oct": "303.8",
+      "nov": "303",
+      "dec": "297.1"
+    },
+    "annual": "297.2",
+    "analysis": "The goods production industry has been on the steady decline from 1998 to 2011. Interestingly enough, the dot com crash did not really affect the goods production industry. In fact, from 1998 to 2001 the industry actually strengthened. This may be because not many of the internet companies that went bankrupt during the crisis were actually based in New York, despite providing their services to its citizens. The decline beginning in 2001 was most likely caused by the closure of many of New York City’s factories. The industry never recovered to its 1999 levels despite its climb starting in 2011, with its employment rate in 2020 being only 76% of the employment rate in 1998. The industry was hit hard during the beginning of the pandemic but has since recovered to about 88% of what it was. This industry follows the trend that many other industries follow, with its employment numbers generally following the different crises."
+  },
+  {
+    "year": 1998,
+    "industry": "Service Providing",
+    "month": {
+      "jan": "3165.20",
+      "feb": "3183.40",
+      "mar": "3212.00",
+      "apr": "3222.80",
+      "may": "3231.30",
+      "jun": "3239.10",
+      "jul": "3255.40",
+      "aug": "3241.90",
+      "sep": "3223.80",
+      "oct": "3285.60",
+      "nov": "3319.00",
+      "dec": "3349.40"
+    },
+    "annual": "3244.10",
+    "analysis": "Although the service industry follows the same general trends as many other industries, it has been steadily strengthening for about 20 years. The crisis in 2008-9 only briefly halted the industry’s climb and it was not at all affected by the dot com crash in 2001. Between 1998 and 2020, the employment numbers increased 36%. The industry was hit hard during the pandemic and is now only at 88% of what it once was."
+  },
+  {
+    "year": 1998,
+    "industry": "Natural Resources, Mining and Construction",
+    "month": {
+      "jan": "91.1",
+      "feb": "92.5",
+      "mar": "94.7",
+      "apr": "96.3",
+      "may": "99",
+      "jun": "102",
+      "jul": "104",
+      "aug": "105.4",
+      "sep": "106.6",
+      "oct": "107.9",
+      "nov": "108.4",
+      "dec": "108"
+    },
+    "annual": "101.3",
+    "analysis": "The Natural Resources, Mining, and Construction industry follows the same patterns as many other industries do. It is interesting to note though that the industry was affected more by the dot com crash in the early 2000s than it was during the COVID-19 pandemic. During the early 2000s, nearly 10% of industry workers lost their jobs while around 8% lost their jobs during the first few months of COVID-19."
+  },
+  {
+    "year": 1998,
+    "industry": "Manufacturing",
+    "month": {
+      "jan": "190.8",
+      "feb": "195.8",
+      "mar": "197.9",
+      "apr": "196.5",
+      "may": "198.5",
+      "jun": "199.7",
+      "jul": "194.6",
+      "aug": "197.2",
+      "sep": "199.9",
+      "oct": "195.9",
+      "nov": "194.6",
+      "dec": "189.1"
+    },
+    "annual": "195.9",
+    "analysis": "Manufacturing has been on a heavy decline since 1998. The decline was accelerated by the economic crisis in 2008 and in 2000 like most industries. Now, the industry is at 34% employment compared to what it was during 1998. During the first few months of COVID-19, the industry dropped to about 80% of what it was beforehand."
+  },
+  {
+    "year": 1998,
+    "industry": "Trade, Transportation, and Utilities",
+    "month": {
+      "jan": "536.8",
+      "feb": "531.2",
+      "mar": "533.2",
+      "apr": "532.2",
+      "may": "536.5",
+      "jun": "539.9",
+      "jul": "532",
+      "aug": "532.6",
+      "sep": "541.6",
+      "oct": "548.3",
+      "nov": "558.3",
+      "dec": "568.6"
+    },
+    "annual": "540.9",
+    "analysis": "The Trade, Transportation, and Utilities industries follow the same trends as many other industries, peaking in early 2000, and in 2019. The industry seemed to have large problems during 2003 and 2004, which could have been caused by some sort of legislation that made it much harder to trade out of New York City. The industry was hit much harder during the early 2000s, however, with employment dropping 7% between 2001 and 2003 compared to 4% between 2008 and 2009. During the first few months of COVID-19, the industry experienced an 11% drop in employment."
+  },
+  {
+    "year": 1998,
+    "industry": "Retail Trade",
+    "month": {
+      "jan": "257.3",
+      "feb": "254.2",
+      "mar": "254.7",
+      "apr": "253.6",
+      "may": "256.2",
+      "jun": "258.3",
+      "jul": "255.3",
+      "aug": "256.3",
+      "sep": "260",
+      "oct": "265.2",
+      "nov": "272.7",
+      "dec": "281.5"
+    },
+    "annual": "260.4",
+    "analysis": "The retail industry follows the same patterns as many other industries do with the industry suffering during the dot com crash, the crash of 2008 and during COVID-19. The industry recovered more than many other industries during COVID-19, only dropping 7% in employment."
+  },
+  {
+    "year": 1998,
+    "industry": "Transportation, Warehousing, and Utilities",
+    "month": {
+      "jan": "129.2",
+      "feb": "126.3",
+      "mar": "127.1",
+      "apr": "127.6",
+      "may": "128.7",
+      "jun": "129.4",
+      "jul": "125.9",
+      "aug": "125.3",
+      "sep": "130.2",
+      "oct": "131.3",
+      "nov": "133",
+      "dec": "134.4"
+    },
+    "annual": "129",
+    "analysis": "The Transportation, Warehousing, and Utilities industry has suffered a lot over the years, following the same trends as many other industries. The employment numbers dropped a lot during the dot com crash and during the housing crisis but steadily climbed afterwards until the COVID-19 pandemic. From the end of the housing crisis until 2019, the industry recovered nearly 24%. During the COVID-19 pandemic, the numbers dropped about 8%."
+  },
+  {
+    "year": 1998,
+    "industry": "Information",
+    "month": {
+      "jan": "162.6",
+      "feb": "164",
+      "mar": "166.4",
+      "apr": "166.2",
+      "may": "168.8",
+      "jun": "167.9",
+      "jul": "166.2",
+      "aug": "168.8",
+      "sep": "166.1",
+      "oct": "168.2",
+      "nov": "170.7",
+      "dec": "169.9"
+    },
+    "annual": "167.2",
+    "analysis": "The information industry, like many other industries, was affected heavily by the housing crisis and the dot-com crash. When the dot-com bubble burst in 2001, employment dropped 21%. The industry slowly struggled to recover until 2010, when it began to grow again. The industry was not hit that hard by the pandemic, however, dropping only 2% during the pandemic’s first few months."
+  },
+  {
+    "year": 1998,
+    "industry": "Financial Activities",
+    "month": {
+      "jan": "472",
+      "feb": "471.3",
+      "mar": "472.1",
+      "apr": "471.6",
+      "may": "473.2",
+      "jun": "478.9",
+      "jul": "482.7",
+      "aug": "483.3",
+      "sep": "479.2",
+      "oct": "476.1",
+      "nov": "477.5",
+      "dec": "479.3"
+    },
+    "annual": "476.4",
+    "analysis": "The information industry, like many other industries, was affected heavily by the housing crisis and the dot-com crash. When the dot-com bubble burst in 2001, employment dropped 14%. The industry recovered until the housing crisis, when it dropped 8%. During the COVID-19 pandemic, the unemployment rate in the finance industry was hit hard and did not really recover, dropping another 6%."
+  },
+  {
+    "year": 1998,
+    "industry": "Professional and Business Services",
+    "month": {
+      "jan": "502",
+      "feb": "506.8",
+      "mar": "513",
+      "apr": "520",
+      "may": "518.4",
+      "jun": "526.7",
+      "jul": "533.9",
+      "aug": "534.2",
+      "sep": "531.9",
+      "oct": "538",
+      "nov": "541.6",
+      "dec": "547.2"
+    },
+    "annual": "526.1",
+    "analysis": "Although the Professional and Business Services industry was hit during the dot com crash and the housing crisis, it has overall grown about 50% between 1998 and 2020. Between 2010 and 2019, employment grew 40%. During the pandemic, however, the industry suffered, dropping nearly 12%."
+  },
+  {
+    "year": 1998,
+    "industry": "Educational Services",
+    "month": {
+      "jan": "134",
+      "feb": "143.9",
+      "mar": "147.3",
+      "apr": "148.4",
+      "may": "140.7",
+      "jun": "131.3",
+      "jul": "124",
+      "aug": "120.5",
+      "sep": "131.1",
+      "oct": "147.7",
+      "nov": "150.1",
+      "dec": "150.2"
+    },
+    "annual": "139.1",
+    "analysis": "The number of people employed in Education has consistently increased since 1998. As expected, every year following May, there is a decrease in the number of people employed in Educational Services. For example, in 2001 from May to June, employment dropped from 15,580 to 13,230. However, every year by September, the number of employed people returns to its value prior to Summer."
+  },
+  {
+    "year": 1998,
+    "industry": "Health Care and Social Assistance",
+    "month": {
+      "jan": "452.6",
+      "feb": "454",
+      "mar": "456.7",
+      "apr": "459.4",
+      "may": "462.5",
+      "jun": "463.7",
+      "jul": "463.6",
+      "aug": "462.7",
+      "sep": "463.9",
+      "oct": "469.2",
+      "nov": "471.4",
+      "dec": "474.4"
+    },
+    "annual": "462.8",
+    "analysis": "Health Care and Social Assistance has been growing since 1998 and has been mostly unaffected by crises, besides Covid-19. Despite Health Care’s importance in solving the Covid-19 crisis, employment numbers dropped from 82,230 to 72,410 just from March to April. Although this is a much less significant drop than in some other industries, such as Leisure and Hospitality, it is still surprising that the number of people employed in healthcare decreased during a pandemic."
+  },
+  {
+    "year": 1998,
+    "industry": "Leisure and Hospitality",
+    "month": {
+      "jan": "224.6",
+      "feb": "227.2",
+      "mar": "229.9",
+      "apr": "232.8",
+      "may": "238.6",
+      "jun": "241.1",
+      "jul": "234.7",
+      "aug": "232.8",
+      "sep": "238.5",
+      "oct": "243.7",
+      "nov": "245.8",
+      "dec": "249.9"
+    },
+    "annual": "236.6",
+    "analysis": "Similar to many other industries, Leisure and Hospitality has been steadily growing since 1998, almost doubling its size in the past two decades. As one could expect due to the lack of travel to New York over the past year, Covid-19 severely impacted the Leisure and Hospitality industry. The number of employed people went from 41,540 to 14,800, a 64% decrease. It has also been slow to recover, as travel has not significantly rebounded."
+  },
+  {
+    "year": 1998,
+    "industry": "Accommodation and Food Services",
+    "month": {
+      "jan": "175.6",
+      "feb": "177.7",
+      "mar": "179.1",
+      "apr": "181.2",
+      "may": "187.4",
+      "jun": "189.1",
+      "jul": "184.6",
+      "aug": "183.5",
+      "sep": "188.2",
+      "oct": "190.7",
+      "nov": "191.4",
+      "dec": "195.5"
+    },
+    "annual": "185.3",
+    "analysis": "The number of people employed in the Accommodation and Food Services industry has doubled since 1998. The industry was not affected severely by the financial crisis, but its employment numbers dropped from 32,920 to 11,390 following the pandemic. This demonstrates the extent to which Covid-19 impacted the Accommodation and Food Services industry."
+  },
+  {
+    "year": 1998,
+    "industry": "Other Services",
+    "month": {
+      "jan": "130.8",
+      "feb": "132",
+      "mar": "132.9",
+      "apr": "132.7",
+      "may": "133.4",
+      "jun": "133.3",
+      "jul": "133",
+      "aug": "132.5",
+      "sep": "132.9",
+      "oct": "136",
+      "nov": "138",
+      "dec": "139.2"
+    },
+    "annual": "133.9",
+    "analysis": "Other Services is one of the least volatile industries. Throughout the past several decades, it has been steadily increasing in employment numbers, and it was not affected that severely by any crises with the exception of Covid-19. From March to April, employment dropped from 19,490 to 13,710, and even now, employment numbers remain 30 thousand lower than they were prior to the pandemic."
+  },
+  {
+    "year": 1998,
+    "industry": "Government",
+    "month": {
+      "jan": "549.8",
+      "feb": "553",
+      "mar": "560.5",
+      "apr": "559.5",
+      "may": "559.2",
+      "jun": "556.3",
+      "jul": "585.3",
+      "aug": "574.5",
+      "sep": "538.6",
+      "oct": "558.4",
+      "nov": "565.6",
+      "dec": "570.7"
+    },
+    "annual": "561",
+    "analysis": "Throughout the past several decades within government, the number of employed people has been slowly rising. However, around the start of Summer, employment numbers usually drop, especially in the late 1990’s and early 2000’s. During the 2008 Financial Crisis, Government employment numbers were not affected that severely. The Government industry was hit hard by Covid-19, as employment numbers dropped from 59,590 to 51,190 from March to June. However, relative to other industries, it had a fairly quick recovery. By August, employment numbers were matching those at the start of the pandemic."
+  }
+]

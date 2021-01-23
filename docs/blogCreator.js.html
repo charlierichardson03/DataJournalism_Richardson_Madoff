@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>JSDoc: Source: blogCreator.js</title>
+
+    <script src="scripts/prettify/prettify.js"> </script>
+    <script src="scripts/prettify/lang-css.js"> </script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link type="text/css" rel="stylesheet" href="styles/prettify-tomorrow.css">
+    <link type="text/css" rel="stylesheet" href="styles/jsdoc-default.css">
+</head>
+
+<body>
+
+<div id="main">
+
+    <h1 class="page-title">Source: blogCreator.js</h1>
+
+    
+
+
+
+    
+    <section>
+        <article>
+            <pre class="prettyprint source linenums"><code>const fs = require('fs');
+const ejs = require('ejs');
+
+
+/**
+ * pages creates an object with all of the unemployment data in it
+ *
+ */
+let pages = fs.readFileSync('DATA/data.json', 'utf8');
+
+// console.log(pages);
+//index.html
+// console.log(pages);
+var blogNames = [];
+pages = JSON.parse(pages);
+/**
+ * blog_template is an fs variable that contains the ejs template for the micropages
+ */
+let blog_template = fs.readFileSync('src/views/blog.ejs', 'utf8');
+/**
+ * industries is an array of all of the different industries
+ */
+let industries = [];
+for (let i = 0; i &lt; pages.length; i++) {
+
+  if (!industries.includes(pages[i].industry)) {
+
+    blogNames.push(pages[i].industry);
+
+    /**
+     * industryfull Is a string of all of the names of the industries that gets split up and is used to name each of the micropages
+     */
+    var industryfull = [];
+
+    industries.push(pages[i].industry);
+
+    for (let j = pages.length - 1; j > 1; j--) {
+
+      if (pages[j].industry == pages[i].industry) {
+
+        /**
+         * industryyear is a variable that contains the unemployment data for each month within a year
+         */
+        var industryyear = {}
+        // console.log(pages[j]);
+        industryyear['title'] = pages[j].year;
+        industryyear['jan'] = pages[j].month.jan;
+        industryyear['feb'] = pages[j].month.feb;
+        industryyear['mar'] = pages[j].month.mar;
+        industryyear['apr'] = pages[j].month.apr;
+        industryyear['may'] = pages[j].month.may;
+        industryyear['jun'] = pages[j].month.jun;
+        industryyear['jul'] = pages[j].month.jul;
+        industryyear['aug'] = pages[j].month.aug;
+        industryyear['sep'] = pages[j].month.sep;
+        industryyear['oct'] = pages[j].month.oct;
+        industryyear['nov'] = pages[j].month.nov;
+        industryyear['dec'] = pages[j].month.dec;
+        industryyear['annual'] = pages[j].annual;
+        industryfull.push(industryyear);
+      }
+    }
+    // console.log(industryfull);
+
+    industryfull = JSON.stringify(industryfull);
+
+    /**
+     * blog_html is a variable that contains the generated html for the micropages
+     */
+    let blog_html = ejs.render(blog_template, {
+      filename: __dirname.replace("/util", "") + '/src/views/blog.ejs',
+      data: industryfull,
+      blogTitles: pages[i].industry
+    });
+    fs.writeFileSync('build/micropages/' + pages[i].industry.replace(/ /g, "-") + '.html', blog_html, 'utf8');
+    // console.log(industryfull);
+    // console.log("bruh moment");
+  }
+}
+pages = JSON.stringify(pages);
+
+/**
+ * index_template is an fs variable that contains the ejs template for the index.html
+ */
+let index_template = fs.readFileSync('src/views/index.ejs', 'utf8');
+/**
+ * index_html is a variable that contains the generated html for index.html
+ */
+let index_html = ejs.render(index_template, {
+  filename: __dirname.replace("/util", "") + '/src/views/index.ejs',
+  data: pages,
+  blogTitles: blogNames
+});
+fs.writeFileSync("build/index.html", index_html, 'utf8');
+//about.html
+//
+  /**
+    * about_template is an fs variable that contains the ejs template for the about.html page
+  */
+let about_template = fs.readFileSync('src/views/about.ejs', 'utf8');
+/**
+ * about_html is a variable that contains the generated html for about.html
+ */
+let about_html = ejs.render(about_template, {
+  filename: __dirname.replace("/util", "") + '/src/views/about.ejs',
+  blogTitles: blogNames
+});
+fs.writeFileSync("build/about.html", about_html, 'utf8');
+</code></pre>
+        </article>
+    </section>
+
+
+
+
+</div>
+
+<nav>
+    <h2><a href="index.html">Home</a></h2><h3>Global</h3><ul><li><a href="global.html#about_html">about_html</a></li><li><a href="global.html#about_template">about_template</a></li><li><a href="global.html#blog_html">blog_html</a></li><li><a href="global.html#blog_template">blog_template</a></li><li><a href="global.html#index_html">index_html</a></li><li><a href="global.html#index_template">index_template</a></li><li><a href="global.html#industries">industries</a></li><li><a href="global.html#industryfull">industryfull</a></li><li><a href="global.html#industryyear">industryyear</a></li><li><a href="global.html#pages">pages</a></li></ul>
+</nav>
+
+<br class="clear">
+
+<footer>
+    Documentation generated by <a href="https://github.com/jsdoc/jsdoc">JSDoc 3.6.6</a> on Fri Jan 22 2021 20:21:05 GMT-0500 (Eastern Standard Time)
+</footer>
+
+<script> prettyPrint(); </script>
+<script src="scripts/linenumber.js"> </script>
+</body>
+</html>

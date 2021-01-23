@@ -1,0 +1,260 @@
+<!-- Peter Madoff and Charlie Richardson Data Journalism Project -->
+<%- include('global/header.ejs'); %>
+<body>
+  <%- include('global/navbar.ejs'); %>
+  <h1> NYC's Employment Over the Past Two Decades </h1>
+  <h3> This webiste presents New York City's employment data from the past several decades. On this main site, one graph summarizes the number of employed people by industry over the past few decades, and three other graphs provide a closer look into three crisis years. </h3>
+  <div id="chart"></div>
+  <!-- <div class="container-fluid">
+    <div class="row"> -->
+      <h2> Crisis Years </h2>
+      <!-- <div class="col-4"> -->
+        <div id="chart1999">
+         1999: Dot Com Crash
+        </div>
+        <br>
+
+          <div id="graph1999"></div>
+      <!-- </div> -->
+      <br>
+      <!-- <div class="col-4"> -->
+        <div id="chart2008">
+           2008: The Financial Crisis
+                </div>
+                <br>
+          <div id="graph2008"></div>
+      <!-- </div> -->
+      <br>
+      <!-- <div class="col-4"> -->
+        <div id="chart2020">
+           2020: Covid-19
+        </div>
+        <br>
+          <div id="graph2020"></div>
+      <!-- </div> -->
+    <!-- </div> -->
+  <!-- </div> -->
+  <script type="text/javascript">
+  var values=(<%- data-%>);
+      var industryarray = [
+      ['x', '1998-1-1', '1999-1-1', '2000-1-1', '2001-1-1', '2002-1-1', '2003-1-1', '2004-1-1', '2005-1-1', '2006-1-1', '2007-1-1', '2008-1-1', '2009-1-1', '2010-1-1', '2011-1-1', '2012-1-1', '2013-1-1', '2014-1-1', '2015-1-1', '2016-1-1',
+        '2017-1-1', '2018-1-1', '2019-1-1'
+      ]
+    ]
+    for (var i = values.length - 1; i >= 0; i--) {
+      var array = [];
+      if (values[i].year == 1998) {
+        array.push(values[i].industry);
+        array.push(values[i].annual);
+        for (var j = i - 1; j >= 0; j--) {
+          if (values[j].industry == values[i].industry && values[j].year != 2020) {
+            for (var k=0; k<values[j].annual.length; k++) {
+
+            }
+            array.push(values[j].annual);
+          }
+        }
+        industryarray.push(array);
+      } else {
+        break;
+      }
+    }
+    console.log(industryarray)
+
+    var chart = c3.generate({
+      size: {
+    height: 700,
+    width: 1100
+      },
+      bindto: '#chart',
+      data: {
+        x: 'x',
+        //        xFormat: '%Y%m%d', // 'xFormat' can be used as custom format of 'x'
+        columns: industryarray
+      },
+      axis: {
+        x: {
+          type: 'timeseries',
+          tick: {
+            format: '%Y-%m-%d'
+          }
+        },
+        y: {
+          label: '# Employed (in thousands)'
+        }
+      }
+    });
+
+    setTimeout(function () {
+    chart.load({
+        columns: []
+    });
+}, 1000);
+
+// 1999 thing
+var yeararray = [
+  ['x', '1999-1-1', '1999-2-1', '1999-3-1', '1999-4-1', '1999-5-1', '1999-6-1', '1999-7-1', '1999-8-1', '1999-9-1', '1999-10-1', '1999-11-1', '1999-12-1']
+]
+for (var i = values.length - 1; i >= 0; i--) {
+  var array2 = [];
+  if (values[i].year == 1999) {
+    array2.push(values[i].industry);
+     array2.push(values[i].month.jan);
+     array2.push(values[i].month.feb);
+     array2.push(values[i].month.mar);
+     array2.push(values[i].month.apr);
+     array2.push(values[i].month.may);
+     array2.push(values[i].month.jun);
+     array2.push(values[i].month.jul);
+     array2.push(values[i].month.aug);
+     array2.push(values[i].month.sep);
+     array2.push(values[i].month.oct);
+     array2.push(values[i].month.nov);
+     array2.push(values[i].month.dec);
+    yeararray.push(array2);
+  }
+  console.log("checking now")
+  }
+  var chartyear1 = c3.generate({
+    size: {
+  height: 700,
+  width: 1100
+    },
+    bindto: '#graph1999',
+    data: {
+      x: 'x',
+      //        xFormat: '%Y%m%d', // 'xFormat' can be used as custom format of 'x'
+      columns: yeararray
+    },
+    axis: {
+      x: {
+        type: 'timeseries',
+        tick: {
+          format: '%Y-%m-%d'
+        }
+      },
+      y: {
+        label: '# Employed (in thousands)'
+      }
+    }
+  });
+
+  setTimeout(function () {
+  chartyear1.load({
+      columns: []
+  });
+}, 1000);
+console.log(yeararray);
+// for 2008
+var yeararray2 = [
+  ['x', '2008-1-1', '2008-2-1', '2008-3-1', '2008-4-1', '2008-5-1', '2008-6-1', '2008-7-1', '2008-8-1', '2008-9-1', '2008-10-1', '2008-11-1', '2008-12-1']
+]
+for (var i = values.length - 1; i >= 0; i--) {
+  var array3 = [];
+  if (values[i].year == 2008) {
+    array3.push(values[i].industry);
+     array3.push(values[i].month.jan);
+     array3.push(values[i].month.feb);
+     array3.push(values[i].month.mar);
+     array3.push(values[i].month.apr);
+     array3.push(values[i].month.may);
+     array3.push(values[i].month.jun);
+     array3.push(values[i].month.jul);
+     array3.push(values[i].month.aug);
+     array3.push(values[i].month.sep);
+     array3.push(values[i].month.oct);
+     array3.push(values[i].month.nov);
+     array3.push(values[i].month.dec);
+    yeararray2.push(array3);
+  }
+  console.log("checking now")
+  }
+  var chartyear2 = c3.generate({
+    size: {
+  height: 700,
+  width: 1100
+    },
+    bindto: '#graph2008',
+    data: {
+      x: 'x',
+      //        xFormat: '%Y%m%d', // 'xFormat' can be used as custom format of 'x'
+      columns: yeararray2
+    },
+    axis: {
+      x: {
+        type: 'timeseries',
+        tick: {
+          format: '%Y-%m-%d'
+        }
+      },
+      y: {
+        label: '# Employed (in thousands)'
+      }
+    }
+  });
+
+  setTimeout(function () {
+  chartyear2.load({
+      columns: []
+  });
+}, 1000);
+console.log(yeararray2);
+var yeararray3 = [
+  ['x', '2020-1-1', '2020-2-1', '2020-3-1', '2020-4-1', '2020-5-1', '2020-6-1', '2020-7-1', '2020-8-1', '2020-9-1', '2020-10-1', '2020-11-1', '2020-10-1']
+]
+for (var i = values.length - 1; i >= 0; i--) {
+  var array4 = [];
+  if (values[i].year == 2020) {
+    array4.push(values[i].industry);
+     array4.push(values[i].month.jan);
+     array4.push(values[i].month.feb);
+     array4.push(values[i].month.mar);
+     array4.push(values[i].month.apr);
+     array4.push(values[i].month.may);
+     array4.push(values[i].month.jun);
+     array4.push(values[i].month.jul);
+     array4.push(values[i].month.aug);
+     array4.push(values[i].month.sep);
+     array4.push(values[i].month.oct);
+    yeararray3.push(array4);
+  }
+  console.log("checking now")
+  }
+  var chartyear3 = c3.generate({
+    size: {
+  height: 700,
+  width: 1100
+    },
+    bindto: '#graph2020',
+    data: {
+      x: 'x',
+      //        xFormat: '%Y%m%d', // 'xFormat' can be used as custom format of 'x'
+      columns: yeararray3
+    },
+    axis: {
+      x: {
+        type: 'timeseries',
+        tick: {
+          format: '%Y-%m-%d'
+        }
+      },
+      y: {
+        label: '# Employed (in thousands)'
+      }
+      }
+  });
+
+  setTimeout(function () {
+  chartyear3.load({
+      columns: []
+  });
+}, 1000);
+console.log(yeararray2);
+</script>
+</body>
+<footer>
+  <%- include('global/footer'); %>
+</footer>
+<br>
+
+</html>
