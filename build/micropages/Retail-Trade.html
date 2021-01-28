@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html>
+<br>
+<head>
+  <meta charset="utf-8" />
+  <meta name="author" content="Peter Madoff and Charlie Richardson">
+  <meta name="description" content="Unemployment">
+  <meta content="text/html" http-equiv="Content-type" />
+  <meta content="width=device-width, initial-scale=1" name="viewport" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+</head>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="../css/styles.css"> 
+
+<!-- Load c3.css -->
+<link href="../../c3-0.7.20/c3.css" rel="stylesheet">
+
+<!-- Load d3.js and c3.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.16.0/d3.min.js" integrity="sha512-FHsFVKQ/T1KWJDGSbrUhTJyS1ph3eRrxI228ND0EGaEp6v4a/vGwPWd3Dtd/+9cI7ccofZvl/wulICEurHN1pg==" crossorigin="anonymous"></script>
+<script src="../../c3-0.7.20/c3.min.js"></script>
+<body>
+<header>
+  <h2> NYC's Employment Trends </h2>
+  <br>
+
+<body>
+  <nav class="navbar navbar-expand-lg">
+  <!-- <a class="navbar-brand" href="#"> <img src="images/logo.png" width="27px" /> NYC's Unemployment Rate</a> -->
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+  <ul class="navbar-nav"> 
+      <li class="nav-item"> 
+        <a class="nav-link" href="../index.html">Home Page</a> 
+      </li> 
+      <li class="nav-item"> 
+        <a class="nav-link" href="../about.html">About Page</a> 
+      </li> 
+      <li class="nav-item dropdown"> 
+        <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown"> 
+          Micropages!</a> 
+        <div class="dropdown-menu"> 
+           
+          <a class="dropdown-item" href=Total-Nonfarm.html>
+            Total Nonfarm
+          </a> 
+           
+          <a class="dropdown-item" href=Total-Private.html>
+            Total Private
+          </a> 
+           
+          <a class="dropdown-item" href=Goods-Producing.html>
+            Goods Producing
+          </a> 
+           
+          <a class="dropdown-item" href=Service-Providing.html>
+            Service Providing
+          </a> 
+           
+          <a class="dropdown-item" href=Natural-Resources,-Mining-and-Construction.html>
+            Natural Resources, Mining and Construction
+          </a> 
+           
+          <a class="dropdown-item" href=Manufacturing.html>
+            Manufacturing
+          </a> 
+           
+          <a class="dropdown-item" href=Trade,-Transportation,-and-Utilities.html>
+            Trade, Transportation, and Utilities
+          </a> 
+           
+          <a class="dropdown-item" href=Retail-Trade.html>
+            Retail Trade
+          </a> 
+           
+          <a class="dropdown-item" href=Transportation,-Warehousing,-and-Utilities.html>
+            Transportation, Warehousing, and Utilities
+          </a> 
+           
+          <a class="dropdown-item" href=Information.html>
+            Information
+          </a> 
+           
+          <a class="dropdown-item" href=Financial-Activities.html>
+            Financial Activities
+          </a> 
+           
+          <a class="dropdown-item" href=Professional-and-Business-Services.html>
+            Professional and Business Services
+          </a> 
+           
+          <a class="dropdown-item" href=Educational-Services.html>
+            Educational Services
+          </a> 
+           
+          <a class="dropdown-item" href=Health-Care-and-Social-Assistance.html>
+            Health Care and Social Assistance
+          </a> 
+           
+          <a class="dropdown-item" href=Leisure-and-Hospitality.html>
+            Leisure and Hospitality
+          </a> 
+           
+          <a class="dropdown-item" href=Accommodation-and-Food-Services.html>
+            Accommodation and Food Services
+          </a> 
+           
+          <a class="dropdown-item" href=Other-Services.html>
+            Other Services
+          </a> 
+           
+          <a class="dropdown-item" href=Government.html>
+            Government
+          </a> 
+           
+        </div> 
+      </li> 
+    </ul> 
+</nav>
+</header>
+
+<title>Micropage</title>
+<h1> Retail Trade Employment Data </h1>
+<br>
+  <h2> Employment Data Since 1998 </h2>
+  <div id="graphannual"></div>
+  <h2> Data for 1998 </h2>
+  <div id="graph1998"></div>
+  <h2> Data for 1999 </h2>
+  <div id="graph1999"></div>
+  <h2> Data for 2000 </h2>
+  <div id="graph2000"></div>
+  <h2> Data for 2001 </h2>
+  <div id="graph2001"></div>
+  <h2> Data for 2002 </h2>
+  <div id="graph2002"></div>
+  <h2> Data for 2003 </h2>
+  <div id="graph2003"></div>
+  <h2> Data for 2004 </h2>
+  <div id="graph2004"></div>
+  <h2> Data for 2005 </h2>
+  <div id="graph2005"></div>
+  <h2> Data for 2006 </h2>
+  <div id="graph2006"></div>
+  <h2> Data for 2006 </h2>
+  <div id="graph2007"></div>
+  <h2> Data for 2008 </h2>
+  <div id="graph2008"></div>
+  <h2> Data for 2009 </h2>
+  <div id="graph2009"></div>
+  <h2> Data for 2010 </h2>
+  <div id="graph2010"></div>
+  <h2> Data for 2011 </h2>
+  <div id="graph2011"></div>
+  <h2> Data for 2012 </h2>
+  <div id="graph2012"></div>
+  <h2> Data for 2013 </h2>
+  <div id="graph2013"></div>
+  <h2> Data for 2014 </h2>
+  <div id="graph2014"></div>
+  <h2> Data for 2015 </h2>
+  <div id="graph2015"></div>
+  <h2> Data for 2016 </h2>
+  <div id="graph2016"></div>
+  <h2> Data for 2017 </h2>
+  <div id="graph2017"></div>
+  <h2> Data for 2018 </h2>
+  <div id="graph2018"></div>
+  <h2> Data for 2019 </h2>
+  <div id="graph2019"></div>
+  <h2> Data for 2020 </h2>
+  <div id="graph2020"></div>
+  <br>
+  <h2> Analysis </h2>
+  <h5> The retail industry follows the same patterns as many other industries do with the industry suffering during the dot com crash, the crash of 2008 and during COVID-19. The industry recovered more than many other industries during COVID-19, only dropping 7% in employment.</h5>
+  <br>
+  <script type="text/javascript">
+  var values=([{"title":1998,"jan":"257.3","feb":"254.2","mar":"254.7","apr":"253.6","may":"256.2","jun":"258.3","jul":"255.3","aug":"256.3","sep":"260","oct":"265.2","nov":"272.7","dec":"281.5","annual":"260.4","analysis":"The retail industry follows the same patterns as many other industries do with the industry suffering during the dot com crash, the crash of 2008 and during COVID-19. The industry recovered more than many other industries during COVID-19, only dropping 7% in employment."},{"title":1999,"jan":"262.4","feb":"262.9","mar":"264.1","apr":"265.1","may":"265.8","jun":"268.8","jul":"264.9","aug":"266","sep":"268.5","oct":"274.5","nov":"285.7","dec":"296.1","annual":"270.4"},{"title":2000,"jan":"279.4","feb":"274.2","mar":"275.3","apr":"275.9","may":"278","jun":"281.7","jul":"276.2","aug":"278.1","sep":"281.2","oct":"283","nov":"294.5","dec":"303.7","annual":"281.8"},{"title":2001,"jan":"277.9","feb":"273.4","mar":"273.6","apr":"270.1","may":"271.5","jun":"273.3","jul":"266.8","aug":"268","sep":"268.5","oct":"266.7","nov":"274.7","dec":"282.4","annual":"272.2"},{"title":2002,"jan":"263.7","feb":"259.5","mar":"261.9","apr":"261.8","may":"264.1","jun":"267.5","jul":"264.3","aug":"264.9","sep":"268.6","oct":"271.7","nov":"281.1","dec":"290.2","annual":"268.3"},{"title":2003,"jan":"267","feb":"262.7","mar":"262.6","apr":"262.5","may":"264.1","jun":"265.8","jul":"263","aug":"263.6","sep":"267.3","oct":"270","nov":"277.2","dec":"284.5","annual":"267.5"},{"title":2004,"jan":"265.3","feb":"262.4","mar":"264.5","apr":"266.2","may":"269.5","jun":"272.9","jul":"272.1","aug":"272.3","sep":"276.7","oct":"279.1","nov":"287.1","dec":"295.8","annual":"273.7"},{"title":2005,"jan":"276.2","feb":"272.2","mar":"273.6","apr":"276.1","may":"278.1","jun":"280.9","jul":"278.2","aug":"279.1","sep":"283","oct":"284.6","nov":"293.8","dec":"302.3","annual":"281.5"},{"title":2006,"jan":"284","feb":"279.2","mar":"280.8","apr":"281.5","may":"283.1","jun":"285.9","jul":"284.5","aug":"283.9","sep":"286.7","oct":"291.5","nov":"302","dec":"308.6","annual":"287.6"},{"title":2007,"jan":"293.1","feb":"287.6","mar":"289.1","apr":"289.1","may":"291.5","jun":"295.5","jul":"293.1","aug":"291.3","sep":"294.4","oct":"297","nov":"309.3","dec":"316.1","annual":"295.6"},{"title":2008,"jan":"298.7","feb":"293.8","mar":"295.1","apr":"294.7","may":"295.7","jun":"298.4","jul":"298.2","aug":"298.2","sep":"300.9","oct":"301.9","nov":"308.9","dec":"312.1","annual":"299.7"},{"title":2009,"jan":"291.2","feb":"286.2","mar":"284.7","apr":"282.8","may":"285.7","jun":"289.6","jul":"288.8","aug":"289.4","sep":"292.9","oct":"296.4","nov":"305.1","dec":"311.8","annual":"292.1"},{"title":2010,"jan":"296.3","feb":"292.5","mar":"293.7","apr":"297.3","may":"298.5","jun":"302.6","jul":"301","aug":"300.9","sep":"303.1","oct":"308.3","nov":"317.2","dec":"322.7","annual":"302.8"},{"title":2011,"jan":"307.8","feb":"304.5","mar":"304.5","apr":"307.2","may":"309","jun":"312.7","jul":"311.3","aug":"312.3","sep":"315.8","oct":"319.6","nov":"331.4","dec":"338","annual":"314.5"},{"title":2012,"jan":"323","feb":"317.8","mar":"318.4","apr":"319.7","may":"322.8","jun":"326.2","jul":"324.7","aug":"325","sep":"328.6","oct":"332.6","nov":"344.6","dec":"350.4","annual":"327.8"},{"title":2013,"jan":"331.3","feb":"328.1","mar":"329.5","apr":"331.2","may":"333.8","jun":"337.5","jul":"337.9","aug":"338.4","sep":"341.2","oct":"345.8","nov":"359.5","dec":"364.4","annual":"339.9"},{"title":2014,"jan":"343.3","feb":"339.5","mar":"339.5","apr":"341.1","may":"343.4","jun":"347","jul":"347","aug":"349.2","sep":"351.6","oct":"357.7","nov":"369.4","dec":"374.3","annual":"350.3"},{"title":2015,"jan":"351.2","feb":"346.8","mar":"346.2","apr":"346.4","may":"349.1","jun":"351.7","jul":"348.9","aug":"348.6","sep":"350.2","oct":"354.1","nov":"365.2","dec":"367.2","annual":"352.1"},{"title":2016,"jan":"348","feb":"343.1","mar":"342.5","apr":"345.1","may":"345.2","jun":"348.2","jul":"346.1","aug":"346","sep":"347.3","oct":"353.1","nov":"364.1","dec":"367.9","annual":"349.7"},{"title":2017,"jan":"351.2","feb":"345.1","mar":"344.1","apr":"345.7","may":"348.4","jun":"349.5","jul":"347.7","aug":"346.8","sep":"348.4","oct":"352.1","nov":"363.2","dec":"366.4","annual":"350.7"},{"title":2019,"jan":"348.9","feb":"342.2","mar":"342.6","apr":"342.7","may":"343.2","jun":"345.7","jul":"343.4","aug":"342.3","sep":"342.3","oct":"345.5","nov":"355.4","dec":"359.1","annual":"346.1"},{"title":2020,"jan":"344.1","feb":"337.6","mar":"330.6","apr":"244.9","may":"259.5","jun":"274.2","jul":"298.4","aug":"302.8","sep":"304","oct":"308.5","nov":"0","dec":"0","annual":"0"}]);
+  console.log(values[0].analysis);
+  //console.log(values);
+    var annualgraph = [
+      ['x', '1998-1-1', '1999-1-1', '2000-1-1', '2001-1-1', '2002-1-1', '2003-1-1', '2004-1-1', '2005-1-1', '2006-1-1', '2007-1-1', '2008-1-1', '2009-1-1', '2010-1-1', '2011-1-1', '2012-1-1', '2013-1-1', '2014-1-1', '2015-1-1', '2016-1-1',
+        '2017-1-1', '2018-1-1', '2019-1-1']
+    ]
+     var annualdata = ['Retail Trade'];
+    for (var i=0; i<values.length-1; i++) {
+        annualdata.push(values[i].annual);
+    }
+    // console.log(annualdata);
+    annualgraph.push(annualdata);
+    // console.log(annualgraph);
+    var annualchart = c3.generate({
+      size: {
+    height: 350,
+    width: 750
+      },
+      bindto: '#graphannual',
+      data: {
+        x: 'x',
+        //        xFormat: '%Y%m%d', // 'xFormat' can be used as custom format of 'x'
+        columns: annualgraph
+      },
+      axis: {
+        x: {
+          type: 'timeseries',
+          tick: {
+            format: '%Y-%m-%d'
+          }
+        },
+        y: {
+          label: '# Employed (in thousands)'
+        }
+
+      }
+    });
+
+    setTimeout(function () {
+    annualchart.load({
+        columns: []
+    });
+  }, 1000);
+for (var i=0; i<values.length; i++) {
+  console.log("oh we running");
+      var yeargraph = [
+        ['x', values[i].title + '-1-1', values[i].title + '-2-1', values[i].title + '-3-1', values[i].title + '-4-1', values[i].title + '-5-1', values[i].title + '-6-1', values[i].title + '-7-1', values[i].title + '-8-1', values[i].title + '-9-1', values[i].title + '-10-1', values[i].title + '-11-1', values[i].title + '-12-1']
+      ]
+      var yeardata = ['Retail Trade'];
+      if (values[i].title!='2020') {
+        yeardata.push(values[i].jan);
+        yeardata.push(values[i].feb);
+        yeardata.push(values[i].mar);
+        yeardata.push(values[i].apr);
+        yeardata.push(values[i].may);
+        yeardata.push(values[i].jul);
+        yeardata.push(values[i].aug);
+        yeardata.push(values[i].sep);
+        yeardata.push(values[i].oct);
+        yeardata.push(values[i].nov);
+        yeardata.push(values[i].dec);
+
+      }
+      else {
+        yeardata.push(values[i].jan);
+        yeardata.push(values[i].feb);
+        yeardata.push(values[i].mar);
+        yeardata.push(values[i].apr);
+        yeardata.push(values[i].may);
+        yeardata.push(values[i].jul);
+        yeardata.push(values[i].aug);
+        yeardata.push(values[i].sep);
+        yeardata.push(values[i].oct);
+      }
+      yeargraph.push(yeardata);
+
+        console.log(yeargraph);
+        var annualchart = c3.generate({
+          size: {
+        height: 250,
+        width: 750
+          },
+          bindto: '#graph' + values[i].title,
+          data: {
+            x: 'x',
+            //        xFormat: '%Y%m%d', // 'xFormat' can be used as custom format of 'x'
+            columns: yeargraph
+          },
+          axis: {
+            x: {
+              type: 'timeseries',
+              tick: {
+                format: '%Y-%m-%d'
+              }
+            },
+            y: {
+              label: '# Employed (in thousands)'
+            }
+          }
+        });
+        setTimeout(function () {
+        annualchart.load({
+            columns: []
+        });
+      }, 1000);
+}
+</script>
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+<footer>
+  <p>Created by Peter Madoff and Charlie Richardson. Published December 2020. All rights reserved. Click <a href="https://www.labor.ny.gov/stats/nyc/">here</a> to view the original data set.</p>
+
+</footer>
+</html>

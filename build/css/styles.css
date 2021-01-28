@@ -1,0 +1,80 @@
+@font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/quicksand/v21/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58a-xw.ttf) format('truetype');
+}
+body {
+  background-color: #bbe3f0;
+}
+header {
+  color: black;
+  font-size: 25px;
+  text-align: center;
+}
+h1 {
+  font-size: 40px;
+  font-family: 'Quicksand', sans-serif;
+}
+nav {
+  font-size: 20px;
+}
+h2 {
+  font-size: 27px;
+  color: black;
+  font-family: 'Quicksand', sans-serif;
+}
+h3 {
+  color: black;
+  border: 5px solid black;
+  border-style: dotted;
+  border-color: black;
+  width: 750px;
+  height: 162px;
+  font-size: 20px;
+  padding: 8px 8px 8px 8px;
+  margin: 25px 25px 25px 40px;
+}
+h4 {
+  font-weight: normal;
+  border: 3px solid black;
+  color: black;
+  background-color: white;
+  width: 400px;
+  font-size: 12px;
+  padding: 10px 10px 10px 10px;
+}
+h5 {
+  font-size: 15px;
+}
+footer {
+  color: black;
+  font-size: 17px;
+}
+#chart1999 {
+  font-size: 20px;
+  font-weight: normal;
+  border: 3px solid black;
+  color: #ed3e1f;
+  background-color: #5cfad0;
+  width: 400px;
+  padding: 10px 10px 10px 10px;
+}
+#chart2008 {
+  font-size: 20px;
+  font-weight: normal;
+  border: 3px solid black;
+  color: #ed3e1f;
+  background-color: #5cfad0;
+  width: 400px;
+  padding: 10px 10px 10px 10px;
+}
+#chart2020 {
+  font-size: 20px;
+  font-weight: normal;
+  border: 3px solid black;
+  color: #ed3e1f;
+  background-color: #5cfad0;
+  width: 400px;
+  padding: 10px 10px 10px 10px;
+}
